@@ -1,4 +1,5 @@
 [Matrix](http://www.imdb.com/title/tt0133093/)
+
 ![Matrix](assets/matrix.jpg)
 
 * IMDB rating: 8.7
@@ -8,6 +9,7 @@
 A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
 [Ghost in the shell](http://www.imdb.com/title/tt0113568/)
+
 ![Ghost_in_the_shell](assets/Ghost_in_the_shell.jpg)
 
 * IMDB rating: 8.0
@@ -17,6 +19,7 @@ A computer hacker learns from mysterious rebels about the true nature of his rea
 A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
 [The Social Network](http://www.imdb.com/title/tt1285016)
+
 ![The_Social_Network](assets/the_social_network.jpg)
 
 * IMDB rating: 7.8
@@ -26,6 +29,7 @@ A female cyborg cop and her partner hunt a mysterious and powerful hacker called
 Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
 
 [Disconnect](http://www.imdb.com/title/tt1433811/)
+
 ![Disconnect](assets/Disconnect.jpg)
 
 * IMDB rating: 7.6
@@ -35,6 +39,7 @@ Harvard student Mark Zuckerberg creates the social networking site that would be
 A drama centered on a group of people searching for human connections in today's wired world.
 
 [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122)
+
 ![Pirates_of_Silicon_Valley](assets/pirates_of_silicon_valley.jpg)
 
 * IMDB rating: 7.2
@@ -44,6 +49,7 @@ A drama centered on a group of people searching for human connections in today's
 History of Apple and Microsoft.
 
 [Khottabych](http://www.imdb.com/title/tt0466043)
+
 ![Khottabych](assets/khottabych.jpg)
 
 * IMDB rating: 6.5
@@ -51,6 +57,7 @@ History of Apple and Microsoft.
 * Country: Russia
 
 [The Internship](http://www.imdb.com/title/tt2234155)
+
 ![The_Internship](assets/the_internship.jpg)
 
 * IMDB rating: 6.3
@@ -60,6 +67,7 @@ History of Apple and Microsoft.
 Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
 
 [Jobs](http://www.imdb.com/title/tt2357129/)
+
 ![Jobs](assets/jobs.jpg)
 
 * IMDB rating: 5.9
@@ -69,6 +77,7 @@ Two salesmen whose careers have been torpedoed by the digital age find their way
 The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.
 
 [Startap](http://www.imdb.com/title/tt3274728/)
+
 ![Startap](assets/startap.jpg)
 
 * IMDB rating: 4.5
@@ -76,6 +85,7 @@ The story of Steve Jobs' ascension from college dropout into one of the most rev
 * Country: Russia
 
 [Debug](http://www.imdb.com/title/tt2769184)
+
 ![Debug](assets/debug.jpg)
 
 * IMDB rating: 4.4

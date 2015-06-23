@@ -1,4 +1,5 @@
 [The IT Crowd](http://www.imdb.com/title/tt0487831)
+
 ![The_IT_Crowd](assets/the_it_crowd.jpg)
 
 * IMDB rating: 8.6
@@ -8,6 +9,7 @@
 The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 
 [Silicon Valley](http://www.imdb.com/title/tt2575988/)
+
 ![silicon_valley](assets/silicon_valley.jpg)
 
 * IMDB rating: 8.5
