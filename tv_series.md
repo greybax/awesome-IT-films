@@ -17,3 +17,13 @@ The comedic adventures of a rag-tag group of technical support workers at a larg
 * Country: USA
 
 In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.
+
+### [The Lone Gunmen](http://www.imdb.com/title/tt0243069)
+
+![The_Lone_Gunmen](assets/the_lone_gunmen.jpg)
+
+* IMDB rating: 7.5
+* Year: 2001-
+* Country: Canada, USA
+
+Spin-off of The X-Files featuring the trio of computer-hacking conspiracy geeks popularly known as The Lone Gunmen. Never ones to stray far from the center of corporate and government intrigue, the threesome of John Byers, Melvin Frohike, and Richard Langly play like a misguided Mission Impossible team, embarking on a series of comic adventures that simultaneously highlight their genius and ineptitude. While their newfound independence inspires them to investigate even the most shadowy of conspiracies, their social skills remain stagnant, which only makes their lives more difficult when they learn their chief competitor in the "information business" is the brilliant and beautiful Yves Adele Harlow. Perpetually short of funds to publish The Lone Gunmen newspaper, Byers, Frohike and Langly begrudgingly take on Jimmy Bond as an unlikely benefactor who bankrolls their missions and joins them in their investigations to uncover the truth.
