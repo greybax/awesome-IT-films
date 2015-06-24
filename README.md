@@ -1,6 +1,6 @@
 # IT-films
 
-List of films and serials about hackers, geeks and IT in common.
+List of movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. If you know a good film which not contains in these lists just send a pull request.
 
 ## List
 

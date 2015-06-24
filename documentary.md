@@ -158,4 +158,146 @@ While Microsoft may be the biggest software company in the world, not every comp
 
 All interviews in this documentary were shot over a long weekend at a 1984 hacker conference by the Whole Earth Catalog editors Stewart Brand and Kevin Kelley in Sausalito, California. The event itself (the hacker conference) was inspired by Steven Levy's classic book "Hackers - Heroes of the Computer Revolution".
 
+### [Deep Web](http://www.imdb.com/title/tt3312868/)
 
+![Deep_Web](assets/deep_web.jpg)
+
+* IMDB rating: 7.3
+* Year: 2015
+* Country: USA
+
+A feature documentary that explores the rise of a new Internet; decentralized, encrypted, dangerous and beyond the law.
+
+### [We Live in Public](http://www.imdb.com/title/tt0498329/)
+
+![We_Live_in_Public](assets/we_live_in_public.jpg)
+
+* IMDB rating: 7.2
+* Year: 2009
+* Country: USA
+
+A documentary focusing on the life of dot-com entrepreneur Josh Harris, and his exploits over the last decade.
+
+### [Steal This Film](http://www.imdb.com/title/tt1422757/)
+
+* IMDB rating: 7.2
+* Year: 2006
+* Country: UK, Germany, Sweden
+
+Steal This Film is part one of a series, documenting the movement against intellectual property produced by The League of Noble Peers and released via the BitTorrent peer-to-peer protocol.
+
+### [Startup.com](http://www.imdb.com/title/tt0256408/)
+
+![Startup.com](assets/startup_com.jpg)
+
+* IMDB rating: 7.1
+* Year: 2001
+* Country: USA
+
+Traces the birth and failure of new media company govWorks.com.
+
+### [Talhotblond](http://www.imdb.com/title/tt1370889/)
+
+![Talhotblond](assets/talhotblond.jpg)
+
+* IMDB rating: 6.9
+* Year: 2009
+* Country: USA
+
+This is the true story of a love triangle that takes place entirely online. Lies lead to murder in real life, as a teenage vixen (screen name 'talhotblond') lures men into her web. Revealing a shocking true crime story that shows the Internet's power to unleash our most dangerous fantasies.
+
+### [Google and the World Brain](http://www.imdb.com/title/tt2551516/)
+
+![Google_and_the_World_Brain](assets/google_and_the_world_brain.jpg)
+
+* IMDB rating: 6.9
+* Year: 2013
+* Country: Spain, UK, Germany
+
+The most ambitious project ever conceived on the Internet: Google's master plan to scan every book in the world and the people trying to stop them. Google say they are building a library for mankind, but they also have other intentions.
+
+### [We Steal Secrets: The Story of WikiLeaks](http://www.imdb.com/title/tt1824254/)
+
+![We_Steal_Secrets_The_Story_of_WikiLeaks](assets/we_steal_secrets_the_story_of_wikiLeaks.jpg)
+
+* IMDB rating: 6.8
+* Year: 2013
+* Country: USA
+
+A documentary that details the creation of Julian Assange's controversial website, which facilitated the largest security breach in U.S. history.
+
+### [Downloaded](http://www.imdb.com/title/tt2033981/)
+
+![Downloaded](assets/downloaded.jpg)
+
+* IMDB rating: 6.8
+* Year: 2013
+* Country: USA
+
+A documentary that explores the downloading revolution; the kids that created it, the bands and the businesses that were affected by it, and its impact on the world at large.
+
+### [Home Page](http://www.imdb.com/title/tt0144969/)
+
+* IMDB rating: 6.5
+* Year: 1998
+* Country: Germany, USA
+
+### [Hackers Wanted](http://www.imdb.com/title/tt2292707/)
+
+* IMDB rating: 6.5
+* Year: 2009
+* Country: USA
+
+This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought - from the criminal to the philosophical.
+
+### [The Hacker Wars](http://www.imdb.com/title/tt4047350/)
+
+![The_Hacker_Wars](assets/the_hacker_wars.jpg)
+
+* IMDB rating: 6.1
+* Year: 2014
+* Country: USA
+
+Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy
+
+### [Hackers Are People Too](http://www.imdb.com/title/tt1279942/)
+
+![Hackers_Are_People_Too](assets/hackers_are_people_too.jpg)
+
+* IMDB rating: 6.0
+* Year: 2008
+* Country: USA
+
+Hackers do laundry. Hackers like movies. Hackers are people and could be your neighbors, your brother, your friends. Presenting a portrait of the hacking community, created by the community themselves, this film breaks down negative stereotypes by letting hackers show you that they are really no different from anyone else. Delving into areas such as the way hackers think, what is hacking, hackers in the media, and women in the security/hacking field, this film will have you questioning your ideas about what a 'hacker' really is.
+
+### [Hackers: Outlaws and Angels](http://www.imdb.com/title/tt1977808/)
+
+* IMDB rating: 5.9
+* Year: 2002
+* Country: UK
+
+### [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/)
+
+![DEFCON_The_Documentary](assets/defcon_the_documentary.jpg)
+
+* IMDB rating: 5.4
+* Year: 2013
+* Country: USA
+
+DEFCON is the world's largest hacking conference, held in Las Vegas, Nevada. In 2012 it was held for the 20th time. The conference has strict no-filming policies, but for DEFCON 20, a documentary crew was allowed full access to the event. The film follows the four days of the conference, the events and people (attendees and staff), and covers history and philosophy behind DEFCON's success and unique experience.
+
+### [Hacker](http://www.imdb.com/title/tt1769296/)
+
+* IMDB rating: 5.2
+* Year: 2010
+* Country: Germany
+
+### [War for the Web](http://www.imdb.com/title/tt2390367/)
+
+![War_for_the_Web](assets/war_for_the_web.jpg)
+
+* IMDB rating: Not yet released
+* Year: 2015
+* Country: USA
+
+War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
