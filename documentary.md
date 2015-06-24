@@ -8,8 +8,6 @@ Three part documentary that shows the insight look at the history of computers, 
 
 ### [The KGB, the Computer and Me](http://www.imdb.com/title/tt0308449/)
 
-![The_KGB_the_Computer_and_Me](assets/the_kgb_the_computer_and_me.jpg)
-
 * IMDB rating: 8.4
 * Year: 1990
 * Country: USA
