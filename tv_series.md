@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ### [The IT Crowd](http://www.imdb.com/title/tt0487831)
 
 ![The_IT_Crowd](assets/the_it_crowd.jpg)

@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ### [Matrix](http://www.imdb.com/title/tt0133093/)
 
 ![Matrix](assets/matrix.jpg)
