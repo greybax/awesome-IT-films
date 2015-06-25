@@ -453,6 +453,14 @@ A furloughed convict and his American and Chinese partners hunt a high-level cyb
 
 A jilted fan soon finds himself pulled into a deadly game of cat-and-mouse after he accepts the opportunity to spy on his favorite actress via his laptop.
 
+### [Algorithm](http://www.imdb.com/title/tt3293462)
+
+* IMDB rating: 5.1
+* Year: 2014
+* Country: USA
+
+A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.
+
 ### [Startap](http://www.imdb.com/title/tt3274728/)
 
 ![Startap](assets/startap.jpg)
@@ -481,3 +489,13 @@ Six young computer hackers sent to work on a derelict spaceship, are forced to m
 * Country: USA
 
 A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
+
+### [Hacker](http://www.imdb.com/title/tt3173594)
+
+![Hacker](assets/hacker.jpg)
+
+* IMDB rating: Not yet released
+* Year: 2015
+* Country: USA, Thailand, Kazakhstan, Hong Kong, Canada
+
+Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
