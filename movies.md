@@ -128,6 +128,15 @@ James Bond teams up with the lone survivor of a destroyed Russian research cente
 
 Complex but lighthearted thriller about computers and cryptography, government and espionage, secrets and deception and betrayal.
 
+### [Artificial Intelligence: AI](http://www.imdb.com/title/tt0212720/)
+
+![Artificial_Intelligence_AI](assets/artificial_intelligence_ai.jpg)
+
+* IMDB rating: 7.1
+* Year: 2001
+* Country: USA
+
+A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
 
 ### [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)
 
@@ -403,6 +412,16 @@ In a future mind-controlling game, death row convicts are forced to battle in a 
 
 A security specialist is forced into robbing the bank that he's protecting, as a bid to pay off his family's ransom.
 
+### [Purpose](http://www.imdb.com/title/tt0257019/)
+
+![Purpose](assets/purpose.jpg)
+
+* IMDB rating: 5.7
+* Year: 2002
+* Country: USA
+
+A software developer becomes a billionaire and is distracted by fame, greed and power, then must save his invention and company from a hostile takeover.
+
 ### [Virtuosity](http://www.imdb.com/title/tt0114857/)
 
 ![Virtuosity](assets/virtuosity.jpg)
@@ -443,6 +462,16 @@ A simple man is turned into a genius through the application of computer science
 
 A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.
 
+### [iSteve](http://www.imdb.com/title/tt2782834)
+
+![iSteve](assets/isteve.jpg)
+
+* IMDB rating: 5.4
+* Year: 2013
+* Country: USA
+
+A comedic look at the life of Steve Jobs.
+
 ### [Open Windows](http://www.imdb.com/title/tt2409818/)
 
 ![Open_Windows](assets/open_windows.jpg)
@@ -479,7 +508,6 @@ A freelance computer hacker discovers a mysterious government computer program. 
 
 Six young computer hackers sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.
 
-
 ### [Reboot](http://www.imdb.com/title/tt2090594/)
 
 ![Reboot](assets/reboot.jpg)
@@ -490,6 +518,14 @@ Six young computer hackers sent to work on a derelict spaceship, are forced to m
 
 A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
 
+### [Terminal Error](http://www.imdb.com/title/tt0283542)
+
+* IMDB rating: 4.0
+* Year: 2002
+* Country: USA
+
+Powerful automation software begins to make decisions for itself.
+
 ### [Hacker's Game](http://www.imdb.com/title/tt3140724)
 
 ![Hackers_Game](assets/hackers_game.jpg)
@@ -499,6 +535,14 @@ A young female hacker awakens from a traumatic event that she scarcely remembers
 * Country: USA, France
 
 A love story between two hackers, Soyan and Loise. Like many other hackers, Soyan works for a company he previously hacked.
+
+### [Y2K](http://www.imdb.com/title/tt0215370/)
+
+* IMDB rating: 3.2
+* Year: 1999
+* Country: USA, Canada
+
+It's millennium eve. At the stroke of midnight the Y2K computer bug kicks in, causing widespread chaos in the US.
 
 ### [Hacker](http://www.imdb.com/title/tt3173594)
 
