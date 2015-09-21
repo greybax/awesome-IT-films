@@ -1,5 +1,15 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+### [Mr. Robot](http://www.imdb.com/title/tt4158110)
+
+![Mr_Robot](assets/mr_robot.jpg)
+
+* IMDB rating: 9.0
+* Year: 2015-
+* Country: USA
+
+Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
+
 ### [The IT Crowd](http://www.imdb.com/title/tt0487831)
 
 ![The_IT_Crowd](assets/the_it_crowd.jpg)
