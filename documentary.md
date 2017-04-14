@@ -250,6 +250,16 @@ A documentary that explores the downloading revolution; the kids that created it
 
 This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought - from the criminal to the philosophical.
 
+### [Silicon Cowboys](http://www.imdb.com/title/tt4938484/)
+
+![Silicon_Cowboys](assets/silicon_cowboys.jpg)
+
+* IMDB rating: 6.4
+* Year: 2016
+* Country: USA
+
+Three friends dream up the Compaq portable computer at a Texas diner in 1981, and soon find themselves battling mighty IBM, for PC supremacy. Their improbable journey altered the future of computing and shaped the world we now know.
+
 ### [The Hacker Wars](http://www.imdb.com/title/tt4047350/)
 
 ![The_Hacker_Wars](assets/the_hacker_wars.jpg)
