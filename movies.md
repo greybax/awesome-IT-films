@@ -276,6 +276,16 @@ A secretive renegade counter-terrorist co-opts the world's greatest hacker (who 
 
 Brilliant researchers Lillian Reynolds and Michael Brace have developed a system of recording and playing back actual experiences of people. Once the capability of tapping into "higher brain functions" is added in, and you can literally jump into someone else's head and play back recordings of what he or she was thinking, feeling, seeing, etc., at the time of the recording, the applications for the project quickly spiral out of control. While Michael Brace uses the system to become close again to Karen Brace, his estranged wife who also works on the project, others start abusing it for intense sexual experiences and other logical but morally questionable purposes. The government tries to kick Michael and Lillian off the project once the vast military potential of the technology is discovered. It soon becomes obvious that the government is interested in more than just missile guidance systems. The lab starts producing mind torture recordings and other psychosis inducing material. When one of the researchers dies and tapes the experience of death, Michael is convinced that he must playback this tape to honor the memory of the researcher and to become enlightened. When another researcher dies during playback the tape is locked away and Michael has to fight against his former colleagues and the government lackeys that now run his lab in order to play back and confront the "scariest thing any of us will ever face" - death itself.
 
+### [Electric Dreams](http://www.imdb.com/title/tt0087197)
+
+![Electric_Dreams](assets/electric_dreams.jpg)
+
+* IMDB rating: 6.5
+* Year: 1984
+* Country: Russia
+
+An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman.
+
 ### [Khottabych](http://www.imdb.com/title/tt0466043)
 
 ![Khottabych](assets/khottabych.jpg)
