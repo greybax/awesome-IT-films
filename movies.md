@@ -10,6 +10,16 @@
 
 A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
+### [Donnie Darko](http://www.imdb.com/title/tt0246578/?ref_=ttpl_pl_tt)
+
+![Donnie_Darko](assets/donnie.jpg)
+
+* IMDB rating: 8.1
+* Year: 2001
+* Country: USA
+
+A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.
+
 ### [Ghost in the shell](http://www.imdb.com/title/tt0113568/)
 
 ![Ghost_in_the_shell](assets/Ghost_in_the_shell.jpg)
