@@ -10,6 +10,15 @@
 
 A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
+### [Snowden](http://www.imdb.com/title/tt3774114/)
+
+![Snowden](assets/Snowden_film_poster_hr.jpg)
+
+* IMDB rating: 7.3
+* Year: 2016
+* Country: France, Germany, USA
+The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.
+
 ### [Ghost in the shell](http://www.imdb.com/title/tt0113568/)
 
 ![Ghost_in_the_shell](assets/Ghost_in_the_shell.jpg)
