@@ -40,6 +40,16 @@ In the high-tech gold rush of modern Silicon Valley, the people most qualified t
 
 An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 
+### [Chuck](http://www.imdb.com/title/tt0934814/)
+
+![chuck](assets/chuck.jpg)
+
+* IMDB rating: 8.2
+* Year: 2007-2012
+* Country: USA
+
+When a twenty-something computer geek inadvertently downloads critical government secrets into his brain, the C.I.A. and the N.S.A. assign two Agents to protect him, and exploit such knowledge, turning his life upside down.
+
 ### [The Lone Gunmen](http://www.imdb.com/title/tt0243069)
 
 ![The_Lone_Gunmen](assets/the_lone_gunmen.jpg)
