@@ -49,3 +49,13 @@ Spin-off of The X-Files featuring the trio of computer-hacking conspiracy geeks 
 * Country: Japan
 
 In 2015, CC Corporation's data-center caught on fire destroying "The World". By splicing in data from what would have been another project, CC Corp. was able to rebuild the game. In 2016, "The World R:2" was released. .hack//Roots covers the time Haseo spent with Shino and Ovan in the guild known as the Twilight Brigade, before the .hack//G.U. PS2 games.
+
+### [Person of Interest](http://www.imdb.com/title/tt1839578/)
+
+![person of interest](assets/person_of_interest.jpg)
+
+* IMDB rating: 8.5
+* Year: 2011-2016
+* Country: USA
+
+An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 

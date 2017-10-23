@@ -563,3 +563,13 @@ It's millennium eve. At the stroke of midnight the Y2K computer bug kicks in, ca
 * Country: USA, Thailand, Kazakhstan, Hong Kong, Canada
 
 Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
+
+### [Ex Machina](http://www.imdb.com/title/tt0470752/)
+
+![ex_machina](assets/ex_machina.jpg)
+
+* IMDB rating: 7.7
+* Year: 2014
+* Country: USA
+
+A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I. 
