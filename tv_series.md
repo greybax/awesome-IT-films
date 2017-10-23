@@ -30,6 +30,16 @@ The comedic adventures of a rag-tag group of technical support workers at a larg
 
 In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.
 
+### [Person of Interest](http://www.imdb.com/title/tt1839578/)
+
+![person of interest](assets/person_of_interest.jpg)
+
+* IMDB rating: 8.5
+* Year: 2011-2016
+* Country: USA
+
+An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
+
 ### [The Lone Gunmen](http://www.imdb.com/title/tt0243069)
 
 ![The_Lone_Gunmen](assets/the_lone_gunmen.jpg)
@@ -49,13 +59,3 @@ Spin-off of The X-Files featuring the trio of computer-hacking conspiracy geeks 
 * Country: Japan
 
 In 2015, CC Corporation's data-center caught on fire destroying "The World". By splicing in data from what would have been another project, CC Corp. was able to rebuild the game. In 2016, "The World R:2" was released. .hack//Roots covers the time Haseo spent with Shino and Ovan in the guild known as the Twilight Brigade, before the .hack//G.U. PS2 games.
-
-### [Person of Interest](http://www.imdb.com/title/tt1839578/)
-
-![person of interest](assets/person_of_interest.jpg)
-
-* IMDB rating: 8.5
-* Year: 2011-2016
-* Country: USA
-
-An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
