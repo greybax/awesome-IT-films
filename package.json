@@ -1,0 +1,30 @@
+{
+  "name": "it-films",
+  "version": "1.0.0",
+  "description": "List of movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greybax/IT-films.git"
+  },
+  "keywords": [
+    "movies",
+    "geek",
+    "hacking",
+    "IT"
+  ],
+  "author": "Aleksandr Filatov",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/greybax/IT-films/issues"
+  },
+  "homepage": "https://github.com/greybax/IT-films#readme",
+  "devDependencies": {
+    "docsify": "^4.3.15"
+  }
+}
