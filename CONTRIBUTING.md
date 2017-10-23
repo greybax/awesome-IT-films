@@ -12,4 +12,6 @@
 Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 ```
 
-_**Please note**_ films should be sorted by ratings **asc**
+_**Please note**_ 
+ - Films should be sorted by ratings **asc**
+ - Any film from this collection should be somehow related with programmers, developers (describe developers life, mentions about any of programming languages, IT technologies, etc..)
