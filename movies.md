@@ -17,6 +17,7 @@ A computer hacker learns from mysterious rebels about the true nature of his rea
 * IMDB rating: 7.3
 * Year: 2016
 * Country: France, Germany, USA
+
 The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.
 
 ### [Ghost in the shell](http://www.imdb.com/title/tt0113568/)
