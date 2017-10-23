@@ -50,6 +50,16 @@ Three company workers who hate their jobs decide to rebel against their greedy b
 
 In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
+### [Ex Machina](http://www.imdb.com/title/tt0470752/)
+
+![ex_machina](assets/ex_machina.jpg)
+
+* IMDB rating: 7.7
+* Year: 2014
+* Country: USA
+
+A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.
+
 ### [Disconnect](http://www.imdb.com/title/tt1433811/)
 
 ![Disconnect](assets/Disconnect.jpg)

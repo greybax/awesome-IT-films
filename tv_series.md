@@ -30,6 +30,16 @@ The comedic adventures of a rag-tag group of technical support workers at a larg
 
 In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.
 
+### [Person of Interest](http://www.imdb.com/title/tt1839578/)
+
+![person of interest](assets/person_of_interest.jpg)
+
+* IMDB rating: 8.5
+* Year: 2011-2016
+* Country: USA
+
+An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
+
 ### [The Lone Gunmen](http://www.imdb.com/title/tt0243069)
 
 ![The_Lone_Gunmen](assets/the_lone_gunmen.jpg)
