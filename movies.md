@@ -70,6 +70,16 @@ A drama centered on a group of people searching for human connections in today's
 
 The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
 
+### [Snowden](http://www.imdb.com/title/tt3774114/)
+
+![Snowden](assets/Snowden_film_poster_hr.jpg)
+
+* IMDB rating: 7.3
+* Year: 2016
+* Country: France, Germany, USA
+
+The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.
+
 ### [Cyberbully](http://www.imdb.com/title/tt4135218/)
 
 * IMDB rating: 7.3
