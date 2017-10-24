@@ -196,6 +196,16 @@ Computer scientist Hannon Fuller has discovered something extremely important. H
 
 Teenage geniuses deal with their abilities while developing a laser.
 
+### [Primer](http://www.imdb.com/title/tt0390384/)
+
+![Primer](assets/primer.jpg)
+
+* IMDB rating: 6.9
+* Year: 2004
+* Country: USA
+
+Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
+
 ### [The Score](http://www.imdb.com/title/tt0227445/)
 
 ![The Score](assets/the_score.jpg)
