@@ -72,7 +72,7 @@ A drama centered on a group of people searching for human connections in today's
 
 ### [Who am I - No system is safe.](http://www.imdb.com/title/tt3042408/)
 
-![Who am I](assets/whoami.jpg)
+![Who am I](assets/who_am_i.jpg)
 
 * IMDB rating: 7.6
 * Year: 2014
