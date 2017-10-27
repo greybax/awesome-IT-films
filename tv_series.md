@@ -15,12 +15,11 @@
 ## [Documentary](documentary.md)
 ## [TV Series](tv_series.md)
 
-- [9.0 :star:](#_90)
-  - [Mr. Robot](#mr-robot)
 - [8.6 :star:](#_86)
+  - [Mr. Robot](#mr-robot)
   - [The IT Crowd](#the-it-crowd)
-- [8.5 :star:](#_85)
   - [Silicon Valley](#silicon-valley)
+- [8.5 :star:](#_85)
   - [Person of Interest](#person-of-interest)
 - [8.2 :star:](#_82)
   - [Chuck](#chuck)
@@ -29,7 +28,7 @@
 - [6.6 :star:](#_66)
   - [ .hack//Roots](#hack_roots)
 
-### 9.0
+### 8.6
 
 #### Mr. Robot
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
@@ -39,8 +38,6 @@
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt4158110)
 
-### 8.6
-
 #### The IT Crowd
 > The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 
@@ -49,8 +46,6 @@
 * Country: UK
 * [_IMDb_](http://www.imdb.com/title/tt0487831)
 
-### 8.5
-
 #### Silicon Valley
 > In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.
 
@@ -58,6 +53,8 @@
 * Year: 2014-
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt2575988/)
+
+### 8.5
 
 #### Person of Interest
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
