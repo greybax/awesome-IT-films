@@ -40,8 +40,24 @@
 - [6.9 :star:](#_69)
   - [Google and the World Brain](#google-and-the-world-brain)
   - [We Steal Secrets: The Story of WikiLeaks](#we-steal-secrets-the-story-of-wikiLeaks)
+  - [Downloaded](#downloaded)
 - [6.8 :star:](#_68)
   - [Talhotblond](#talhotblond)
+- [6.7 :star:](#_67)
+  - [Silicon Cowboys](#silicon-cowboys)
+- [6.6 :star:](#_66)
+  - [Home Page](#home-page)
+  - [The Hacker Wars](#the-hacker-wars)
+- [6.4 :star:](#_64)
+  - [Hackers Wanted](#hackers-wanted)
+- [6.2 :star:](#_62)
+  - [Hackers: Outlaws and Angels](#hackers-outlaws-and-angels)
+- [6.0 :star:](#_60)
+  - [Hackers Are People Too](#hackers-are-people-too)
+  - [DEFCON: The Documentary](#defcon-the-documentary)
+  - [War for the Web](#war-for-the-web)
+- [5.5 :star:](#_55)
+  - [Hacker](#hacker)
 
 ### 8.5
 
@@ -248,6 +264,15 @@
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt1824254/)
 
+#### Downloaded
+> A documentary that explores the downloading revolution; the kids that created it, the bands and the businesses that were affected by it, and its impact on the world at large.
+
+![Downloaded](assets/downloaded.jpg)
+* IMDB rating: 6.8
+* Year: 2013
+* Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt2033981/)
+
 ### 6.8
 
 #### Talhotblond
@@ -258,88 +283,79 @@
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt1370889/)
 
-### [Downloaded](http://www.imdb.com/title/tt2033981/)
+### 6.7
 
-![Downloaded](assets/downloaded.jpg)
-
-* IMDB rating: 6.8
-* Year: 2013
-* Country: USA
-
-A documentary that explores the downloading revolution; the kids that created it, the bands and the businesses that were affected by it, and its impact on the world at large.
-
-### [Home Page](http://www.imdb.com/title/tt0144969/)
-
-* IMDB rating: 6.5
-* Year: 1998
-* Country: Germany, USA
-
-### [Hackers Wanted](http://www.imdb.com/title/tt2292707/)
-
-* IMDB rating: 6.5
-* Year: 2009
-* Country: USA
-
-This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought - from the criminal to the philosophical.
-
-### [Silicon Cowboys](http://www.imdb.com/title/tt4938484/)
+#### Silicon Cowboys
+> Three friends dream up the Compaq portable computer at a Texas diner in 1981, and soon find themselves battling mighty IBM, for PC supremacy. Their improbable journey altered the future of computing and shaped the world we now know.
 
 ![Silicon_Cowboys](assets/silicon_cowboys.jpg)
-
-* IMDB rating: 6.4
 * Year: 2016
 * Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt4938484/)
 
-Three friends dream up the Compaq portable computer at a Texas diner in 1981, and soon find themselves battling mighty IBM, for PC supremacy. Their improbable journey altered the future of computing and shaped the world we now know.
+### 6.6
 
-### [The Hacker Wars](http://www.imdb.com/title/tt4047350/)
+#### Home Page
+
+* Year: 1998
+* Country: Germany, USA
+* [_IMDb_](http://www.imdb.com/title/tt0144969/)
+
+#### The Hacker Wars
+> Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy
 
 ![The_Hacker_Wars](assets/the_hacker_wars.jpg)
-
-* IMDB rating: 6.1
 * Year: 2014
 * Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt4047350/)
 
-Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy
+### 6.4
 
-### [Hackers Are People Too](http://www.imdb.com/title/tt1279942/)
+#### Hackers Wanted
+> This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought - from the criminal to the philosophical.
 
-![Hackers_Are_People_Too](assets/hackers_are_people_too.jpg)
-
-* IMDB rating: 6.0
-* Year: 2008
+* Year: 2009
 * Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt2292707/)
 
-Hackers do laundry. Hackers like movies. Hackers are people and could be your neighbors, your brother, your friends. Presenting a portrait of the hacking community, created by the community themselves, this film breaks down negative stereotypes by letting hackers show you that they are really no different from anyone else. Delving into areas such as the way hackers think, what is hacking, hackers in the media, and women in the security/hacking field, this film will have you questioning your ideas about what a 'hacker' really is.
+### 6.2
 
-### [Hackers: Outlaws and Angels](http://www.imdb.com/title/tt1977808/)
+#### Hackers: Outlaws and Angels
 
-* IMDB rating: 5.9
 * Year: 2002
 * Country: UK
+* [_IMDb_](http://www.imdb.com/title/tt1977808/)
 
-### [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/)
+### 6.0
+
+#### Hackers Are People Too
+> Hackers do laundry. Hackers like movies. Hackers are people and could be your neighbors, your brother, your friends. Presenting a portrait of the hacking community, created by the community themselves, this film breaks down negative stereotypes by letting hackers show you that they are really no different from anyone else. Delving into areas such as the way hackers think, what is hacking, hackers in the media, and women in the security/hacking field, this film will have you questioning your ideas about what a 'hacker' really is.
+
+![Hackers_Are_People_Too](assets/hackers_are_people_too.jpg)
+* Year: 2008
+* Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt1279942/)
+
+#### DEFCON: The Documentary
+> DEFCON is the world's largest hacking conference, held in Las Vegas, Nevada. In 2012 it was held for the 20th time. The conference has strict no-filming policies, but for DEFCON 20, a documentary crew was allowed full access to the event. The film follows the four days of the conference, the events and people (attendees and staff), and covers history and philosophy behind DEFCON's success and unique experience.
 
 ![DEFCON_The_Documentary](assets/defcon_the_documentary.jpg)
-
-* IMDB rating: 5.4
 * Year: 2013
 * Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt3010462/)
 
-DEFCON is the world's largest hacking conference, held in Las Vegas, Nevada. In 2012 it was held for the 20th time. The conference has strict no-filming policies, but for DEFCON 20, a documentary crew was allowed full access to the event. The film follows the four days of the conference, the events and people (attendees and staff), and covers history and philosophy behind DEFCON's success and unique experience.
-
-### [Hacker](http://www.imdb.com/title/tt1769296/)
-
-* IMDB rating: 5.2
-* Year: 2010
-* Country: Germany
-
-### [War for the Web](http://www.imdb.com/title/tt2390367/)
+#### War for the Web
+> War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
 
 ![War_for_the_Web](assets/war_for_the_web.jpg)
-
-* IMDB rating: Not yet released
 * Year: 2015
 * Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt2390367/)
 
-War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
+### 5.5
+
+#### Hacker
+
+* Year: 2010
+* Country: Germany
+* [_IMDb_](http://www.imdb.com/title/tt1769296/)
