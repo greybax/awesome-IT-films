@@ -6,7 +6,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "serve": "docsify serve ./docs"
+    "serve": "docsify serve . --open"
   },
   "repository": {
     "type": "git",
