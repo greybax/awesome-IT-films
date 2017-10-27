@@ -15,3 +15,4 @@ Follows a young computer programmer who suffers from social anxiety disorder and
 _**Please note**_ 
  - Films should be sorted by ratings **desc**
  - Any film from this collection should be somehow related with programmers, developers (describe developers life, mentions about any of programming languages, IT technologies, etc..)
+ - Spaces in movie title should be replaced by `_` in file name. (Mr Robot -> mr_robot.jpg)
