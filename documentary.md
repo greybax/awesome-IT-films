@@ -370,3 +370,9 @@
 * Year: 2010
 * Country: Germany
 * [_IMDb_](http://www.imdb.com/title/tt1769296/)
+
+# Contributing
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+
+# License
+MIT © [Aleksandr Filatov](https://alfilatov.com)
