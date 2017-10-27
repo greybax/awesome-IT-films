@@ -652,7 +652,7 @@
 
 * Year: 1999
 * Country: USA, Canada
-* [Y2K](http://www.imdb.com/title/tt0215370/)
+* [_IMDb_](http://www.imdb.com/title/tt0215370/)
 
 # Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
