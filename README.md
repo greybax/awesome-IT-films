@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/github/followers/greybax.svg?style=social&label=Follow" alt="GitHub followers">
 </a>
 
-A curated list of awesome IT films about developers, geeks and hackers.
+> A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. If you know a good film which not contains in these lists just [fork it](https://github.com/greybax/IT-films/fork) and send a pull request.
 
-List of movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. If you know a good film which not contains in these lists just [fork it](https://github.com/greybax/IT-films/fork) and send a pull request.
+[Live Website](https://alfilatov.com/IT-films/)
 
 ## [Movies](movies.md)
 ## [Documentary](documentary.md)
