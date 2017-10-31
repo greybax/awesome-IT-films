@@ -15,6 +15,8 @@
 ## [Documentary](documentary.md)
 ## [TV Series](tv_series.md)
 
+- [8.9 :star:](#_89)
+  - [Black Mirror](#black-mirror)
 - [8.6 :star:](#_86)
   - [Mr. Robot](#mr-robot)
   - [The IT Crowd](#the-it-crowd)
@@ -27,6 +29,16 @@
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.6 :star:](#_66)
   - [ .hack//Roots](#hack_roots)
+
+### 8.9
+
+#### Black Mirror
+> A television anthology series that shows the dark side of life and technology.
+
+![Black_Mirror](assets/black_mirror.jpg)
+* Year: 2011-
+* Country: UK
+* [_IMDb_](http://www.imdb.com/title/tt2085059/)
 
 ### 8.6
 
