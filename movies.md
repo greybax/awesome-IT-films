@@ -97,6 +97,7 @@
   - [Algorithm](#algorithm)
 - [4.5 :star:](#_45)
   - [Startap](#startap)
+  - [WarGames: The Dead Code](#wargames-the-dead-code)
 - [4.4 :star:](#+44)
   - [Debug](#debug)
 - [4.1 :star:](#_41)
@@ -605,6 +606,14 @@
 * Year: 2014
 * Country: Russia
 * [_IMDb_](http://www.imdb.com/title/tt3274728/)
+
+#### WarGames: The Dead Code
+> The United State's Department of Homeland Security is led to believe an American teen hacker playing a terrorist-attack simulator game online is a real terrorist out to destroy the U.S.
+
+![Wargames_The_Dead_Code](assets/wargames_the_dead_code.jpg)
+* Year: 2008
+* Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt0865957/)
 
 ### 4.4
 
