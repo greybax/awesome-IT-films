@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/stargazers">
@@ -128,6 +128,14 @@
 * Year: 1995
 * Country: Japan
 * [_IMDb_](http://www.imdb.com/title/tt0113568/)
+
+#### The Imitation Game
+> Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
+
+![The_Imitation_Game](assets/the_imitation_game.jpg)
+* Year: 2014
+* Country: USA
+*[_IMDb_](https://www.imdb.com/title/tt2084970/)
 
 ### 7.8
 
