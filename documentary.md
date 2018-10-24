@@ -73,7 +73,7 @@
 ### 8.5
 
 #### The Triumph of the Nerds: The Rise of Accidental Empires
-> Three part documentary that shows the insight look at the history of computers, from its rise in the 1970s to the beginning of the Dot-com boom of the late 1990s.<
+> Three part documentary that shows the insight look at the history of computers, from its rise in the 1970s to the beginning of the Dot-com boom of the late 1990s.
 
 * Year: 1996
 * Country: USA
