@@ -2,10 +2,10 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/stargazers">
-    <img src="https://img.shields.io/github/stars/greybax/IT-films.svg?style=social&label=Star" alt="github stars"> 
+    <img src="https://img.shields.io/github/stars/greybax/IT-films.svg?style=social&label=Star" alt="github stars">
 </a>
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/fork" title="Fork Awesome IT-films on GitHub">
-    <img src="https://img.shields.io/github/forks/greybax/IT-films.svg?style=social&label=Fork" alt="github forks"> 
+    <img src="https://img.shields.io/github/forks/greybax/IT-films.svg?style=social&label=Fork" alt="github forks">
 </a>
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax?tab=followers" title="Follow @greybax on GitHub">
     <img src="https://img.shields.io/github/followers/greybax.svg?style=social&label=Follow" alt="GitHub followers">
@@ -19,6 +19,7 @@
   - [Matrix](#matrix)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
+  - [Her](#her)
 - [7.8 :star:](#_78)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
@@ -129,13 +130,21 @@
 * Country: Japan
 * [_IMDb_](http://www.imdb.com/title/tt0113568/)
 
+#### Her
+> In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
+
+![Her](assets/her.jpg)
+* Year: 2013
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1798709/)
+
 #### The Imitation Game
 > Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
 
 ![The_Imitation_Game](assets/the_imitation_game.jpg)
 * Year: 2014
 * Country: USA
-*[_IMDb_](https://www.imdb.com/title/tt2084970/)
+* [_IMDb_](https://www.imdb.com/title/tt2084970/)
 
 ### 7.8
 
