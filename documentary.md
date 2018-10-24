@@ -16,7 +16,7 @@
 ## [Documentary](documentary.md)
 
  [:star: 8.5 :](#_85)<br />
-   [The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)
+   <ul type="circle"><li>[The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)</li></ul>
 - [star:8.4 :](#_84)
   - [The KGB, the Computer and Me](#the-kgb-the-computer-and-me)
 - [star:8.2 :](#_82)
