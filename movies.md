@@ -20,6 +20,7 @@
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
+  - [The Imitation Game](#the-imitation-game)
 - [7.8 :star:](#_78)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
