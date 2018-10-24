@@ -63,7 +63,7 @@
   - [Hackers Wanted](#hackers-wanted)
 - [:star:6.2 :](#_62)
   - [Hackers: Outlaws and Angels](#hackers-outlaws-and-angels)
-- [;star:6.0 :](#_60)
+- [:star:6.0 :](#_60)
   - [Hackers Are People Too](#hackers-are-people-too)
   - [DEFCON: The Documentary](#defcon-the-documentary)
   - [War for the Web](#war-for-the-web)
