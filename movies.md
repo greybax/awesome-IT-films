@@ -39,6 +39,7 @@
   - [Live Free or Die Hard](#live-free-or-die-hard)
   - [Pirates of Silicon Valley](#pirates-of-silicon-valley)
   - [GoldenEye](#goldeneye)
+  - [Steve Jobs](#steve-jobs)
 - [7.1 :star:](#_71)
   - [Sneakers](#sneakers)
   - [Artificial Intelligence: AI](#artificial-intelligence-ai)
@@ -259,6 +260,14 @@
 * Year: 1995
 * Country: UK, USA
 * [_IMDb_](http://www.imdb.com/title/tt0113189/)
+
+#### Steve Jobs
+>Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
+
+![Steve_Jobs](assets/stevejobs.jpg)
+* Year: 2015
+* Country: USA
+* [_IMDB_](https://www.imdb.com/title/tt2080374/)
 
 ### 7.1
 
