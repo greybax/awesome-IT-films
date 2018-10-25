@@ -27,6 +27,8 @@
   - [Chuck](#chuck)
 - [8.0 :star:](#_80)
   - [Scorpion](#scorpion)
+- [8.0 :star:](#_80)
+  - [Mundo Hacker Colombia](#hackerCo)
 - [7.5 :star:](#_75)
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.6 :star:](#_66)
@@ -97,6 +99,16 @@
 * Year: September 22, 2014 – April 16, 2018
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt3514324/?ref_=nv_sr_1)
+
+### 8.0
+
+#### Mundo Hacker Colombia
+> Mundo Hacker, a specialized program in computer security, which seeks that all people know more about the risks facing the digital age in which we are immersed and thus avoid being the next victims. Mundo Hacker is an initiative of the MinTIC together with Canal Trece that investigated issues such as the protection of minors in the network, security in the use of Wi-Fi networks, insecurity in cell phones and tablets, the plans of nations to protect their computer attacks infrastructures, computer detectives and the danger of the internet of things.
+
+![chuck](assets/MundoHackerColombia.jpg)
+* Year: 2017 – 
+* Country: Colombia
+* [_IMDb_](https://canaltrece.com.co/programas/mundo-hacker-colombia/)
 
 ### 7.5
 
