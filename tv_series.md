@@ -1,5 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+![Movies](https://img.shields.io/badge/Movies-65-blue.svg)
+![Documentary](https://img.shields.io/badge/Documentary-34-green.svg)
+![TV Series](https://img.shields.io/badge/TV_Series-8-red.svg)
+
 
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/stargazers">
     <img src="https://img.shields.io/github/stars/greybax/IT-films.svg?style=social&label=Star" alt="github stars"> 
