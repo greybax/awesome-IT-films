@@ -25,6 +25,8 @@
   - [Person of Interest](#person-of-interest)
 - [8.2 :star:](#_82)
   - [Chuck](#chuck)
+- [8.0 :star:](#_80)
+  - [Scorpion](#scorpion)
 - [7.5 :star:](#_75)
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.6 :star:](#_66)
@@ -85,6 +87,16 @@
 * Year: 2007-2012
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0934814/)
+
+### 8.0
+
+#### Scorpion
+> Scorpion is a high-octane drama about eccentric genius Walter O'Brien and his team of brilliant misfits who are the last line of defense against complex, high-tech threats of the modern age. As Homeland Security's think tank, O'Brien's Team Scorpion includes Toby Curtis, an expert behaviorist who can read anyone; his new wife, Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru. Pooling their extensive technological knowledge to solve mind-boggling predicaments amazes federal agent Cabe Gallo. However, while this socially awkward group is comfortable with one another's humor and quirks, life outside their circle confounds them. They rely on Paige Dineen to translate the world for them, who has a young, gifted son, Ralph, and a budding relationship with Walter. At last, these quirky masterminds have found the perfect job: a place where they can apply their exceptional brainpower to solve the nation's crises while also helping one another learn how to fit in.
+
+![chuck](assets/scorpion.png)
+* Year: September 22, 2014 – April 16, 2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt3514324/?ref_=nv_sr_1)
 
 ### 7.5
 
