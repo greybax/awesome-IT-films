@@ -24,6 +24,8 @@
   - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
 - [7.9 :star:](#_79)
   - [Hacking Democracy](#hacking-democracy)
+- [7.8 :star:](#_78)
+  - [Zero Days](#zero-days)
 - [7.7 :star:](#_77)
   - [Indie Game: The Movie](#indie-game-the-movie)
   - [DSKNECTD](#dsknectd)
@@ -115,6 +117,16 @@
 * Year: 2006
 * Country: UK
 * [_IMDb_](http://www.imdb.com/title/tt0808532/)
+
+### 7.8
+
+#### Zero Days
+> A documentary focused on Stuxnet, a piece of self-replicating computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility, and which ultimately spread beyond its intended target.
+
+![Zero Days](assets/zero_days.jpg)
+* Year: 2016
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5446858/)
 
 ### 7.7
 
