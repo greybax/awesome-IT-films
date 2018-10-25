@@ -17,6 +17,8 @@
 
 - [8.7 :star:](#_87)
   - [Matrix](#matrix)
+- [8.6 :star:](#_86)
+  - [Interstellar](#interstellar)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
@@ -120,6 +122,16 @@
 * Year: 1999
 * Country: USA, Australia
 * [_IMDb_](http://www.imdb.com/title/tt0133093/)
+
+### 8.6
+
+#### Interstellar
+> In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.
+
+![Interstellar](assets/interstellar.jpg)
+* Year: 2014
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0816692/)
 
 ### 8.0
 
