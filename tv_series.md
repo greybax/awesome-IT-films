@@ -25,6 +25,8 @@
   - [Person of Interest](#person-of-interest)
 - [8.2 :star:](#_82)
   - [Chuck](#chuck)
+- [8.1 :star:](#_83)
+  - [Maniac](#maniac)
 - [7.5 :star:](#_75)
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.6 :star:](#_66)
@@ -85,6 +87,14 @@
 * Year: 2007-2012
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0934814/)
+
+#### Maniac
+> Two strangers are drawn to a mysterious pharmaceutical trial that will, they're assured, with no complications or side-effects whatsoever, solve all of their problems, permanently. Things do not go as planned.
+
+![Maniac](assets/maniac.jpg)
+* Year: 2018-
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5580146/)
 
 ### 7.5
 
