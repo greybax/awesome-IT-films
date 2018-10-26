@@ -26,6 +26,7 @@
 - [7.8 :star:](#_78)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
+  - [Hidden Figures](#hidden-figures)
 - [7.7 :star:](#_77)
   - [Minority Report](#minority-report)
   - [Ex Machina](#ex-machina)
@@ -176,6 +177,14 @@
 * Year: 1999
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0151804/)
+
+#### Hidden Figures
+> The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
+
+![Office Space](assets/hidden_figures.jpg)
+* Year: 2017
+* Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt4846340/)
 
 ### 7.7
 
