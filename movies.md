@@ -17,6 +17,8 @@
 
 - [8.7 :star:](#_87)
   - [Matrix](#matrix)
+- [8.3 :star:](#_83)
+  - [2001: A Space Odyssey](#2001-a-space-odyssey)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
@@ -120,6 +122,16 @@
 * Year: 1999
 * Country: USA, Australia
 * [_IMDb_](http://www.imdb.com/title/tt0133093/)
+
+### 8.3
+
+#### 2001: A Space Odyssey
+> A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate supercomputer HAL 9000.
+
+![2001_a_space_odyssey](assets/2001ASpaceOdyssey.jpg)
+* Year: 1968
+* Country: UK, USA
+* [_IMDb_](https://www.imdb.com/title/tt0062622/)
 
 ### 8.0
 
