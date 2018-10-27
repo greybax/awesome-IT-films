@@ -62,6 +62,7 @@
   - [Eagle Eye](#eagle-eye)
   - [Weird Science](#weird-science)
   - [Foolproof](#foolproof)
+  - [Middle Men](#middle-men)
 - [6.5 :star:](#_65)
   - [Swordfish](#swordfish)
   - [Brainstorm](#brainstorm)
@@ -409,6 +410,14 @@
 * Year: 2003
 * Country: Canada
 * [_IMDb_](http://www.imdb.com/title/tt0356614/)
+
+#### Middle Men
+> Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals, and struggles not to drown in a sea of con men, mobsters, drug addicts, and porn stars.
+
+![Middle_Men](assets/middle_men.jpg)
+* Year: 2009
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1251757/)
 
 ### 6.5
 
