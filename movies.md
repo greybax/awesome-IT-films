@@ -71,7 +71,7 @@
 - [6.3 :star:](#_63)
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
-  - [Transcendence] (#transcendence)
+  - [Transcendence](#transcendence)
 - [6.2 :star:](#_62)
   - [Untraceable](#untraceable)
   - [Hacker](#hacker)
