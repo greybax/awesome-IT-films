@@ -711,8 +711,20 @@
 * Country: USA, Canada
 * [_IMDb_](http://www.imdb.com/title/tt0215370/)
 
+#### Secret History of Hacking 
+
+### 7.6
+
+> A history of hacking focusing on Captain Crunch, Steve Wozniak and Kevin Mitnick.
+
+![Secret History of Hacking ](assets/secret-history-of-hacking.jpg)
+* Year: 2001
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt2335921)
+
 # Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 # License
 MIT © [Aleksandr Filatov](https://alfilatov.com)
+
