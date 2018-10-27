@@ -1,4 +1,4 @@
-# Awesome IT-films <img src="/assets/ITMovieHub.png" style="width:25px;height:25px">
+# Awesome IT-films <img src="/assets/ITMovieHub.png" width="75">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
