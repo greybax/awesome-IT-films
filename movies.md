@@ -62,7 +62,7 @@
   - [Eagle Eye](#eagle-eye)
   - [Weird Science](#weird-science)
   - [Foolproof](#foolproof)
-  - [Middle Men](#middle_men)
+  - [Middle Men](#Middle_Men)
 - [6.5 :star:](#_65)
   - [Swordfish](#swordfish)
   - [Brainstorm](#brainstorm)
