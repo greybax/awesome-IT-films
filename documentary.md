@@ -24,7 +24,9 @@
   - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
 - [:star:7.9 :](#_79)
   - [Hacking Democracy](#hacking-democracy)
-- [:star:7.7 :](#_77)
+- [7.8 :star:](#_78)
+  - [Zero Days](#zero-days)
+- [7.7 :star:](#_77)
   - [Indie Game: The Movie](#indie-game-the-movie)
   - [DSKNECTD](#dsknectd)
 - [:star:7.6 :](#_76)
@@ -34,7 +36,7 @@
 - [:star:7.5 :](#_75)
   - [Code 2600](#code-2600)
   - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
-- [:star:7.4 :](#_74)
+- [7.4 :star:](#_74)
   - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
   - [The Singularity](#the-singularity)
   - [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
@@ -116,6 +118,16 @@
 * Country: UK
 * [_IMDb_](http://www.imdb.com/title/tt0808532/)
 
+### 7.8
+
+#### Zero Days
+> A documentary focused on Stuxnet, a piece of self-replicating computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility, and which ultimately spread beyond its intended target.
+
+![Zero Days](assets/zero_days.jpg)
+* Year: 2016
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5446858/)
+
 ### 7.7
 
 #### Indie Game: The Movie
@@ -174,6 +186,15 @@
 * Year: 1984
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt1191116/)
+
+#### The Secret Rules of Modern Living: Algorithms
+> Professor Marcus du Sautoy demystifies the hidden world of algorithms and reveals where these 2,000-year-old problem solvers came from, how they work, and what they have achieved.
+
+![The_Secret_Rules_of_Modern_Living_Algorithms](assets/The_Secret_Rules_of_Modern_Living_Algorithms.jpg)
+* Year: 2015
+* Country: UK
+* [_IMDb_](https://www.imdb.com/title/tt5818010/)
+
 
 ### 7.4
 

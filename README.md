@@ -3,6 +3,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![GitHub issues](https://img.shields.io/github/issues/greybax/IT-films.svg)](https://github.com/greybax/IT-films/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/IT-films.svg)](https://github.com/greybax/IT-films/pulls)
+
+
+
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/stargazers">
     <img src="https://img.shields.io/github/stars/greybax/IT-films.svg?style=social&label=Star" alt="github stars"> 
 </a>
@@ -13,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/greybax.svg?style=social&label=Follow" alt="GitHub followers">
 </a>
 
-> A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. If you know a good film which not contains in these lists just [fork it](https://github.com/greybax/IT-films/fork) and send a pull request.
+> A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. If you know some good films which do not contain in these lists just [fork it](https://github.com/greybax/IT-films/fork) and send a pull request.
 
 [Live Website](https://alfilatov.com/IT-films/)
 
