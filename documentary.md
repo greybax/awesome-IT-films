@@ -36,6 +36,7 @@
 - [7.5 :star:](#_75)
   - [Code 2600](#code-2600)
   - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
+  - [The Secret Rules of Modern Living: Algorithms](#The_Secret_Rules_of_Modern_Living_Algorithms)
 - [7.4 :star:](#_74)
   - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
   - [The Singularity](#the-singularity)
@@ -186,6 +187,15 @@
 * Year: 1984
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt1191116/)
+
+#### The Secret Rules of Modern Living: Algorithms
+> Professor Marcus du Sautoy demystifies the hidden world of algorithms and reveals where these 2,000-year-old problem solvers came from, how they work, and what they have achieved.
+
+![The_Secret_Rules_of_Modern_Living_Algorithms](assets/The_Secret_Rules_of_Modern_Living_Algorithms.jpg)
+* Year: 2015
+* Country: UK
+* [_IMDb_](https://www.imdb.com/title/tt5818010/)
+
 
 ### 7.4
 
