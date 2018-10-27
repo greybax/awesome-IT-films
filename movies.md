@@ -71,6 +71,7 @@
 - [6.3 :star:](#_63)
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
+  - [Transcendence](#transcendence)
 - [6.2 :star:](#_62)
   - [Untraceable](#untraceable)
   - [Hacker](#hacker)
@@ -467,6 +468,14 @@
 * Year: 2013
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt2234155)
+
+#### Transcendence
+> A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
+
+![Transcendence](assets/transcendence.jpg)
+* Year: 2013
+* Country: UK, China, USA
+* [_IMDb_](https://www.imdb.com/title/tt2209764)
 
 ### 6.2
 
