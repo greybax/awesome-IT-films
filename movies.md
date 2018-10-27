@@ -27,6 +27,7 @@
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
   - [Hidden Figures](#hidden-figures)
+  - [Avatar](#avatar)
 - [7.7 :star:](#_77)
   - [Minority Report](#minority-report)
   - [Ex Machina](#ex-machina)
@@ -186,6 +187,14 @@
 * Year: 2017
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt4846340/)
+
+#### Avatar
+> A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+
+![avatar](assets/Avatar.jpg)
+* Year: 2009
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0499549/)
 
 ### 7.7
 
