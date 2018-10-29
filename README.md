@@ -1,11 +1,16 @@
 # Awesome IT-films
 
+<p align="center">
+  <a href="https://greybax.github.com/IT-films">
+    <img src="logos/logo_static.png">
+  </a>
+</p>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![GitHub issues](https://img.shields.io/github/issues/greybax/IT-films.svg)](https://github.com/greybax/IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/IT-films.svg)](https://github.com/greybax/IT-films/pulls)
-
 
 
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/stargazers">
