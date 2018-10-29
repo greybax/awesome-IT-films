@@ -15,14 +15,8 @@
 ## [TV Series](tv_series.md)
 ## [Movies](movies.md)
 
-- [9.0 :star:](#_90)
-  - [The Dark Knight](#the-dark-knight)
-- [8.8 :star:](#_88)
-  - [Inception](#inception)
 - [8.7 :star:](#_87)
   - [Matrix](#matrix)
-- [8.6 :star:](#_86)
-  - [Interstellar](#interstellar)
 - [8.3 :star:](#_83)
   - [2001: A Space Odyssey](#2001-a-space-odyssey)
 - [8.2 :star:](#_82)
@@ -124,26 +118,6 @@
 - [3.2 :star:](#_32)
   - [Y2K](#y2k)
 
-### 9.0
-
-#### The Dark Knight
-> When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
-
-![The_dark_knight](assets/the_dark_knight.jpg)
-* Year: 2008
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt0468569/)
-
-### 8.8
-
-#### Inception
-> A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO. 
-
-![Inception](assets/inception.jpg)
-* Year: 2010
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt1375666/)
-
 ### 8.7
 
 #### Matrix
@@ -153,16 +127,6 @@
 * Year: 1999
 * Country: USA, Australia
 * [_IMDb_](http://www.imdb.com/title/tt0133093/)
-
-### 8.6
-
-#### Interstellar
-> A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
-
-![Interstellar](assets/interstellar.jpg)
-* Year: 2014
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt0816692/)
 
 ### 8.3
 
