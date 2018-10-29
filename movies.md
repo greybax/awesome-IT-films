@@ -19,6 +19,8 @@
   - [Matrix](#matrix)
 - [8.3 :star:](#_83)
   - [2001: A Space Odyssey](#2001-a-space-odyssey)
+- [8.2 :star:](#_82)
+  - [A Beautiful Mind](#a-beautiful-mind)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
@@ -135,6 +137,16 @@
 * Year: 1968
 * Country: UK, USA
 * [_IMDb_](https://www.imdb.com/title/tt0062622/)
+
+### 8.2
+
+#### A Beautiful Mind
+> After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
+
+![A_beautiful_mind](assets/a_beautiful_mind.jpg)
+* Year: 2001
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0268978/)
 
 ### 8.0
 
