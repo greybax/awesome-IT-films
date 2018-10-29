@@ -19,6 +19,7 @@
   - [Matrix](#matrix)
 - [8.3 :star:](#_83)
   - [2001: A Space Odyssey](#2001-a-space-odyssey)
+  - [Metropolis](#metropolis)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
@@ -135,6 +136,14 @@
 * Year: 1968
 * Country: UK, USA
 * [_IMDb_](https://www.imdb.com/title/tt0062622/)
+
+#### Metropolis
+> In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
+
+![Metropolis](assets/metropolis.jpg)
+* Year 1927
+* Country: Germany
+* [_IMDb_](https://www.imdb.com/title/tt0017136/)
 
 ### 8.0
 
