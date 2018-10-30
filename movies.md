@@ -37,6 +37,7 @@
   - [Live Free or Die Hard](#live-free-or-die-hard)
   - [Pirates of Silicon Valley](#pirates-of-silicon-valley)
   - [GoldenEye](#goldeneye)
+  - [The Matrix Reloaded](#the-matrix-reloaded)
 - [7.1 :star:](#_71)
   - [Sneakers](#sneakers)
   - [Artificial Intelligence: AI](#artificial-intelligence-ai)
@@ -241,6 +242,14 @@
 * Year: 1995
 * Country: UK, USA
 * [_IMDb_](http://www.imdb.com/title/tt0113189/)
+
+#### The Matrix Reloaded
+> Following the events of Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.
+
+![The_Matrix_Reloaded](assets/the_matrix_reloaded.jpg)
+* Year: 2003
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0234215/)
 
 ### 7.1
 
