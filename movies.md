@@ -1,11 +1,11 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/stargazers">
-    <img src="https://img.shields.io/github/stars/greybax/IT-films.svg?style=social&label=Star" alt="github stars"> 
+    <img src="https://img.shields.io/github/stars/greybax/IT-films.svg?style=social&label=Star" alt="github stars">
 </a>
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax/IT-films/fork" title="Fork Awesome IT-films on GitHub">
-    <img src="https://img.shields.io/github/forks/greybax/IT-films.svg?style=social&label=Fork" alt="github forks"> 
+    <img src="https://img.shields.io/github/forks/greybax/IT-films.svg?style=social&label=Fork" alt="github forks">
 </a>
 <a style="text-decoration: none;" target="_blank" href="https://github.com/greybax?tab=followers" title="Follow @greybax on GitHub">
     <img src="https://img.shields.io/github/followers/greybax.svg?style=social&label=Follow" alt="GitHub followers">
@@ -17,12 +17,19 @@
 
 - [8.7 :star:](#_87)
   - [Matrix](#matrix)
+- [8.3 :star:](#_83)
+  - [2001: A Space Odyssey](#2001-a-space-odyssey)
+- [8.2 :star:](#_82)
+  - [A Beautiful Mind](#a-beautiful-mind)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
+  - [Her](#her)
+  - [The Imitation Game](#the-imitation-game)
   - [Blade Runner 2049](#blade-runner-2049)
 - [7.8 :star:](#_78)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
+  - [Hidden Figures](#hidden-figures)
 - [7.7 :star:](#_77)
   - [Minority Report](#minority-report)
   - [Ex Machina](#ex-machina)
@@ -59,6 +66,7 @@
   - [Eagle Eye](#eagle-eye)
   - [Weird Science](#weird-science)
   - [Foolproof](#foolproof)
+  - [Middle Men](#middle-men)
 - [6.5 :star:](#_65)
   - [Swordfish](#swordfish)
   - [Brainstorm](#brainstorm)
@@ -67,6 +75,7 @@
 - [6.3 :star:](#_63)
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
+  - [Transcendence](#transcendence)
 - [6.2 :star:](#_62)
   - [Untraceable](#untraceable)
   - [Hacker](#hacker)
@@ -121,6 +130,26 @@
 * Country: USA, Australia
 * [_IMDb_](http://www.imdb.com/title/tt0133093/)
 
+### 8.3
+
+#### 2001: A Space Odyssey
+> A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate supercomputer HAL 9000.
+
+![2001_a_space_odyssey](assets/2001ASpaceOdyssey.jpg)
+* Year: 1968
+* Country: UK, USA
+* [_IMDb_](https://www.imdb.com/title/tt0062622/)
+
+### 8.2
+
+#### A Beautiful Mind
+> After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
+
+![A_beautiful_mind](assets/a_beautiful_mind.jpg)
+* Year: 2001
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0268978/)
+
 ### 8.0
 
 #### Ghost in the shell
@@ -130,6 +159,22 @@
 * Year: 1995
 * Country: Japan
 * [_IMDb_](http://www.imdb.com/title/tt0113568/)
+
+#### Her
+> In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
+
+![Her](assets/her.jpg)
+* Year: 2013
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1798709/)
+
+#### The Imitation Game
+> Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
+
+![The_Imitation_Game](assets/the_imitation_game.jpg)
+* Year: 2014
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt2084970/)
 
 #### Blade Runner 2049
 > A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
@@ -156,6 +201,14 @@
 * Year: 1999
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0151804/)
+
+#### Hidden Figures
+> The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
+
+![Office Space](assets/hidden_figures.jpg)
+* Year: 2017
+* Country: USA
+* [_IMDb_](http://www.imdb.com/title/tt4846340/)
 
 ### 7.7
 
@@ -389,6 +442,14 @@
 * Country: Canada
 * [_IMDb_](http://www.imdb.com/title/tt0356614/)
 
+#### Middle Men
+> Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals, and struggles not to drown in a sea of con men, mobsters, drug addicts, and porn stars.
+
+![Middle_Men](assets/middle_men.jpg)
+* Year: 2009
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1251757/)
+
 ### 6.5
 
 #### Swordfish
@@ -437,6 +498,14 @@
 * Year: 2013
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt2234155)
+
+#### Transcendence
+> A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
+
+![Transcendence](assets/transcendence.jpg)
+* Year: 2013
+* Country: UK, China, USA
+* [_IMDb_](https://www.imdb.com/title/tt2209764)
 
 ### 6.2
 
