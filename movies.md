@@ -35,16 +35,20 @@
 - [7.6 :star:](#_76)
   - [Disconnect](#disconnect)
   - [Who am I](#who-am-i)
+- [7.4 :star:](#_74)
+  - [Pi](#pi)
 - [7.3 :star:](#_73)
   - [23](#23)
   - [Snowden](#snowden)
   - [Cyberbully](#cyberbully)
   - [Enemy of the State](#enemy-of-the-state)
+  - [Desk Set](#desk-set)
 - [7.2 :star:](#_72)
   - [Live Free or Die Hard](#live-free-or-die-hard)
   - [Pirates of Silicon Valley](#pirates-of-silicon-valley)
   - [GoldenEye](#goldeneye)
   - [The Matrix Reloaded](#the-matrix-reloaded)
+  - [Alphaville](#alphaville)
 - [7.1 :star:](#_71)
   - [Sneakers](#sneakers)
   - [Artificial Intelligence: AI](#artificial-intelligence-ai)
@@ -66,6 +70,7 @@
   - [Weird Science](#weird-science)
   - [Foolproof](#foolproof)
   - [Middle Men](#middle-men)
+  - [Kairo](#kairo)
 - [6.5 :star:](#_65)
   - [Swordfish](#swordfish)
   - [Brainstorm](#brainstorm)
@@ -75,6 +80,7 @@
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
   - [Transcendence](#transcendence)
+  - [Computer Chess](#computer-chess)
 - [6.2 :star:](#_62)
   - [Untraceable](#untraceable)
   - [Hacker](#hacker)
@@ -237,6 +243,16 @@
 * Country: Germany
 * [_IMDb_](http://www.imdb.com/title/tt3042408/)
 
+### 7.4
+
+#### Pi
+> A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
+
+![Pi](assets/pi.jpg)
+* Year: 1998
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0138704/)
+
 ### 7.3
 
 #### 23
@@ -269,6 +285,14 @@
 * Year: 1998
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0120660/)
+
+#### Desk Set
+> Two extremely strong personalities clash over the computerization of a television network's research department.
+
+![Enemy_of_the_State](assets/desk_set.jpg)
+* Year: 1957
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0050307)
 
 ### 7.2
 
@@ -303,6 +327,14 @@
 * Year: 2003
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0234215/)
+
+#### Alphaville
+> A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
+
+![Alphaville](assets/alphaville.jpg)
+* Year: 1965
+* Country: France, Italy
+* [_IMDb_](https://www.imdb.com/title/tt0058898/)
 
 ### 7.1
 
@@ -441,6 +473,14 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1251757/)
 
+#### Kairo
+> Two groups of people discover evidence that suggests spirits may be trying to invade the human world through the Internet.
+
+![Middle_Men](assets/kairo.jpg)
+* Year: 2001
+* Country: Japan
+* [_IMDb_](https://www.imdb.com/title/tt0286751)
+
 ### 6.5
 
 #### Swordfish
@@ -497,6 +537,14 @@
 * Year: 2013
 * Country: UK, China, USA
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
+
+#### Computer Chess
+> A 1980s-set story centered around a man vs. machine chess tournament.
+
+![Computer Chess](assets/computer_chess.jpg)
+* Year: 2013
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt2007360/)
 
 ### 6.2
 
