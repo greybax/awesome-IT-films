@@ -28,12 +28,14 @@
 
 [Live Website](https://alfilatov.com/IT-films/)
 
-## [Movies](movies.md)
-## [Documentary](documentary.md)
-## [TV Series](tv_series.md)
+## Contents
 
-# Contributing
+- [Movies](movies.md)
+- [Documentary](documentary.md)
+- [TV Series](tv_series.md)
+
+## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
-# License
+## License
 MIT © [Aleksandr Filatov](https://alfilatov.com)
