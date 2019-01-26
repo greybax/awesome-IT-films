@@ -11,9 +11,11 @@
     <img src="https://img.shields.io/github/followers/greybax.svg?style=social&label=Follow" alt="GitHub followers">
 </a>
 
-## [TV Series](tv_series.md)
-## [Movies](movies.md)
-## [Documentary](documentary.md)
+## Contents
+
+- [TV Series](tv_series.md)
+- [Movies](movies.md)
+- [Documentary](documentary.md)
 
 - [8.5 :star:](#_85)<br />
   - [The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)
