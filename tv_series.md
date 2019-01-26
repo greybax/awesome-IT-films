@@ -11,9 +11,11 @@
     <img src="https://img.shields.io/github/followers/greybax.svg?style=social&label=Follow" alt="GitHub followers">
 </a>
 
-## [Movies](movies.md)
-## [Documentary](documentary.md)
-## [TV Series](tv_series.md)
+## Contents
+
+- [Movies](movies.md)
+- [Documentary](documentary.md)
+- [TV Series](tv_series.md)
 
 - [8.9 :star:](#_89)
   - [Black Mirror](#black-mirror)
