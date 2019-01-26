@@ -108,8 +108,10 @@
 * Country: Japan
 * [_IMDb_](http://www.imdb.com/title/tt0807655/)
 
-# Contributing
+## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
-# License
-MIT © [Aleksandr Filatov](https://alfilatov.com)
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
