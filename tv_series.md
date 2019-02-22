@@ -19,6 +19,8 @@
 
 - [8.9 :star:](#_89)
   - [Black Mirror](#black-mirror)
+- [8.8 :star:](#_88)
+  - [Westworld](#westworld)
 - [8.6 :star:](#_86)
   - [Mr. Robot](#mr-robot)
   - [The IT Crowd](#the-it-crowd)
@@ -41,6 +43,16 @@
 * Year: 2011-
 * Country: UK
 * [_IMDb_](http://www.imdb.com/title/tt2085059/)
+
+### 8.8
+
+#### Westworld
+> Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.
+
+![Westworld](assets/westworld.jpg)
+* Year: 2016-
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0475784/)
 
 ### 8.6
 
