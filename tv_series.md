@@ -29,6 +29,7 @@
   - [Person of Interest](#person-of-interest)
 - [8.2 :star:](#_82)
   - [Chuck](#chuck)
+  - [The Big Bang Theory](#the_big_bang_theory)
 - [7.5 :star:](#_75)
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.6 :star:](#_66)
@@ -99,6 +100,14 @@
 * Year: 2007-2012
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0934814/)
+
+#### The Big Bang Theory
+> A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.
+
+![The_Big_Bang_Theory](assets/the_big_bang_theory.jpg)
+* Year: 2007-
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0898266/)
 
 ### 7.5
 
