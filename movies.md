@@ -37,6 +37,8 @@
 - [7.6 :star:](#_76)
   - [Disconnect](#disconnect)
   - [Who am I](#who-am-i)
+- [7.5 :star:](#_75)
+  - [Ready Player One](#ready-player-one)
 - [7.4 :star:](#_74)
   - [Pi](#pi)
 - [7.3 :star:](#_73)
@@ -244,6 +246,16 @@
 * Year: 2014
 * Country: Germany
 * [_IMDb_](http://www.imdb.com/title/tt3042408/)
+
+### 7.5
+
+#### Ready Player One
+> When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
+
+![Pi](assets/readyplayerone.jpg)
+* Year: 2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1677720/)
 
 ### 7.4
 
