@@ -6,7 +6,7 @@
 </p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/awesome-IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub contributors](https://img.shields.io/github/contributors/greybax/awesome-IT-films.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
