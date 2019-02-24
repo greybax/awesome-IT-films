@@ -19,6 +19,8 @@
   - [Silicon Valley](#silicon-valley)
 - [8.5 :star:](#_85)
   - [Person of Interest](#person-of-interest)
+- [8.4 :star:](#_84)
+  - [Halt and Catch Fire](#halt-and-catch-fire)
 - [8.2 :star:](#_82)
   - [Chuck](#chuck)
 - [7.5 :star:](#_75)
@@ -71,6 +73,17 @@
 * Year: 2011-2016
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt1839578/)
+
+### 8.4
+
+#### Halt and Catch Fire
+
+> Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
+
+![halt_and_catch_fire](assets/halt_and_catch_fire.jpg)
+* Year: 2014-2017
+* Country: USA
+* [IMDb](https://www.imdb.com/title/tt2543312/)
 
 ### 8.2
 
