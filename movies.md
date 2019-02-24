@@ -61,6 +61,8 @@
   - [TRON](#tron)
   - [TRON: Legacy](#tron-legacy)
   - [Underground_The_Julian_Assange_Story](#underground-the-julian-assange-story)
+- [6.7 :star:](#_67)
+  - [The Matrix Revolutions](#the-matrix-revolutions) 
 - [6.6 :star:](#_66)
   - [Eagle Eye](#eagle-eye)
   - [Weird Science](#weird-science)
@@ -434,6 +436,17 @@
 * Year: 2012
 * Country: Australia
 * [_IMDb_](http://www.imdb.com/title/tt2357453/)
+
+### 6.7
+
+#### The Matrix Revolutions
+
+> The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
+
+![The_Matrix_Revolutions](assets/the_matrix_revolutions.jpg)
+* Year: 2003
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0242653/)
 
 ### 6.6
 
