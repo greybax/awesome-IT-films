@@ -248,7 +248,7 @@
 #### Ready Player One
 > When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
 
-![Pi](assets/readyplayerone.jpg)
+![Ready_Player_One](assets/readyplayerone.jpg)
 * Year: 2018
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1677720/)
