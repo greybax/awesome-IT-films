@@ -75,7 +75,7 @@
 
 * Year: 1996
 * Country: USA
-[_IMDb_](http://www.imdb.com/title/tt0115398/)
+* [_IMDb_](https://www.imdb.com/title/tt0115398/)
 
 ### 8.4
 
@@ -84,7 +84,7 @@
 
 * Year: 1990
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt0308449/)
+* [_IMDb_](https://www.imdb.com/title/tt0308449/)
 
 ### 8.2
 
@@ -94,7 +94,7 @@
 ![Citizenfour](assets/citizenfour.jpg)
 * Year: 2014
 * Country: USA, Germany, UK
-* [_IMDb_](http://www.imdb.com/title/tt4044364/)
+* [_IMDb_](https://www.imdb.com/title/tt4044364/)
 
 #### The Internet's Own Boy: The Story of Aaron Swartz
 > The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26
@@ -102,7 +102,7 @@
 ![The_Internet_Own_Boy_The_Story_of_Aaron_Swartz](assets/the_internet_wwn_boy_the_story_of_aaron_swartz.jpg)
 * Year: 2014
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt3268458/)
+* [_IMDb_](https://www.imdb.com/title/tt3268458/)
 
 ### 7.9
 
@@ -112,7 +112,7 @@
 ![Hacking_Democracy](assets/hacking_democracy.jpg)
 * Year: 2006
 * Country: UK
-* [_IMDb_](http://www.imdb.com/title/tt0808532/)
+* [_IMDb_](https://www.imdb.com/title/tt0808532/)
 
 ### 7.8
 
@@ -133,14 +133,14 @@
 
 * Year: 2012
 * Country: Canada
-* [_IMDb_](http://www.imdb.com/title/tt1942884/)
+* [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 #### DSKNECTD
 > An exploration into how smart phones, social media, and the Internet are profoundly changing the way we interact and experience each other - for the good and for the bad.
 
 ![DSKNECTD](assets/dsknectd.jpg)
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt1942884/)
+* [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 ### 7.6
 
@@ -150,7 +150,7 @@
 ![Freedom_Downtime](assets/freedom_downtime.jpg)
 * Year: 2001
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt0309614/)
+* [_IMDb_](https://www.imdb.com/title/tt0309614/)
 
 #### TPB AFK: The Pirate Bay Away from Keyboard
 > An intellectual freedoms documentary based around the interpersonal triumphs, and defeats of the three main characters against the largest industry in the known universe. The media industry.
@@ -158,13 +158,13 @@
 ![TPB_AFK_The_Pirate_Bay_Away_from_Keyboard](assets/tpb_afk_the_pirate_bay_away_from_keyboard.jpg)
 * Year: 2013
 * Country: Sweden, Denmark, Norway, UK, Netherlands, Germany
-* [_IMDb_](http://www.imdb.com/title/tt2608732/)
+* [_IMDb_](https://www.imdb.com/title/tt2608732/)
 
 #### Secret History of Hacking
 
 * Year: 2001
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt2338277/)
+* [_IMDb_](https://www.imdb.com/title/tt2338277/)
 
 ### 7.5
 
@@ -174,14 +174,14 @@
 ![Code_2600](assets/code_2600.jpg)
 * Year: 2011
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt1830538/)
+* [_IMDb_](https://www.imdb.com/title/tt1830538/)
 
 #### Hackers: Wizards of the Electronic Age
 > All interviews in this documentary were shot over a long weekend at a 1984 hacker conference by the Whole Earth Catalog editors Stewart Brand and Kevin Kelley in Sausalito, California. The event itself (the hacker conference) was inspired by Steven Levy's classic book "Hackers - Heroes of the Computer Revolution".
 
 * Year: 1984
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt1191116/)
+* [_IMDb_](https://www.imdb.com/title/tt1191116/)
 
 #### The Secret Rules of Modern Living: Algorithms
 > Professor Marcus du Sautoy demystifies the hidden world of algorithms and reveals where these 2,000-year-old problem solvers came from, how they work, and what they have achieved.
@@ -200,7 +200,7 @@
 ![We_Are_Legion_The_Story_of_the_Hacktivists](assets/we_are_legion_the_story_of_the_hacktivists.jpg)
 * Year: 2012
 * Country: USA, UK
-* [_IMDb_](http://www.imdb.com/title/tt2177843)
+* [_IMDb_](https://www.imdb.com/title/tt2177843)
 
 #### The Singularity
 > Within the coming decades we will be able to create computers with greater than human intelligence, bio-engineer our species, and redesign matter through nanotechnology. How will these technologies change what it means to be human?
@@ -208,7 +208,7 @@
 ![The_Singularity](assets/the_singularity.jpg)
 * Year: 2012
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt2073120/)
+* [_IMDb_](https://www.imdb.com/title/tt2073120/)
 
 #### Terms and Conditions May Apply
 > A documentary that exposes what corporations and governments learn about people through Internet and cell phone usage, and what can be done about it ... if anything.
@@ -216,7 +216,7 @@
 ![Terms_and_Conditions_May_Apply](assets/terms_and_conditions_may_apply.jpg)
 * Year: 2013
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt2084953/)
+* [_IMDb_](https://www.imdb.com/title/tt2084953/)
 
 ### 7.3
 
@@ -226,7 +226,7 @@
 * IMDB rating: 7.3
 * Year: 2013
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt0499004)
+* [_IMDb_](https://www.imdb.com/title/tt0499004)
 
 #### Revolution OS
 > While Microsoft may be the biggest software company in the world, not every computer user is a fan of their products, or their way of doing business. While Microsoft's Windows became the most widely used operating system for personal computers in the world, many experts took issue with Microsoft's strict policies regarding licensing, ownership, distribution, and alteration of their software. The objections of many high-profile technology experts, most notably Richard Stallman, led to what has become known as "the Open Source Movement," which is centered on the belief that computer software should be free both in the economic and intellectual senses of the word. Eventually, one of Stallman's admirers, Linus Torvalds, created a new operating system called Linux, a freely distributed software which many programmers consider to be markedly superior to Windows. Revolution OS is a documentary that examines the genesis of the Open Source Movement, and explores and explains the technical and intellectual issues involved in a manner understandable to computer aficionados and non-techheads alike.
@@ -234,7 +234,7 @@
 ![Revolution_OS](assets/revolution_os.jpg)
 * Year: 2001
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt0308808/)
+* [_IMDb_](https://www.imdb.com/title/tt0308808/)
 
 ### 7.2
 
@@ -244,7 +244,7 @@
 ![We_Live_in_Public](assets/we_live_in_public.jpg)
 * Year: 2009
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt0498329/)
+* [_IMDb_](https://www.imdb.com/title/tt0498329/)
 
 ### 7.1
 
@@ -254,7 +254,7 @@
 ![Startup.com](assets/startup_com.jpg)
 * Year: 2001
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt0256408/)
+* [_IMDb_](https://www.imdb.com/title/tt0256408/)
 
 ### 7.0
 
@@ -264,7 +264,7 @@
 ![Deep_Web](assets/deep_web.jpg)
 * Year: 2015
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt3312868/)
+* [_IMDb_](https://www.imdb.com/title/tt3312868/)
 
 #### Steal This Film
 > Steal This Film is part one of a series, documenting the movement against intellectual property produced by The League of Noble Peers and released via the BitTorrent peer-to-peer protocol.
@@ -272,7 +272,7 @@
 ![Steal_This_Film](assets/steal_this_film.jpg)
 * Year: 2006
 * Country: UK, Germany, Sweden
-* [_IMDb_](http://www.imdb.com/title/tt1422757/)
+* [_IMDb_](https://www.imdb.com/title/tt1422757/)
 
 ### 6.9
 
@@ -282,7 +282,7 @@
 ![Google_and_the_World_Brain](assets/google_and_the_world_brain.jpg)
 * Year: 2013
 * Country: Spain, UK, Germany
-* [_IMDb_](http://www.imdb.com/title/tt2551516/)
+* [_IMDb_](https://www.imdb.com/title/tt2551516/)
 
 #### We Steal Secrets: The Story of WikiLeaks
 > A documentary that details the creation of Julian Assange's controversial website, which facilitated the largest security breach in U.S. history.
@@ -290,7 +290,7 @@
 ![We_Steal_Secrets_The_Story_of_WikiLeaks](assets/we_steal_secrets_the_story_of_wikiLeaks.jpg)
 * Year: 2013
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt1824254/)
+* [_IMDb_](https://www.imdb.com/title/tt1824254/)
 
 #### Downloaded
 > A documentary that explores the downloading revolution; the kids that created it, the bands and the businesses that were affected by it, and its impact on the world at large.
@@ -299,7 +299,7 @@
 * IMDB rating: 6.8
 * Year: 2013
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt2033981/)
+* [_IMDb_](https://www.imdb.com/title/tt2033981/)
 
 ### 6.8
 
@@ -309,7 +309,7 @@
 ![Talhotblond](assets/talhotblond.jpg)
 * Year: 2009
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt1370889/)
+* [_IMDb_](https://www.imdb.com/title/tt1370889/)
 
 ### 6.7
 
@@ -319,7 +319,7 @@
 ![Silicon_Cowboys](assets/silicon_cowboys.jpg)
 * Year: 2016
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt4938484/)
+* [_IMDb_](https://www.imdb.com/title/tt4938484/)
 
 ### 6.6
 
@@ -327,7 +327,7 @@
 
 * Year: 1998
 * Country: Germany, USA
-* [_IMDb_](http://www.imdb.com/title/tt0144969/)
+* [_IMDb_](https://www.imdb.com/title/tt0144969/)
 
 #### The Hacker Wars
 > Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy
@@ -335,7 +335,7 @@
 ![The_Hacker_Wars](assets/the_hacker_wars.jpg)
 * Year: 2014
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt4047350/)
+* [_IMDb_](https://www.imdb.com/title/tt4047350/)
 
 ### 6.4
 
@@ -344,7 +344,7 @@
 
 * Year: 2009
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt2292707/)
+* [_IMDb_](https://www.imdb.com/title/tt2292707/)
 
 ### 6.2
 
@@ -352,7 +352,7 @@
 
 * Year: 2002
 * Country: UK
-* [_IMDb_](http://www.imdb.com/title/tt1977808/)
+* [_IMDb_](https://www.imdb.com/title/tt1977808/)
 
 ### 6.0
 
@@ -362,7 +362,7 @@
 ![Hackers_Are_People_Too](assets/hackers_are_people_too.jpg)
 * Year: 2008
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt1279942/)
+* [_IMDb_](https://www.imdb.com/title/tt1279942/)
 
 #### DEFCON: The Documentary
 > DEFCON is the world's largest hacking conference, held in Las Vegas, Nevada. In 2012 it was held for the 20th time. The conference has strict no-filming policies, but for DEFCON 20, a documentary crew was allowed full access to the event. The film follows the four days of the conference, the events and people (attendees and staff), and covers history and philosophy behind DEFCON's success and unique experience.
@@ -370,7 +370,7 @@
 ![DEFCON_The_Documentary](assets/defcon_the_documentary.jpg)
 * Year: 2013
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt3010462/)
+* [_IMDb_](https://www.imdb.com/title/tt3010462/)
 
 #### War for the Web
 > War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
@@ -378,7 +378,7 @@
 ![War_for_the_Web](assets/war_for_the_web.jpg)
 * Year: 2015
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt2390367/)
+* [_IMDb_](https://www.imdb.com/title/tt2390367/)
 
 ### 5.5
 
@@ -386,12 +386,12 @@
 
 * Year: 2010
 * Country: Germany
-* [_IMDb_](http://www.imdb.com/title/tt1769296/)
+* [_IMDb_](https://www.imdb.com/title/tt1769296/)
 
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.

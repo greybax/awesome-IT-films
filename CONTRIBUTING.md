@@ -7,7 +7,7 @@
 ![Mr_Robot](assets/mr_robot.jpg)
 * Year: 2015-
 * Country: USA
-* [_IMDb_](http://www.imdb.com/title/tt4158110)
+* [_IMDb_](https://www.imdb.com/title/tt4158110)
 ```
 
 _**Please note**_
