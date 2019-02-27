@@ -126,7 +126,7 @@
 - [3.2 :star:](#_32)
   - [Y2K](#y2k)
 
-### 8.7
+### Matrix_Score
 
 #### Matrix
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
@@ -203,7 +203,7 @@
 #### Hidden Figures
 > The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
 
-![Hidden_Figures](assets/hidden_figures.jpg)
+![Office Space](assets/hidden_figures.jpg)
 * Year: 2017
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
@@ -287,7 +287,7 @@
 
 * Year: 2015
 * Country: UK
-* ![_IMDb_](https://www.imdb.com/title/tt4135218/)
+* [_IMDb_](https://www.imdb.com/title/tt4135218/)
 
 #### Enemy of the State
 > A lawyer becomes a target by a corrupt politician and his NSA goons when he accidentally receives key evidence to a serious politically motivated crime.
@@ -300,7 +300,7 @@
 #### Desk Set
 > Two extremely strong personalities clash over the computerization of a television network's research department.
 
-![Desk_Set](assets/desk_set.jpg)
+![Enemy_of_the_State](assets/desk_set.jpg)
 * Year: 1957
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0050307)

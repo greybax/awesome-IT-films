@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/greybax/awesome-IT-films#readme",
   "devDependencies": {
-    "docsify": "^4.8.1"
+    "docsify": "^4.8.1",
+    "imdb-api": "^4.0.2"
   }
 }
