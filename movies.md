@@ -136,6 +136,9 @@
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0133093/)
 
+   - The first time I watched this, I was absolutely amazed with the concept of it. The action is just so amazing to watch. I've seen this film couple times and each time it just gets better. If you like sci fi action films then this is the film for you.
+([@greybax](https://github.com/greybax))
+
 ### 8.3
 
 #### 2001: A Space Odyssey
@@ -191,6 +194,9 @@
 * Year: 2010
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1285016)
+
+   - The Social Network is about the establishment of one very popular website. This movie is about path young people to billionaire businesses.
+([@greybax](https://github.com/greybax))
 
 #### Office Space
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
@@ -559,6 +565,9 @@
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2234155)
+
+   - This movie inspired me that nothing is impossible. If you work hard and believe you will get what you want as main heroes of this film. 
+([@greybax](https://github.com/greybax))
 
 #### Transcendence
 > A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
