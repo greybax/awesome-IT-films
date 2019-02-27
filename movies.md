@@ -47,6 +47,7 @@
   - [GoldenEye](#goldeneye)
   - [The Matrix Reloaded](#the-matrix-reloaded)
   - [Alphaville](#alphaville)
+  - [Steve Jobs](#steve-jobs)
 - [7.1 :star:](#_71)
   - [Sneakers](#sneakers)
   - [Artificial Intelligence: AI](#artificial-intelligence-ai)
@@ -64,7 +65,7 @@
   - [TRON: Legacy](#tron-legacy)
   - [Underground_The_Julian_Assange_Story](#underground-the-julian-assange-story)
 - [6.7 :star:](#_67)
-  - [The Matrix Revolutions](#the-matrix-revolutions) 
+  - [The Matrix Revolutions](#the-matrix-revolutions)
 - [6.6 :star:](#_66)
   - [Eagle Eye](#eagle-eye)
   - [Weird Science](#weird-science)
@@ -345,6 +346,14 @@
 * Year: 1965
 * Country: France, Italy
 * [_IMDb_](https://www.imdb.com/title/tt0058898/)
+
+#### Steve Jobs
+> Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
+
+![Steve Jobs](assets/steve_jobs.jpg )
+* Year: 2015
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt2080374/)
 
 ### 7.1
 
