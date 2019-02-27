@@ -350,7 +350,7 @@
 #### Steve Jobs
 > Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
-![Steve Jobs](assets/steve_jobs.jpg )
+![Steve Jobs](assets/steve_jobs.jpg)
 * Year: 2015
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2080374/)
