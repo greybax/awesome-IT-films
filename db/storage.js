@@ -6,7 +6,7 @@ exports.MOVIES = {
     "Her_Score": "tt1798709",
     "The_Imitation_Game_Score" : "tt2084970",
     "The_Social_Network_Score" : "tt1285016",
-    "Office Space_Score": "tt0151804",
+    "Office_Space_Score": "tt0151804",
     "Hidden_Figures_Score": "tt4846340",
     "Minority_Report_Score": "tt0181689",
     "ex_machina_Score": "tt0470752",

@@ -136,7 +136,7 @@
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0133093/)
 
-### 8.3
+### 2001_Space_Score
 
 #### 2001: A Space Odyssey
 > A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate supercomputer HAL 9000.
@@ -146,7 +146,7 @@
 * Country: UK, USA
 * [_IMDb_](https://www.imdb.com/title/tt0062622/)
 
-### 8.2
+### Beautiful_Mind_Score
 
 #### A Beautiful Mind
 > After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
@@ -156,7 +156,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0268978/)
 
-### 8.0
+### Ghost_in_the_shell_Score
 
 #### Ghost in the shell
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
@@ -166,6 +166,7 @@
 * Country: Japan
 * [_IMDb_](https://www.imdb.com/title/tt0113568/)
 
+### Her_Score
 #### Her
 > In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
 
@@ -173,6 +174,8 @@
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1798709/)
+
+### The_Imitation_Game_Score
 
 #### The Imitation Game
 > Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
@@ -182,7 +185,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2084970/)
 
-### 7.8
+### The_Social_Network_Score
 
 #### The Social Network
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
@@ -192,6 +195,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1285016)
 
+### Office_Space_Score
+
 #### Office Space
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
@@ -200,15 +205,17 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0151804/)
 
+### Hidden_Figures_Score
+
 #### Hidden Figures
 > The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
 
-![Office Space](assets/hidden_figures.jpg)
+![Hidden Figures](assets/hidden_figures.jpg)
 * Year: 2017
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
 
-### 7.7
+### Minority_Report_Score
 
 #### Minority Report
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
