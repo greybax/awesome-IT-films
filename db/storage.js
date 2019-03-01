@@ -48,8 +48,32 @@ exports.MOVIES = {
     "Khottabych_Score": "tt0466043",
     "Takedown_Score": "tt0159784",
     "Internship_Score": "tt2234155",
-    
-
-
-
+    "Transcendence_Score": "tt2209764",
+    "Computer_chess_Score": "tt2007360",
+    "Hacker_Score": "tt3173594",
+    "Hackers_Score": "tt0113243",
+    "The_Fifth_Estate_Score": "tt1837703",
+    "One_Point_O_Score": "tt0317042",
+    "Antitrust_Score": "tt0218817",
+    "Disclosure_Score": "tt0109635",
+    "The_Computer_Wore_Tennis_Shoes_Score": "tt0065566",
+    "Jobs_score": "tt2357129",
+    "The_Net_Score": "tt0113957",
+    "Gamer_Score": "tt0408345",
+    "Firewall_Score": "tt0408345",
+    "Purpose_Score": "tt0257019",
+    "Virtuosity_Score": "tt0114857",
+    "Johnny_Mnemonic_Score" : "tt0113481",
+    "The_Lawnmower_Man_Score":"tt0104692",
+    "Blackhat_Score" : "tt2717822",
+    "iSteve_Score": "tt2782834",
+    "Open_Windows_Score": "tt2409818",
+    "Algorithm_Score": "tt3293462",
+    "Startap_Score": "tt3274728",
+    "Wargames_The_Dead_Code_Score": "tt0865957",
+    "Debug_Score": "tt2769184",
+    "Reboot_Score": "tt2090594",
+    "Terminal_Error_Score": "tt0283542",
+    "Hackers_Game_Score": "tt3140724",
+    "Y2K_Score": "tt0215370"
 }

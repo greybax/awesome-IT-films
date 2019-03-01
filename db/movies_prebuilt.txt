@@ -621,6 +621,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2234155)
 
+### Transcendence_Score
+
 #### Transcendence
 > A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
@@ -628,6 +630,8 @@
 * Year: 2013
 * Country: UK, China, USA
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
+
+### Computer_chess_Score
 
 #### Computer Chess
 > A 1980s-set story centered around a man vs. machine chess tournament.
@@ -647,6 +651,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0880578/)
 
+### Hacker_Score 
+
 #### Hacker
 > Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
 
@@ -654,6 +660,9 @@
 * Year: 2015
 * Country: USA, Thailand, Kazakhstan, Hong Kong, Canada
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
+
+
+### Hackers_Score
 
 #### Hackers
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
@@ -663,7 +672,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0113243/)
 
-### 6.1
+### The_Fifth_Estate_Score
 
 #### The Fifth Estate
 > A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.
@@ -673,6 +682,8 @@
 * Country: USA, India, Belgium
 * [_IMDb_](https://www.imdb.com/title/tt1837703/)
 
+### One_Point_O_Score
+
 #### One Point O
 > After receiving mysterious empty packages inside his apartment, a young computer-programmer begins a personal investigation into their origins.
 
@@ -680,6 +691,8 @@
 * Year: 2004
 * Country: USA, Romania, Iceland
 * [_IMDb_](https://www.imdb.com/title/tt0317042/)
+
+### Antitrust_Score
 
 #### Antitrust
 > A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.
@@ -689,7 +702,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0218817/)
 
-### 6.0
+### Disclosure_Score
 
 #### Disclosure
 > A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.
@@ -699,6 +712,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0109635/)
 
+### The_Computer_Wore_Tennis_Shoes_Score
+
 #### The Computer Wore Tennis Shoes
 > Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like the illegal business Arno is involved in.
 
@@ -707,7 +722,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0065566/)
 
-### 5.9
+### Jobs_score
 
 #### Jobs
 > The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.
@@ -717,7 +732,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2357129/)
 
-### 5.8
+### The_Net_Score
 
 #### The Net
 > A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.
@@ -727,6 +742,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0113957/)
 
+### Gamer_Score
+
 #### Gamer
 > In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?
 
@@ -734,6 +751,8 @@
 * Year: 2009
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1034032/)
+
+### Firewall_Score
 
 #### Firewall
 > A security specialist is forced into robbing the bank that he's protecting, as a bid to pay off his family's ransom.
@@ -743,7 +762,7 @@
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0408345/)
 
-### 5.7
+### Purpose_Score
 
 #### Purpose
 > A software developer becomes a billionaire and is distracted by fame, greed and power, then must save his invention and company from a hostile takeover.
@@ -753,7 +772,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0257019/)
 
-### 5.5
+### Virtuosity_Score
 
 #### Virtuosity
 > A virtual-reality serial killer manages to escape into the real world.
@@ -763,6 +782,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0114857/)
 
+### Johnny_Mnemonic_Score
+
 #### Johnny Mnemonic
 > A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.
 
@@ -771,7 +792,7 @@
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0113481/)
 
-### 5.4
+### The_Lawnmower_Man_Score
 
 #### The Lawnmower Man
 > A simple man is turned into a genius through the application of computer science.
@@ -781,6 +802,7 @@
 * Country: UK, USA, Japan
 * [_IMDb_](https://www.imdb.com/title/tt0104692/)
 
+### Blackhat_Score
 #### Blackhat
 > A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.
 
@@ -788,6 +810,8 @@
 * Year: 2015
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2717822)
+
+### iSteve_Score
 
 #### iSteve
 > A comedic look at the life of Steve Jobs.
@@ -797,7 +821,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2782834)
 
-### 5.2
+### Open_Windows_Score
 
 #### Open Windows
 > A jilted fan soon finds himself pulled into a deadly game of cat-and-mouse after he accepts the opportunity to spy on his favorite actress via his laptop.
@@ -807,7 +831,7 @@
 * Country: Spain, USA
 * [_IMDb_](https://www.imdb.com/title/tt2409818/)
 
-### 5.1
+### Algorithm_Score
 
 #### Algorithm
 > A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.
@@ -816,13 +840,15 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt3293462)
 
-### 4.5
+### Startap_Score
 
 #### Startap
 ![Startap](assets/startap.jpg)
 * Year: 2014
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt3274728/)
+
+### Wargames_The_Dead_Code_Score
 
 #### WarGames: The Dead Code
 > The United State's Department of Homeland Security is led to believe an American teen hacker playing a terrorist-attack simulator game online is a real terrorist out to destroy the U.S.
@@ -832,7 +858,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0865957/)
 
-### 4.4
+### Debug_Score
 
 #### Debug
 > Six young computer hackers sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.
@@ -842,7 +868,7 @@
 * Country: Canada
 * [_IMDb_](https://www.imdb.com/title/tt2769184)
 
-### 4.1
+### Reboot_Score
 
 #### Reboot
 > A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
@@ -852,18 +878,14 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2090594/)
 
-### 4.0
-
-#### Terminal Error
+#### Terminal Error - Terminal_Error_Score
 > Powerful automation software begins to make decisions for itself.
 
 * Year: 2002
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0283542)
 
-### 3.8
-
-#### Hacker's Game
+#### Hacker's Game - Hackers_Game_Score
 > A love story between two hackers, Soyan and Loise. Like many other hackers, Soyan works for a company he previously hacked.
 
 ![Hackers_Game](assets/hackers_game.jpg)
@@ -871,9 +893,8 @@
 * Country: USA, France
 * [_IMDb_](https://www.imdb.com/title/tt3140724)
 
-### 3.2
 
-#### Y2K
+#### Y2K - Y2K_Score
 > It's millennium eve. At the stroke of midnight the Y2K computer bug kicks in, causing widespread chaos in the US.
 
 * Year: 1999
