@@ -225,6 +225,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0181689)
 
+### ex_machina_Score
+
 #### Ex Machina
 > A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.
 
@@ -233,7 +235,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0470752/)
 
-### 7.6
+### Disconnect_Score
 
 #### Disconnect
 > A drama centered on a group of people searching for human connections in today's wired world.
@@ -243,6 +245,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
+### Who_Am_I_Score
+
 #### Who am I - No system is safe.
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
@@ -251,7 +255,7 @@
 * Country: Germany
 * [_IMDb_](https://www.imdb.com/title/tt3042408/)
 
-### 7.5
+### Ready_Player_One_Score
 
 #### Ready Player One
 > When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
@@ -261,7 +265,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1677720/)
 
-### 7.4
+### Pi_Score
 
 #### Pi
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
@@ -271,7 +275,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0138704/)
 
-### 7.3
+### 23_Score
 
 #### 23
 > The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
@@ -281,6 +285,8 @@
 * Country: Germany
 * [_IMDb_](https://www.imdb.com/title/tt0126765/)
 
+### Snowden_Score
+
 #### Snowden
 > The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.
 
@@ -289,12 +295,16 @@
 * Country: France, Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
 
+### Cyberbully_Score
+
 #### Cyberbully
 > A British teenager is forced by a computer hacker to do his bidding. If she refuses, the hacker will leak compromising photos of her to the public.
 
 * Year: 2015
 * Country: UK
 * [_IMDb_](https://www.imdb.com/title/tt4135218/)
+
+### Enemy_of_the_State_Score
 
 #### Enemy of the State
 > A lawyer becomes a target by a corrupt politician and his NSA goons when he accidentally receives key evidence to a serious politically motivated crime.
@@ -304,6 +314,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0120660/)
 
+### Desk_Set_Score
+
 #### Desk Set
 > Two extremely strong personalities clash over the computerization of a television network's research department.
 
@@ -312,7 +324,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0050307)
 
-### 7.2
+### Live_Free_or_Die_Hard_Score
 
 #### Live Free or Die Hard
 > John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
@@ -322,6 +334,8 @@
 * Country: USA, UK
 * [_IMDb_](https://www.imdb.com/title/tt0337978/)
 
+### Pirates_of_Silicon_Valley_Score
+
 #### Pirates of Silicon Valley
 > History of Apple and Microsoft.
 
@@ -329,6 +343,8 @@
 * Year: 1999
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0168122)
+
+### GoldenEye_Score
 
 #### GoldenEye
 > James Bond teams up with the lone survivor of a destroyed Russian research center to stop the hijacking of a nuclear space weapon by a fellow agent believed to be dead.
@@ -338,6 +354,8 @@
 * Country: UK, USA
 * [_IMDb_](https://www.imdb.com/title/tt0113189/)
 
+### The_Matrix_Reloaded_Score
+
 #### The Matrix Reloaded
 > Following the events of Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.
 
@@ -345,6 +363,8 @@
 * Year: 2003
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0234215/)
+
+### Alphaville_Score
 
 #### Alphaville
 > A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
@@ -354,6 +374,8 @@
 * Country: France, Italy
 * [_IMDb_](https://www.imdb.com/title/tt0058898/)
 
+### Steve_Jobs_Score
+
 #### Steve Jobs
 > Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
@@ -362,7 +384,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2080374/)
 
-### 7.1
+### Sneakers_Score
 
 #### Sneakers
 > Complex but lighthearted thriller about computers and cryptography, government and espionage, secrets and deception and betrayal.
@@ -372,6 +394,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0105435/)
 
+### Artificial_Intelligence_AI_Score
+
 #### Artificial Intelligence: AI
 > A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
 
@@ -380,12 +404,16 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
+### In_the_Realm_of_the_Hackers_Score
+
 #### In the Realm of the Hackers
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
 * Year: 2003
 * Country: Australia
 * [_IMDb_](https://www.imdb.com/title/tt1199631/)
+
+### WareGames_Score
 
 #### WarGames
 > A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
@@ -395,25 +423,27 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0086567/)
 
-### 7.0
+### The_Thirteenth_Floor_Score
 
 #### The Thirteenth Floor
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
-![The_Thirteenth_Floor](assets/the_thirteenth_floor.jpg)
+![7](assets/the_thirteenth_floor.jpg)
 * Year: 1999
 * Country: Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
 
+### Real_Genius_Score
+
 #### Real Genius
 > Teenage geniuses deal with their abilities while developing a laser.
 
-![Real_Genius](assets/real_genius.jpg)
+![7](assets/real_genius.jpg)
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0089886/)
 
-### 6.9
+### Primer_Score
 
 #### Primer
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
@@ -423,7 +453,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0390384/)
 
-### 6.8
+### The_Score_Score
 
 #### The Score
 > An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him into doing one last heist.
@@ -433,6 +463,8 @@
 * Country: USA, Germany
 * [_IMDb_](https://www.imdb.com/title/tt0227445/)
 
+### eXistenZ_Score
+
 #### eXistenZ
 > A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
 
@@ -440,6 +472,8 @@
 * Year: 1999
 * Country: Canada, UK
 * [_IMDb_](https://www.imdb.com/title/tt0120907/)
+
+### TRON_Score 
 
 #### TRON
 > A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
@@ -449,6 +483,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0084827/)
 
+### TRON_Legacy_Score
+
 #### TRON: Legacy
 > The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.
 
@@ -456,6 +492,8 @@
 * Year: 2010
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1104001/)
+
+### Underground_Score
 
 #### Underground: The Julian Assange Story
 > A look at the early career of Wikileaks founder, Julian Assange.
@@ -465,7 +503,7 @@
 * Country: Australia
 * [_IMDb_](https://www.imdb.com/title/tt2357453/)
 
-### 6.7
+### The_Matrix_Revolutions_Score
 
 #### The Matrix Revolutions
 
@@ -476,7 +514,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0242653/)
 
-### 6.6
+### Eagle_Eye_Score
 
 #### Eagle Eye
 > Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.
@@ -486,6 +524,8 @@
 * Country: USA, Germany
 * [_IMDb_](https://www.imdb.com/title/tt1059786/)
 
+### Weird_Science_Score 
+
 #### Weird Science
 > Two high school nerds attempt to create the perfect woman, but she turns out to be more than that.
 
@@ -493,6 +533,8 @@
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0090305/)
+
+### FoolProof_Score
 
 #### Foolproof
 > Kevin, Sam and Rob are founding members of a theoretical group which pulls off heists. Leo, a gangster, blackmails them into pulling off a real multi-million dollar heist. Now it's up to them to get out alive.
@@ -502,6 +544,8 @@
 * Country: Canada
 * [_IMDb_](https://www.imdb.com/title/tt0356614/)
 
+### Middle_Men_Score
+
 #### Middle Men
 > Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals, and struggles not to drown in a sea of con men, mobsters, drug addicts, and porn stars.
 
@@ -510,15 +554,17 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1251757/)
 
+### Kairo_Score
+
 #### Kairo
 > Two groups of people discover evidence that suggests spirits may be trying to invade the human world through the Internet.
 
-![Middle_Men](assets/kairo.jpg)
+![Kairo](assets/kairo.jpg)
 * Year: 2001
 * Country: Japan
 * [_IMDb_](https://www.imdb.com/title/tt0286751)
 
-### 6.5
+### Swordfish_Score
 
 #### Swordfish
 > A secretive renegade counter-terrorist co-opts the world's greatest hacker (who is trying to stay clean) to steal billions in US Government dirty money.
@@ -528,6 +574,8 @@
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0244244/)
 
+### Brainstorm_Score
+
 #### Brainstorm
 > Brilliant researchers Lillian Reynolds and Michael Brace have developed a system of recording and playing back actual experiences of people. Once the capability of tapping into "higher brain functions" is added in, and you can literally jump into someone else's head and play back recordings of what he or she was thinking, feeling, seeing, etc., at the time of the recording, the applications for the project quickly spiral out of control. While Michael Brace uses the system to become close again to Karen Brace, his estranged wife who also works on the project, others start abusing it for intense sexual experiences and other logical but morally questionable purposes. The government tries to kick Michael and Lillian off the project once the vast military potential of the technology is discovered. It soon becomes obvious that the government is interested in more than just missile guidance systems. The lab starts producing mind torture recordings and other psychosis inducing material. When one of the researchers dies and tapes the experience of death, Michael is convinced that he must playback this tape to honor the memory of the researcher and to become enlightened. When another researcher dies during playback the tape is locked away and Michael has to fight against his former colleagues and the government lackeys that now run his lab in order to play back and confront the "scariest thing any of us will ever face" - death itself.
 
@@ -535,6 +583,8 @@
 * Year: 1983
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0085271)
+
+### Electric_Dreams_Score
 
 #### Electric Dreams
 > An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman.
@@ -544,13 +594,15 @@
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
+### Khottabych_Score
+
 #### Khottabych
 ![Khottabych](assets/khottabych.jpg)
 * Year: 2006
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt0466043)
 
-### 6.3
+### Takedown_Score
 
 #### Takedown
 > This film is based on the story of the capture of computer hacker "Kevin Mitnick".
@@ -558,6 +610,8 @@
 * Year: 2000
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0159784/)
+
+### The_Internship_Score
 
 #### The Internship
 > Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.

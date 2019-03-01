@@ -29,8 +29,27 @@ exports.MOVIES = {
     "Artificial_Intelligence_AI_Score": "tt0212720",
     "In_the_Realm_of_the_Hackers_Score": "tt1199631",
     "WarGames_Score": "tt0086567",
-    "The_Thirteenth_Floor": "tt0139809",
-    "Real_Genius": "tt0089886",
-    "Primer": "tt0390384"
+    "The_Thirteenth_Floor_Score": "tt0139809",
+    "Real_Genius_Score": "tt0089886",
+    "Primer_Score": "tt0390384",
+    "The_Score_Score": "tt0227445",
+    "eXistenZ_Score" : "tt0120907",
+    "TRON_Score" : "tt0084827",
+    "TRON_Legacy_Score": "tt1104001",
+    "Underground_Score": "tt2357453",
+    "The_Matrix_Revolutions_Score": "tt0242653",
+    "Eagle_Eye_Score": "tt1059786",
+    "Weird_Science_Score": "tt0090305",
+    "FoolProof_Score": "tt0356614",
+    "Middle_Men_Score": "tt1251757",
+    "Swordfish_Score": "tt0244244",
+    "Brainstorm_Score": "tt0085271",
+    "Electric_Dreams_Score": "tt0087197",
+    "Khottabych_Score": "tt0466043",
+    "Takedown_Score": "tt0159784",
+    "Internship_Score": "tt2234155",
+    
+
+
 
 }
