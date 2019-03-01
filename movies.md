@@ -249,7 +249,7 @@
 ### 7.0-7.5
 
 #### Pi 
-:star 7.4
+:star: 7.4
 
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
 
@@ -389,7 +389,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: In_the_Realm_of_the_6.2 
+:star: 7.2 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -648,7 +648,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
 
 #### Hackers
-:star: Hackers_Score
+:star: 6.2
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
@@ -908,4 +908,3 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
-this work.

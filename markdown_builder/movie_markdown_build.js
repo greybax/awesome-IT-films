@@ -1,6 +1,6 @@
 const fs = require("fs");
 const imdb = require("imdb-api");
-const storage = require("./db/storage");
+const storage = require("../db/storage");
 
 const keys = Object.keys(storage.MOVIES);
 
