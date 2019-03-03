@@ -1,4 +1,4 @@
-exports.MOVIES = {
+const MOVIES = {
     "Matrix_Score": "tt0133093",
     "2001_Space_Score": "tt0062622",
     "Beautiful_Mind_Score": "tt0268978",
@@ -78,3 +78,61 @@ exports.MOVIES = {
     "Hackers_Game_Score": "tt3140724",
     "Y2K_Score": "tt0215370"
 }
+const SHOWS = {
+    "Black_Mirror_Score": "tt2085059",
+    "MR_ROBOT_SCORE": "tt4158110",
+    "IT_CROWD": "tt0487831",
+    "Silicon_Valley_Score": "tt2575988",
+    "Person_Of_Interest": "tt1839578",
+    "Halt_And_Catch_Score": "tt2543312",
+    "Chuck_Score": "tt0934814",
+    "The_Lone_Gunmen": "tt0243069",
+    "Hack_Roots_Score": "tt0807655"
+}
+const DOCS  = {
+    "The_Triumph_Of_The_Nerds_Score": "tt0115398",
+    "The KGB_Score": "tt0308449",
+    "Citizenfour_Score": "tt4044364",
+    "The_Internets_Own_Boy_Score": "tt3268458",
+    "Hacking_Democracy_Score": "tt0808532",
+    "Zero_Days_Score": "tt5446858",
+    "Indie_Game_The_Movie_Score": "tt1942884",
+    "DSKNECTD_Score": "tt1942884",
+    "Freedom_Downtime_Score": "tt0309614",
+    "TPB_AFK_Score": "tt2608732",
+    "Secret_History_of_Hacking_Score": "tt2338277",
+    "Code_2600_Score": "tt1830538",
+    "Hackers_Wizards_Score": "tt1191116",
+    "The_Secret_Rules_Of_Modern_Living_Score": "tt5818010",
+    "We_Are_Legion_Score": "tt2177843",
+    "The_Singularity_Score": "tt2073120",
+    "Terms_and_Conditions_May_Apply_Score": "tt2084953",
+    "Code_Rush_Score": "tt0499004",
+    "Revolution_OS_Score": "tt0308808",
+    " We_Live_in_Public_Score": "tt0498329",
+    "Startup_Score": "tt0256408",
+    "Deep_Web_Score": "tt3312868",
+    "Steal_This_Film_Score": "tt1422757",
+    "Google_And_The_World_Brain_Score" : "tt2551516",
+    "We_Steal_Secrets_Score": "tt1824254",
+    "Downloaded_Score": "tt2033981",
+    "Talhotblond_Score": "tt1370889",
+    "Silicon_Cowboys_Score": "tt4938484",
+    "Home_Page_Score": "tt0144969",
+    "Hackers_Wanted_Score": "tt2292707",
+    "Hackers_Outlaws_and_Angels_Score":"tt1977808",
+    "Hackers_Are_People_Too_Score": "tt1279942",
+    "DEFCON_Score": "tt3010462",
+    "War_for_the_Web_Score": "tt2390367",
+    "Hacker_Score": "tt1769296"
+}
+const BADGES = {
+    "movies" : "Movies_Total",
+    "docs" : "Documentary_Total",
+    "shows": "Shows_Total"
+}
+
+module.exports.MOVIES = MOVIES;  
+module.exports.SHOWS = SHOWS;
+module.exports.DOCS = DOCS;
+module.exports.BADGES = BADGES;

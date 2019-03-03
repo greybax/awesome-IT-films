@@ -4,6 +4,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
+![Movies](https://img.shields.io/badge/Movies-movies-blue.svg)
+![Documentary](https://img.shields.io/badge/Documentary-docs-green.svg)
+![TV Series](https://img.shields.io/badge/TV_Series-shows-red.svg)
 
 ## Contents
 
@@ -19,7 +22,7 @@
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
   - [The Imitation Game](#the-imitation-game)
-- [7.5-8.9 :star:](#_75-79)
+- [7.5-7.9 :star:](#_75-79)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
   - [Hidden Figures](#hidden-figures)
@@ -908,3 +911,5 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
+work.
+ghts to this work.
