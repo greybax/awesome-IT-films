@@ -4,9 +4,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
-![Movies](https://img.shields.io/badge/Movies-movies-blue.svg)
-![Documentary](https://img.shields.io/badge/Documentary-docs-green.svg)
-![TV Series](https://img.shields.io/badge/TV_Series-shows-red.svg)
+![Movies](https://img.shields.io/badge/Movies-Movies_Total-blue.svg)
+![Documentary](https://img.shields.io/badge/Documentary-Documentary_Total-green.svg)
+![TV Series](https://img.shields.io/badge/TV_Series-Shows_Total-red.svg)
 
 ## Contents
 
@@ -392,7 +392,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: 7.2 
+:star: In_the_Realm_of_the_6.2 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -651,7 +651,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
 
 #### Hackers
-:star: 6.2
+:star: Hackers_Score
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
@@ -911,5 +911,27 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
-work.
+is work.
+eighboring rights to this work.
+s work.
+ng rights to this work.
+s work.
+ to this work.
+ this work.
+s work.
+this work.
+ work.
 ghts to this work.
+this work.
+work.
+ng rights to this work.
+ng rights to this work.
+this work.
+this work.
+g rights to this work.
+hts to this work.
+ this work.
+to this work.
+ring rights to this work.
+his work.
+ork.
