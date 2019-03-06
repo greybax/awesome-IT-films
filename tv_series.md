@@ -25,6 +25,8 @@
   - [Chuck](#chuck)
 - [7.5 :star:](#_75)
   - [The Lone Gunmen](#the-lone-gunmen)
+- [7.3 :star:](#_73)
+  - [Bandersnatch](#bandersnatch)
 - [6.6 :star:](#_66)
   - [ .hack//Roots](#hack_roots)
 
@@ -104,6 +106,16 @@
 * Year: 2001-
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0243069)
+
+### 7.3
+
+#### Bandersnatch : Black Mirror Event
+> A young programmer starts to question reality when he adapts a mad writer's fantasy novel into a video game.
+
+![Bandersnatch](assets/bandersnatch.jpg)
+* Year: 2018
+* Country: UK
+* [_IMDb_](https://www.imdb.com/title/tt9495224/)
 
 ### 6.6
 
