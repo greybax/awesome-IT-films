@@ -911,27 +911,3 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
-is work.
-eighboring rights to this work.
-s work.
-ng rights to this work.
-s work.
- to this work.
- this work.
-s work.
-this work.
- work.
-ghts to this work.
-this work.
-work.
-ng rights to this work.
-ng rights to this work.
-this work.
-this work.
-g rights to this work.
-hts to this work.
- this work.
-to this work.
-ring rights to this work.
-his work.
-ork.
