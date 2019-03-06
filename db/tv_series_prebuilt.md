@@ -28,7 +28,7 @@
 ### 8.5-8.9
 
 #### Black Mirror
-8.9 :star:
+Black_Mirror_Score :star:
 
 > A television anthology series that shows the dark side of life and technology.
 
@@ -38,7 +38,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2085059/)
 
 #### Mr. Robot
-8.6 :star:
+MR_ROBOT_SCORE :star:
 
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 
@@ -48,7 +48,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4158110)
 
 #### The IT Crowd
-8.5 :star:
+IT_CROWD :star:
 
 > The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 
@@ -58,7 +58,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0487831)
 
 #### Silicon Valley
-8.5 :star:
+Silicon_Valley_Score :star:
 
 > In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.
 
@@ -68,7 +68,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2575988/)
 
 #### Person of Interest
-8.4 :star:
+Person_Of_Interest :star:
 
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 
@@ -80,7 +80,7 @@
 ### 8.0-8.5
 
 #### Halt and Catch Fire
-8.4 :star:
+Halt_And_Catch_Score :star:
 
 > Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
 
@@ -90,7 +90,7 @@
 * [IMDb](https://www.imdb.com/title/tt2543312/)
 
 #### Chuck
-8.2 :star:
+Chuck_Score :star:
 
 > When a twenty-something computer geek inadvertently downloads critical government secrets into his brain, the C.I.A. and the N.S.A. assign two Agents to protect him, and exploit such knowledge, turning his life upside down.
 
@@ -102,7 +102,7 @@
 ### 7.0-7.5
 
 #### The Lone Gunmen
-7.4_Score :star:
+The_Lone_Gunmen_Score :star:
 
 > Spin-off of The X-Files featuring the trio of computer-hacking conspiracy geeks popularly known as The Lone Gunmen. Never ones to stray far from the center of corporate and government intrigue, the threesome of John Byers, Melvin Frohike, and Richard Langly play like a misguided Mission Impossible team, embarking on a series of comic adventures that simultaneously highlight their genius and ineptitude. While their newfound independence inspires them to investigate even the most shadowy of conspiracies, their social skills remain stagnant, which only makes their lives more difficult when they learn their chief competitor in the "information business" is the brilliant and beautiful Yves Adele Harlow. Perpetually short of funds to publish The Lone Gunmen newspaper, Byers, Frohike and Langly begrudgingly take on Jimmy Bond as an unlikely benefactor who bankrolls their missions and joins them in their investigations to uncover the truth.
 
@@ -114,7 +114,7 @@
 ### 6.0-6.5
 
 #### .hack//Roots
-6.6 :star:
+Hack_Roots_Score :star:
 
 > In 2015, CC Corporation's data-center caught on fire destroying "The World". By splicing in data from what would have been another project, CC Corp. was able to rebuild the game. In 2016, "The World R:2" was released. .hack//Roots covers the time Haseo spent with Shino and Ovan in the guild known as the Twilight Brigade, before the .hack//G.U. PS2 games.
 
@@ -130,5 +130,3 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
-to this work.
- work.

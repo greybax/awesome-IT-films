@@ -6,7 +6,10 @@
     "doc": "docs"
   },
   "scripts": {
-    "serve": "docsify serve . --open"
+    "serve": "docsify serve . --open",
+    "build-movies": "node ./markdown_builder/movie_markdown_build.js",
+    "build-tv-series": "node ./markdown_builder/shows_markdown_build.js",
+    "build-documentary": "node ./markdown_builder/documentary_markdown_build.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +28,8 @@
   },
   "homepage": "https://github.com/greybax/awesome-IT-films#readme",
   "devDependencies": {
-    "docsify": "^4.8.1"
+    "docsify": "^4.8.1",
+    "imdb-api": "^4.0.2",
+    "dotenv": "^6.2.0"
   }
 }

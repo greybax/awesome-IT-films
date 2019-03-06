@@ -4,9 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
-![Movies](https://img.shields.io/badge/Movies-Movies_Total-blue.svg)
-![Documentary](https://img.shields.io/badge/Documentary-Documentary_Total-green.svg)
-![TV Series](https://img.shields.io/badge/TV_Series-Shows_Total-red.svg)
+
 
 ## Contents
 
@@ -106,7 +104,7 @@
 ### 8.5-8.9
 
 #### Matrix 
-:star: 8.7
+:star: Matrix_Score
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
@@ -118,7 +116,7 @@
 ### 8.0-8.5
 
 #### 2001: A Space Odyssey
-:star: 8.3
+:star: 2001_Space_Score
 
 > A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate supercomputer HAL 9000.
 
@@ -128,7 +126,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0062622/)
 
 #### A Beautiful Mind 
-:star: 8.2
+:star: Beautiful_Mind_Score
 
 > After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
 
@@ -138,7 +136,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0268978/)
 
 #### Ghost in the shell 
-:star: 8 
+:star: Ghost_in_the_shell_Score 
 
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
@@ -148,7 +146,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113568/)
 
 #### Her 
-:star: 8
+:star: Her_Score
 
 > In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
 
@@ -158,7 +156,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1798709/)
 
 #### The Imitation Game 
-:star: 8
+:star: The_Imitation_Game_Score
 
 > Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
 
@@ -170,7 +168,7 @@
 ### 7.5-7.9
 
 #### The Social Network 
-:star: 7.7
+:star: The_Social_Network_Score
 
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
 
@@ -180,7 +178,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1285016)
 
 #### Office Space 
-:star: 7.8
+:star: Office_Space_Score
 
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
@@ -190,7 +188,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0151804/)
 
 #### Hidden Figures
-:star: 7.8
+:star: Hidden_Figures_Score
 
 > The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
 
@@ -200,7 +198,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
 
 #### Minority report
-:star: 7.7
+:star: Minority_Report_Score
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
@@ -210,7 +208,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0181689)
 
 #### Ex Machina 
-:star: 7.7
+:star: ex_machina_Score
 
 > A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.
 
@@ -220,7 +218,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0470752/)
 
 #### Disconnect 
-:star: 7.5
+:star: Disconnect_Score
 
 > A drama centered on a group of people searching for human connections in today's wired world.
 
@@ -230,7 +228,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
 #### Who am I - No system is safe. 
-:star: 7.6 
+:star: Who_Am_I_Score 
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
@@ -240,7 +238,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3042408/)
 
 #### Ready Player One 
-:star: 7.5 
+:star: Ready_Player_One_Score 
 
 > When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
 
@@ -252,7 +250,7 @@
 ### 7.0-7.5
 
 #### Pi 
-:star: 7.4
+:star: Pi_Score
 
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
 
@@ -262,7 +260,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0138704/)
 
 #### 23 
-:star: 7.3 
+:star: 23_Score 
 
 > The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
 
@@ -272,7 +270,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0126765/)
 
 #### Snowden 
-:star: 7.3
+:star: Snowden_Score
 
 > The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.
 
@@ -282,7 +280,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
 
 #### Cyberbully 
-:star: 6.9 
+:star: Cyberbully_Score 
 
 > A British teenager is forced by a computer hacker to do his bidding. If she refuses, the hacker will leak compromising photos of her to the public.
 
@@ -291,7 +289,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4135218/)
 
 #### Enemy of the State 
-:star: 7.3 
+:star: Enemy_of_the_State_Score 
 
 > A lawyer becomes a target by a corrupt politician and his NSA goons when he accidentally receives key evidence to a serious politically motivated crime.
 
@@ -301,7 +299,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0120660/)
 
 #### Desk Set 
-:star: 7.3 
+:star: Desk_Set_Score 
 
 > Two extremely strong personalities clash over the computerization of a television network's research department.
 
@@ -311,7 +309,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0050307)
 
 #### Live Free or Die Hard 
-:star: 7.1
+:star: Live_Free_or_Die_Hard_Score
 
 > John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
 
@@ -321,7 +319,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0337978/)
 
 #### Pirates of Silicon Valley 
-:star: 7.3 
+:star: Pirates_of_Silicon_Valley_Score 
 
 > History of Apple and Microsoft.
 
@@ -331,7 +329,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0168122)
 
 #### GoldenEye 
-:star: 7.2
+:star: GoldenEye_Score
 
 > James Bond teams up with the lone survivor of a destroyed Russian research center to stop the hijacking of a nuclear space weapon by a fellow agent believed to be dead.
 
@@ -341,7 +339,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113189/)
 
 #### The Matrix Reloaded 
-:star: 7.2
+:star: The_Matrix_Reloaded_Score
 
 > Following the events of Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.
 
@@ -351,7 +349,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0234215/)
 
 #### Alphaville 
-:star: 7.2 
+:star: Alphaville_Score 
 
 > A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
 
@@ -361,7 +359,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0058898/)
 
 #### Steve Jobs 
-:star: 7.2
+:star: Steve_Jobs_Score
 
 > Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
@@ -371,7 +369,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2080374/)
 
 #### Sneakers
-:star: 7.1 
+:star: Sneakers_Score 
 
 > Complex but lighthearted thriller about computers and cryptography, government and espionage, secrets and deception and betrayal.
 
@@ -382,7 +380,7 @@
 
 
 #### Artificial Intelligence: AI
-:star: 7.1 
+:star: Artificial_Intelligence_AI_Score 
 
 > A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
 
@@ -392,7 +390,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: In_the_Realm_of_the_6.2 
+:star: In_the_Realm_of_the_Hackers_Score 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -411,7 +409,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0086567/)
 
 #### The Thirteenth Floor
-:star: 7 
+:star: The_Thirteenth_Floor_Score 
 
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
@@ -421,7 +419,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
 
 #### Real Genius 
-:star: 7 
+:star: Real_Genius_Score 
 
 > Teenage geniuses deal with their abilities while developing a laser.
 
@@ -433,7 +431,7 @@
 ### 6.5-6.9
 
 #### Primer
-:star: 6.9 
+:star: Primer_Score 
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 
@@ -443,7 +441,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0390384/)
 
 #### The Score
-:star: 6.8
+:star: The_Score_Score
 
 > An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him into doing one last heist.
 
@@ -453,7 +451,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0227445/)
 
 #### eXistenZ
-:star: 6.8 
+:star: eXistenZ_Score 
 
 > A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
 
@@ -463,7 +461,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0120907/)
 
 #### TRON
-:star: 6.8 
+:star: TRON_Score 
 
 > A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
 
@@ -473,7 +471,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0084827/)
 
 #### TRON: Legacy
-:star: 6.8 
+:star: TRON_Legacy_Score 
 
 > The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.
 
@@ -483,7 +481,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1104001/)
 
 #### Underground: The Julian Assange Story
-:star: 6.7 
+:star: Underground_Score 
 
 > A look at the early career of Wikileaks founder, Julian Assange.
 
@@ -493,7 +491,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2357453/)
 
 #### The Matrix Revolutions 
-:star: 6.7
+:star: The_Matrix_Revolutions_Score
 
 > The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
 
@@ -503,7 +501,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0242653/)
 
 #### Eagle Eye 
-:star: 6.6 
+:star: Eagle_Eye_Score 
 
 > Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.
 
@@ -513,7 +511,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1059786/)
 
 #### Weird Science
-:star: 6.6 
+:star: Weird_Science_Score 
 
 > Two high school nerds attempt to create the perfect woman, but she turns out to be more than that.
 
@@ -523,7 +521,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0090305/)
 
 #### Foolproof
-:star: 6.5 
+:star: FoolProof_Score 
 
 > Kevin, Sam and Rob are founding members of a theoretical group which pulls off heists. Leo, a gangster, blackmails them into pulling off a real multi-million dollar heist. Now it's up to them to get out alive.
 
@@ -533,7 +531,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0356614/)
 
 #### Middle Men 
-:star: 6.6 
+:star: Middle_Men_Score 
 
 > Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals, and struggles not to drown in a sea of con men, mobsters, drug addicts, and porn stars.
 
@@ -553,7 +551,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0286751)
 
 #### Swordfish
-:star: 6.5 
+:star: Swordfish_Score 
 > A secretive renegade counter-terrorist co-opts the world's greatest hacker (who is trying to stay clean) to steal billions in US Government dirty money.
 
 ![Swordfish](assets/swordfish.jpg)
@@ -562,7 +560,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0244244/)
 
 #### Brainstorm
-:star: 6.5 
+:star: Brainstorm_Score 
 
 > Brilliant researchers Lillian Reynolds and Michael Brace have developed a system of recording and playing back actual experiences of people. Once the capability of tapping into "higher brain functions" is added in, and you can literally jump into someone else's head and play back recordings of what he or she was thinking, feeling, seeing, etc., at the time of the recording, the applications for the project quickly spiral out of control. While Michael Brace uses the system to become close again to Karen Brace, his estranged wife who also works on the project, others start abusing it for intense sexual experiences and other logical but morally questionable purposes. The government tries to kick Michael and Lillian off the project once the vast military potential of the technology is discovered. It soon becomes obvious that the government is interested in more than just missile guidance systems. The lab starts producing mind torture recordings and other psychosis inducing material. When one of the researchers dies and tapes the experience of death, Michael is convinced that he must playback this tape to honor the memory of the researcher and to become enlightened. When another researcher dies during playback the tape is locked away and Michael has to fight against his former colleagues and the government lackeys that now run his lab in order to play back and confront the "scariest thing any of us will ever face" - death itself.
 
@@ -572,7 +570,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0085271)
 
 #### Electric Dreams 
-:star: 6.5 
+:star: Electric_Dreams_Score 
 
 > An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman.
 
@@ -582,7 +580,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
 #### Khottabych
-:star:6.3 
+:star:Khottabych_Score 
 
 ![Khottabych](assets/khottabych.jpg)
 * Year: 2006
@@ -592,7 +590,7 @@
 ### 6.0-6.5
 
 #### Takedown 
-:star: 6.3 
+:star: Takedown_Score 
 
 > This film is based on the story of the capture of computer hacker "Kevin Mitnick".
 
@@ -601,7 +599,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0159784/)
 
 #### The Internship
-:star: The_6.3 
+:star: The_Internship_Score 
 
 > Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
 
@@ -611,7 +609,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2234155)
 
 #### Transcendence
-:star: 6.3 
+:star: Transcendence_Score 
 
 > A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
@@ -621,7 +619,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
 
 #### Computer Chess
-:star: 6.3 
+:star: Computer_chess_Score 
 
 > A 1980s-set story centered around a man vs. machine chess tournament.
 
@@ -631,7 +629,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2007360/)
 
 #### Untraceable
-:star: 6.2 
+:star: Untraceable_Score 
 
 > FBI agent Jennifer Marsh is tasked with hunting down a seemingly untraceable serial killer who posts live videos of his victims on the Internet. As time runs out, the cat and mouse chase becomes more personal.
 
@@ -641,7 +639,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0880578/)
 
 #### Hacker
-:star: 6.2
+:star: Hacker_Score
 
 > Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
 
@@ -661,7 +659,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113243/)
 
 #### The Fifth Estate
-:star: 6.2 
+:star: The_Fifth_Estate_Score 
 
 > A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.
 
@@ -671,7 +669,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1837703/)
 
 #### One Point O
-:star: 6.1 
+:star: One_Point_O_Score 
 
 > After receiving mysterious empty packages inside his apartment, a young computer-programmer begins a personal investigation into their origins.
 
@@ -681,7 +679,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0317042/)
 
 #### Antitrust
-:star: 6.1 
+:star: Antitrust_Score 
 
 > A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.
 
@@ -691,7 +689,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0218817/)
 
 #### Disclosure
-:star: 6.1 
+:star: Disclosure_Score 
 
 > A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.
 
@@ -701,7 +699,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0109635/)
 
 #### The Computer Wore Tennis Shoes
-:star: 6.1
+:star: The_Computer_Wore_Tennis_Shoes_Score
 
 > Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like the illegal business Arno is involved in.
 
@@ -713,7 +711,7 @@
 ### 5.5-5.9
 
 #### Jobs
-:star: 5.9 
+:star: Jobs_score 
 
 > The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.
 
@@ -723,7 +721,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2357129/)
 
 #### The Net
-:star: 5.9 
+:star: The_Net_Score 
 
 > A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.
 
@@ -733,7 +731,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113957/)
 
 #### Gamer
-:star: 5.8 
+:star: Gamer_Score 
 
 > In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?
 
@@ -743,7 +741,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1034032/)
 
 #### Firewall
-:star: 5.8 
+:star: Firewall_Score 
 
 > A security specialist is forced into robbing the bank that he's protecting, as a bid to pay off his family's ransom.
 
@@ -753,7 +751,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0408345/)
 
 #### Purpose
-:star: 5.6 
+:star: Purpose_Score 
 
 > A software developer becomes a billionaire and is distracted by fame, greed and power, then must save his invention and company from a hostile takeover.
 
@@ -763,7 +761,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0257019/)
 
 #### Virtuosity
-:star: 5.6
+:star: Virtuosity_Score
 
 > A virtual-reality serial killer manages to escape into the real world.
 
@@ -773,7 +771,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0114857/)
 
 #### Johnny Mnemonic
-:star: 5.6 
+:star: Johnny_Mnemonic_Score 
 
 > A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.
 
@@ -785,7 +783,7 @@
 ### 5.0-5.5
 
 #### The Lawnmower Man
-:star: 5.4 
+:star: The_Lawnmower_Man_Score 
 
 > A simple man is turned into a genius through the application of computer science.
 
@@ -795,7 +793,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0104692/)
 
 #### Blackhat
-:star: 5.4 
+:star: Blackhat_Score 
 
 > A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.
 
@@ -805,7 +803,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2717822)
 
 #### iSteve
-:star: 5.3 
+:star: iSteve_Score 
 
 > A comedic look at the life of Steve Jobs.
 
@@ -815,7 +813,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2782834)
 
 #### Open Windows
-:star: 5.2 
+:star: Open_Windows_Score 
 
 > A jilted fan soon finds himself pulled into a deadly game of cat-and-mouse after he accepts the opportunity to spy on his favorite actress via his laptop.
 
@@ -825,7 +823,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2409818/)
 
 #### Algorithm 
-:star: 4.8
+:star: Algorithm_Score
 
 > A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.
 
@@ -836,7 +834,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star:4.6 
+:star:Startap_Score 
 
 ![Startap](assets/startap.jpg)
 * Year: 2014
@@ -844,7 +842,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3274728/)
 
 #### WarGames: The Dead Code
-:star: 4.5 
+:star: Wargames_The_Dead_Code_Score 
 
 > The United State's Department of Homeland Security is led to believe an American teen hacker playing a terrorist-attack simulator game online is a real terrorist out to destroy the U.S.
 
@@ -854,7 +852,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0865957/)
 
 #### Debug
-:star: 4.3 
+:star: Debug_Score 
 
 > Six young computer hackers sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.
 
@@ -864,7 +862,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2769184)
 
 #### Reboot
-:star: 4.2 
+:star: Reboot_Score 
 
 > A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
 
@@ -874,7 +872,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2090594/)
 
 #### Terminal Error
-:star: 4 
+:star: Terminal_Error_Score 
 
 > Powerful automation software begins to make decisions for itself.
 
@@ -885,7 +883,7 @@
 ### 3.9-3.0
 
 #### Hacker's Game
-:star: 3.8
+:star: Hackers_Game_Score
 
 > A love story between two hackers, Soyan and Loise. Like many other hackers, Soyan works for a company he previously hacked.
 
@@ -896,7 +894,7 @@
 
 
 #### Y2K
-:star: 3.2 
+:star: Y2K_Score 
 
 > It's millennium eve. At the stroke of midnight the Y2K computer bug kicks in, causing widespread chaos in the US.
 
