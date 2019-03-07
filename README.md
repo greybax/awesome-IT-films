@@ -11,6 +11,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
+[![Codeship Status for greybax/awesome-IT-films](https://app.codeship.com/projects/9087a2d0-229e-0137-9e82-42071966847b/status?branch=master)](https://app.codeship.com/projects/329764)
 
 > A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. If you know some good films which do not contain in these lists just [fork it](https://github.com/greybax/awesome-IT-films/fork) and send a pull request.
 
