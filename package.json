@@ -7,6 +7,7 @@
   },
   "scripts": {
     "serve": "docsify serve . --open",
+    "build-all": "npm run build-movies & npm run build-tv-series & npm run build-documentary",
     "build-movies": "node ./markdown_builder/movie_markdown_build.js",
     "build-tv-series": "node ./markdown_builder/shows_markdown_build.js",
     "build-documentary": "node ./markdown_builder/documentary_markdown_build.js"

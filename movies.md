@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub contributors](https://img.shields.io/github/contributors/greybax/awesome-IT-films.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
@@ -392,7 +392,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: In_the_Realm_of_the_6.2 
+:star: 7.2 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -651,7 +651,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
 
 #### Hackers
-:star: Hackers_Score
+:star: 6.2
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
