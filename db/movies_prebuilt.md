@@ -112,6 +112,9 @@
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0133093/)
 
+   - The first time I watched this, I was absolutely amazed with the concept of it. The action is just so amazing to watch. I've seen this film couple times and each time it just gets better. If you like sci fi action films then this is the film for you.
+([@greybax](https://github.com/greybax))
+
 ### 8.0-8.5
 
 #### 2001: A Space Odyssey
@@ -166,7 +169,7 @@
 
 ### 7.5-7.9
 
-#### The Social Network 
+#### The Social Network
 :star: The_Social_Network_Score
 
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
@@ -175,6 +178,9 @@
 * Year: 2010
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1285016)
+
+   - The Social Network is about the establishment of one very popular website. This movie is about path young people to billionaire businesses.
+([@greybax](https://github.com/greybax))
 
 #### Office Space 
 :star: Office_Space_Score
@@ -606,6 +612,9 @@
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2234155)
+
+   - This movie inspired me that nothing is impossible. If you work hard and believe you will get what you want as main heroes of this film. 
+([@greybax](https://github.com/greybax))
 
 #### Transcendence
 :star: Transcendence_Score 
