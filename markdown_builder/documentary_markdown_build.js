@@ -1,10 +1,10 @@
-const fs = require("fs");
-const imdb = require("imdb-api");
-const storage = require("../db/storage");
+const fs = require('fs');
+const imdb = require('imdb-api');
+const storage = require('../db/storage');
 const keys = Object.keys(storage.DOCS);
 require('dotenv').load();
 
-fs.readFile("./db/documentary_prebuilt.md", "utf8", function (err, data) {
+fs.readFile('./db/documentary_prebuilt.md', 'utf8', (err, data) => {
   if (err) {
     return console.log(err);
   }
@@ -13,11 +13,13 @@ fs.readFile("./db/documentary_prebuilt.md", "utf8", function (err, data) {
       .get({ id: storage.DOCS[key] }, { apiKey: process.env.api_key, timeout: 30000 })
       .then(movie => {
         data = data.toString().replace(key, movie.rating);
-        fs.writeFile("./documentary.md", data, "utf8", function (err) {
-          if (err) return console.log(err);
+        fs.writeFile('./documentary.md', data, 'utf8', (err) => {
+          if (err) {
+            return console.log(err);
+          }
         });
       })
-      .catch(function (error) {
+      .catch((error) => {
         console.log(error);
       });
   }

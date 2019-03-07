@@ -5,7 +5,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
 
-
 ## Contents
 
 - [Documentary](documentary.md)

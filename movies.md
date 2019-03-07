@@ -4,9 +4,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
-![Movies](https://img.shields.io/badge/Movies-Movies_Total-blue.svg)
-![Documentary](https://img.shields.io/badge/Documentary-Documentary_Total-green.svg)
-![TV Series](https://img.shields.io/badge/TV_Series-Shows_Total-red.svg)
 
 ## Contents
 
