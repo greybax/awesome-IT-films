@@ -7,10 +7,11 @@
   },
   "scripts": {
     "serve": "docsify serve . --open",
-    "build-all": "npm run build-movies & npm run build-tv-series & npm run build-documentary",
+    "build-all": "npm run build-movies & npm run build-tv-series & npm run build-documentary & npm run build-badge-schema",
     "build-movies": "node ./markdown_builder/movie_markdown_build.js",
     "build-tv-series": "node ./markdown_builder/shows_markdown_build.js",
-    "build-documentary": "node ./markdown_builder/documentary_markdown_build.js"
+    "build-documentary": "node ./markdown_builder/documentary_markdown_build.js",
+    "build-badge-schema": "node ./markdown_builder/badge_schema.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,9 @@
     "movies",
     "geek",
     "hacking",
-    "IT"
+    "hack",
+    "IT",
+    "computers"
   ],
   "author": "Aleksandr Filatov",
   "license": "UNLICENSED",
