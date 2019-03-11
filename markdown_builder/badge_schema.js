@@ -8,8 +8,9 @@ const shows = Object.keys(storage.SHOWS).length;
 let json = {
   "schemaVersion": 1,
   "label": "Movies/Docs/Shows",
-  "message": `${movies}/${docs}/${shows}`,
-  "color": "orange"
+  "color": "orange",
+  "logoSvg": "./logos/logo.svg",
+  "message": `${movies}/${docs}/${shows}`
 };
 
 fs.writeFile('badge_endpoint.json', JSON.stringify(json), function (err) {
