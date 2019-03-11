@@ -9,7 +9,7 @@ let json = {
   "schemaVersion": 1,
   "label": "Movies/Docs/Shows",
   "color": "orange",
-  "logoSvg": "logos/logo.svg",
+  "logo": "logos/logo_static.png",
   "message": `${movies}/${docs}/${shows}`
 };
 
