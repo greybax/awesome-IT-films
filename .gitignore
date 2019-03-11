@@ -59,4 +59,5 @@ typings/
 # dotenv environment variables file
 .env
 
-
+# custom files
+badge_endpoint.json
