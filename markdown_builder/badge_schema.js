@@ -8,8 +8,8 @@ const shows = Object.keys(storage.SHOWS).length;
 let json = {
   "schemaVersion": 1,
   "label": "Movies/Docs/Shows",
-  "color": "orange",
-  "logo": "logos/logo_static.png",
+  "color": "brightgreen",
+  "logo": "logos/logo.svg",
   "message": `${movies}/${docs}/${shows}`
 };
 
