@@ -31,8 +31,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
  * [Open Source Developer Podcast](https://anchor.fm/opensourcedeveloperpod/episodes/The-Razzle-Dazzle-of-RasDash-e3vqee/a-aeo394)
 
-<a href="https://www.patreon.com/bePatron?u=14980891" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
