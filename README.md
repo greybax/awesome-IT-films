@@ -27,7 +27,7 @@
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
-## Featured
+## Featured in
 
  * [Open Source Developer Podcast](https://anchor.fm/opensourcedeveloperpod/episodes/The-Razzle-Dazzle-of-RasDash-e3vqee/a-aeo394)
 
