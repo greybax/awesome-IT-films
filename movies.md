@@ -584,6 +584,16 @@
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
+#### A.I. Rising
+:star: 6.6 
+
+> An intimate relationship between a human and an android tests the boundaries of human nature.
+
+![A.I. Rising](assets/ai_rising.png)
+* Year: 2018
+* Country: Serbia
+* [_IMDb_](https://www.imdb.com/title/tt5215088/)
+
 #### Khottabych
 :star:6.3 
 
