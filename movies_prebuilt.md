@@ -428,7 +428,7 @@
 
 > Teenage geniuses deal with their abilities while developing a laser.
 
-![7](/assets/real_genius.jpg)
+![Real_Genius](/assets/real_genius.jpg)
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0089886/)
