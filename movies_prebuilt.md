@@ -418,7 +418,7 @@
 
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
-![7](/assets/the_thirteenth_floor.jpg)
+![The_Thirteenth_Floor](/assets/the_thirteenth_floor.jpg)
 * Year: 1999
 * Country: Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
@@ -585,7 +585,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
 #### Khottabych
-:star:Khottabych_Score 
+:star: Khottabych_Score 
 
 ![Khottabych](/assets/khottabych.jpg)
 * Year: 2006
@@ -842,7 +842,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star:Startap_Score 
+:star: Startap_Score 
 
 ![Startap](/assets/startap.jpg)
 * Year: 2014

@@ -102,7 +102,8 @@
 
 ### 8.5-8.9
 
-#### Matrix 5.98.7
+#### Matrix 
+:star: 8.7
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
@@ -182,7 +183,7 @@
 ([@greybax](https://github.com/greybax))
 
 #### Office Space 
-:star: 7.8
+:star: Office_Space_Score
 
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
@@ -202,7 +203,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
 
 #### Minority report
-:star: 7.6
+:star: Minority_Report_Score
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
@@ -222,7 +223,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0470752/)
 
 #### Disconnect 
-:star: 7.5
+:star: Disconnect_Score
 
 > A drama centered on a group of people searching for human connections in today's wired world.
 
@@ -232,7 +233,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
 #### Who am I - No system is safe. 
-:star: 7.6 
+:star: Who_Am_I_Score 
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
@@ -254,7 +255,7 @@
 ### 7.0-7.5
 
 #### Pi 
-:star: 7.4
+:star: Pi_Score
 
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
 
@@ -264,7 +265,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0138704/)
 
 #### 23 
-:star: 7.3 
+:star: 23_Score 
 
 > The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
 
@@ -284,7 +285,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
 
 #### Cyberbully 
-:star: 6.9 
+:star: Cyberbully_Score 
 
 > A British teenager is forced by a computer hacker to do his bidding. If she refuses, the hacker will leak compromising photos of her to the public.
 
@@ -313,7 +314,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0050307)
 
 #### Live Free or Die Hard 
-:star: 7.1
+:star: Live_Free_or_Die_Hard_Score
 
 > John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
 
@@ -323,7 +324,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0337978/)
 
 #### Pirates of Silicon Valley 
-:star: 7.3 
+:star: Pirates_of_Silicon_Valley_Score 
 
 > History of Apple and Microsoft.
 
@@ -363,7 +364,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0058898/)
 
 #### Steve Jobs 
-:star: 7.2
+:star: Steve_Jobs_Score
 
 > Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
@@ -394,7 +395,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: In_the_Realm_of_the_6.2 
+:star: In_the_Realm_of_the_Hackers_Score 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -403,7 +404,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1199631/)
 
 #### WarGames
-:star: 7.1 
+:star: WareGames_Score 
 
 > A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
@@ -413,21 +414,21 @@
 * [_IMDb_](https://www.imdb.com/title/tt0086567/)
 
 #### The Thirteenth Floor
-:star: 7 
+:star: The_Thirteenth_Floor_Score 
 
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
-![7](/assets/the_thirteenth_floor.jpg)
+![The_Thirteenth_Floor](/assets/the_thirteenth_floor.jpg)
 * Year: 1999
 * Country: Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
 
 #### Real Genius 
-:star: 7 
+:star: Real_Genius_Score 
 
 > Teenage geniuses deal with their abilities while developing a laser.
 
-![7](/assets/real_genius.jpg)
+![Real_Genius](/assets/real_genius.jpg)
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0089886/)
@@ -495,7 +496,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2357453/)
 
 #### The Matrix Revolutions 
-:star: 6.7
+:star: The_Matrix_Revolutions_Score
 
 > The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
 
@@ -505,7 +506,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0242653/)
 
 #### Eagle Eye 
-:star: Eagle_Eye_Score 
+:star: 6.6 
 
 > Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.
 
@@ -515,7 +516,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1059786/)
 
 #### Weird Science
-:star: 6.6 
+:star: Weird_Science_Score 
 
 > Two high school nerds attempt to create the perfect woman, but she turns out to be more than that.
 
@@ -564,7 +565,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0244244/)
 
 #### Brainstorm
-:star: 6.5 
+:star: Brainstorm_Score 
 
 > Brilliant researchers Lillian Reynolds and Michael Brace have developed a system of recording and playing back actual experiences of people. Once the capability of tapping into "higher brain functions" is added in, and you can literally jump into someone else's head and play back recordings of what he or she was thinking, feeling, seeing, etc., at the time of the recording, the applications for the project quickly spiral out of control. While Michael Brace uses the system to become close again to Karen Brace, his estranged wife who also works on the project, others start abusing it for intense sexual experiences and other logical but morally questionable purposes. The government tries to kick Michael and Lillian off the project once the vast military potential of the technology is discovered. It soon becomes obvious that the government is interested in more than just missile guidance systems. The lab starts producing mind torture recordings and other psychosis inducing material. When one of the researchers dies and tapes the experience of death, Michael is convinced that he must playback this tape to honor the memory of the researcher and to become enlightened. When another researcher dies during playback the tape is locked away and Michael has to fight against his former colleagues and the government lackeys that now run his lab in order to play back and confront the "scariest thing any of us will ever face" - death itself.
 
@@ -584,7 +585,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
 #### Khottabych
-:star:6.2 
+:star: 6.2 
 
 ![Khottabych](/assets/khottabych.jpg)
 * Year: 2006
@@ -616,7 +617,7 @@
 ([@greybax](https://github.com/greybax))
 
 #### Transcendence
-:star: 6.3 
+:star: Transcendence_Score 
 
 > A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
@@ -626,7 +627,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
 
 #### Computer Chess
-:star: 6.3 
+:star: Computer_chess_Score 
 
 > A 1980s-set story centered around a man vs. machine chess tournament.
 
@@ -636,7 +637,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2007360/)
 
 #### Untraceable
-:star: 6.2 
+:star: Untraceable_Score 
 
 > FBI agent Jennifer Marsh is tasked with hunting down a seemingly untraceable serial killer who posts live videos of his victims on the Internet. As time runs out, the cat and mouse chase becomes more personal.
 
@@ -646,7 +647,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0880578/)
 
 #### Hacker
-:star: 6.2
+:star: Hacker_Score
 
 > Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
 
@@ -666,7 +667,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113243/)
 
 #### The Fifth Estate
-:star: 6.2 
+:star: The_Fifth_Estate_Score 
 
 > A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.
 
@@ -686,7 +687,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0317042/)
 
 #### Antitrust
-:star: 6.1 
+:star: Antitrust_Score 
 
 > A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.
 
@@ -718,7 +719,7 @@
 ### 5.5-5.9
 
 #### Jobs
-:star: 5.9 
+:star: Jobs_score 
 
 > The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.
 
@@ -738,7 +739,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113957/)
 
 #### Gamer
-:star: 5.8 
+:star: Gamer_Score 
 
 > In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?
 
@@ -748,7 +749,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1034032/)
 
 #### Firewall
-:star: 5.8 
+:star: Firewall_Score 
 
 > A security specialist is forced into robbing the bank that he's protecting, as a bid to pay off his family's ransom.
 
@@ -830,7 +831,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2409818/)
 
 #### Algorithm 
-:star: 4.7
+:star: Algorithm_Score
 
 > A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.
 
@@ -841,7 +842,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star:4.6 
+:star: 4.6 
 
 ![Startap](/assets/startap.jpg)
 * Year: 2014
@@ -890,7 +891,7 @@
 ### 3.9-3.0
 
 #### Hacker's Game
-:star: 3.8
+:star: Hackers_Game_Score
 
 > A love story between two hackers, Soyan and Loise. Like many other hackers, Soyan works for a company he previously hacked.
 

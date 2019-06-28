@@ -56,7 +56,7 @@
 ### 8.0-8.5
 
 #### The Triumph of the Nerds: The Rise of Accidental Empires
-The_Triumph_Of_The_Nerds_Score :star:
+:star: The_Triumph_Of_The_Nerds_Score
 
 > Three part documentary that shows the insight look at the history of computers, from its rise in the 1970s to the beginning of the Dot-com boom of the late 1990s.
 

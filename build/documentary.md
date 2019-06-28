@@ -56,7 +56,7 @@
 ### 8.0-8.5
 
 #### The Triumph of the Nerds: The Rise of Accidental Empires
-8.58.5
+:star: 8.5
 
 > Three part documentary that shows the insight look at the history of computers, from its rise in the 1970s to the beginning of the Dot-com boom of the late 1990s.
 
@@ -65,7 +65,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0115398/)
 
 #### The KGB, the Computer and Me
-:star: The_KGB_Score
+:star: 8.1
 
 > In 1986, astronomer turned computer scientist Clifford Stoll had just started working on a computer system at the Lawrence Berkeley Laboratory when he noticed a 75-cent discrepancy between the charges printed by two accounting programs responsible for charging people for machine use. Intrigued, he deduced that the system was being hacked, and he determined to find the culprit. This is the re-enactment of how he tracked down KGB cracker Markus Hess through the Ethernet to Hannover, Germany, as is told in his best-selling book _ The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage_ (1989). Stoll has become a celebrity for being, as he terms himself, "a computer contrarian."
 
@@ -84,7 +84,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4044364/)
 
 #### The Internet's Own Boy: The Story of Aaron Swartz
-:star: The_Internets_Own_Boy_Score
+:star: 8.1
 
 > The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26
 
@@ -127,7 +127,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 #### DSKNECTD
-:star: DSKNECTD_Score
+:star: 7.7
 
 > An exploration into how smart phones, social media, and the Internet are profoundly changing the way we interact and experience each other - for the good and for the bad.
 
@@ -156,7 +156,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2608732/)
 
 #### Secret History of Hacking
-:star: Secret_History_Of_Hacking_Score
+:star: 0
 
 * Year: 2001
 * Country: USA
@@ -195,7 +195,7 @@
 ### 7.0-7.5
 
 #### We Are Legion: The Story of the Hacktivists
-:star: We_Are_Legion_Score
+:star: 7.3
 
 > Documentary on the workings and beliefs of the self-described "hacktivist" collective, Anonymous.
 
@@ -245,7 +245,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0308808/)
 
 #### We Live in Public
-:star:7.2
+:star: 7.2
 
 > A documentary focusing on the life of dot-com entrepreneur Josh Harris, and his exploits over the last decade.
 
@@ -307,7 +307,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1824254/)
 
 #### Downloaded
-:star: Downloaded_Score
+:star: 6.9
 
 > A documentary that explores the downloading revolution; the kids that created it, the bands and the businesses that were affected by it, and its impact on the world at large.
 
@@ -345,7 +345,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0144969/)
 
 #### The Hacker Wars
-:star: The_Hacker_Wars_Score
+:star: 6.6
 
 > Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy
 
@@ -393,7 +393,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3010462/)
 
 #### War for the Web
-:star: War_For_The_Web_Score
+:star: 0
 
 > War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
 
