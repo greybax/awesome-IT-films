@@ -1,18 +1,10 @@
 # Steps for adding new film
 
-Finally we added support for automatically keeping up-to-date movie ratings. See [issue #23](https://github.com/greybax/awesome-IT-films/issues/23) and big thanks to @perkinsjr who made it happens with [PR #63](https://github.com/greybax/awesome-IT-films/pull/63). So we've a changed a bit our adding new movie steps. See them below here.
+1. To add new films just add it accordingly to specific file **movies_prebuilt.md** or **documentary_prebuilt.md** or **tv_series_prebuilt.md** with ⭐️`Your_Adding_Film_Name_Score` under the title.
+2. Then run `npm run build-all` and that will automatically go out and collect all the data and insert into the text file and then render a new **build/movies.md**, **build/documentary.md**, **build/tv_series.md** files.
 
-1. To add new movies just add a movie to the **movies_prebuilt.md** with ⭐️ `Matrix_Score` under the title. 
-2. Then in the **storage.js** add the `Matrix_Score` and the IMDB title id (e.x. `'tt0133093'` for matrix movie. This is the last thing in URI `https://www.imdb.com/title/tt4158110`) to the object.
-3. Then run `npm run build-movies` and that will automatically go out and collect all the data and insert into the text file and then render a new **movies.md** file.
+## Template for adding film into `*_prebuilt.md` files
 
-_**NOTE:**_ Same for **documentary_prebuilt.md** and **tv_series_prebuilt.md**. If you want to debug it locally you need to get api_key for `imdb-api` package. You can obtain one here: http://www.omdbapi.com/apikey.aspx
-
-## Templates for adding film into `*_prebuilt.md` files
-
-### Markdown
-
-**tv_series_prebuilt.md**:
 ```
 #### Matrix 
 :star: Matrix_Score
@@ -28,24 +20,13 @@ _**NOTE:**_ Same for **documentary_prebuilt.md** and **tv_series_prebuilt.md**. 
 ([@greybax](https://github.com/greybax))
 ```
 
-### JS file
-
-**storage.js**
-```
-const MOVIES = {
-    "Matrix_Score": "tt0133093",
-....
-}
-...
-```
-
 ## Please note
 
- - DO NOT change `movies.md`, `tv_series.md` and `documentary.md`. They are generating by scripts see package.json
- "scripts" section for it.
+ - If you want to run npm scripts locally you need to get api_key for `imdb-api` package. You can obtain one here: http://www.omdbapi.com/apikey.aspx
  - Any film from this collection should be somehow related with programmers, developers, hackers, geeks (describe developers life, mentions about any of programming languages, IT technologies, etc..)
+ - DO NOT change **ANY** files under `build` directory. All these files generates automatically with `npm run build-all` command
  - Layouts for the `movies.md`, `tv_series.md` and `documentary.md` are grouped by .5 ratings.
- - Each movie now has its own rating under the title.
+ - Each movie has its own rating under the title.
  - Films should be sorted by ratings **desc**
  - If rating category doesn't exist for your film please add it.
  - Spaces in movie title should be replaced by `_` in file name. All letters are lowercase. (Mr Robot -> mr_robot.jpg)
