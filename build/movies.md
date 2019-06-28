@@ -841,7 +841,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star:S4.6 
+:star:4.6 
 
 ![Startap](assets/startap.jpg)
 * Year: 2014

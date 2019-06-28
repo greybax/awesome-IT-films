@@ -5,7 +5,7 @@ const keys = Object.keys(storage);
 require('dotenv').load();
 
 // update movies_storage.js based on changes from movies_prebuilt.md
-fs.readFile('./prebuild/movies_prebuilt.md', 'utf8', (err, data) => {
+fs.readFile('./movies_prebuilt.md', 'utf8', (err, data) => {
   if (err) {
     return console.log(err);
   }
@@ -28,7 +28,7 @@ fs.readFile('./prebuild/movies_prebuilt.md', 'utf8', (err, data) => {
 
 
 // generate movies.md
-fs.readFile('./prebuild/movies_prebuilt.md', 'utf8', (err, data) => {
+fs.readFile('./movies_prebuilt.md', 'utf8', (err, data) => {
   if (err) {
     return console.log(err);
   }
@@ -38,7 +38,7 @@ fs.readFile('./prebuild/movies_prebuilt.md', 'utf8', (err, data) => {
       .get({ id: storage[key] }, { apiKey: process.env.api_key, timeout: 30000 })
       .then(movie => {
         data = data.toString().replace(key, movie.rating);
-        fs.writeFile('./movies.md', data, 'utf8', (err) => {
+        fs.writeFile('./build/movies.md', data, 'utf8', (err) => {
           if (err) {
             return console.log(err);
           }

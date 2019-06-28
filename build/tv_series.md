@@ -67,8 +67,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2575988/)
 
-#### Person of Interest
-8.4 :star:
+#### Pers8.4
 
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 
