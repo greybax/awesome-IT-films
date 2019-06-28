@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![GitHub contributors](https://img.shields.io/github/contributors/greybax/awesome-IT-films.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/contributors/)
+[![Git6.6ub contributors](https://img.shields.io/github/contributors/greybax/awesome-IT-films.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
@@ -56,7 +56,7 @@
 ### 8.0-8.5
 
 #### The Triumph of the Nerds: The Rise of Accidental Empires
-8.5 :star:
+8.58.5
 
 > Three part documentary that shows the insight look at the history of computers, from its rise in the 1970s to the beginning of the Dot-com boom of the late 1990s.
 
@@ -154,8 +154,7 @@ The_KGB_Score :star:
 * Country: Sweden, Denmark, Norway, UK, Netherlands, Germany
 * [_IMDb_](https://www.imdb.com/title/tt2608732/)
 
-#### Secret History of Hacking
-7.6 :star:
+#### Secr0
 
 * Year: 2001
 * Country: USA
@@ -389,8 +388,7 @@ We_Live_in_Public_Score :star:
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt3010462/)
 
-#### War for the Web
-6.4 :star:
+#### War 0
 
 > War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
 
@@ -415,3 +413,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
+this work.
