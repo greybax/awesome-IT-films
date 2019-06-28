@@ -107,7 +107,7 @@
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
-![Matrix](assets/matrix.jpg)
+![Matrix](/assets/matrix.jpg)
 * Year: 1999
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0133093/)
@@ -122,7 +122,7 @@
 
 > A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate supercomputer HAL 9000.
 
-![2001_a_space_odyssey](assets/2001ASpaceOdyssey.jpg)
+![2001_a_space_odyssey](/assets/2001ASpaceOdyssey.jpg)
 * Year: 1968
 * Country: UK, USA
 * [_IMDb_](https://www.imdb.com/title/tt0062622/)
@@ -132,7 +132,7 @@
 
 > After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
 
-![A_beautiful_mind](assets/a_beautiful_mind.jpg)
+![A_beautiful_mind](/assets/a_beautiful_mind.jpg)
 * Year: 2001
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0268978/)
@@ -142,7 +142,7 @@
 
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
-![Ghost_in_the_shell](assets/Ghost_in_the_shell.jpg)
+![Ghost_in_the_shell](/assets/Ghost_in_the_shell.jpg)
 * Year: 1995
 * Country: Japan
 * [_IMDb_](https://www.imdb.com/title/tt0113568/)
@@ -152,7 +152,7 @@
 
 > In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
 
-![Her](assets/her.jpg)
+![Her](/assets/her.jpg)
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1798709/)
@@ -162,7 +162,7 @@
 
 > Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
 
-![The_Imitation_Game](assets/the_imitation_game.jpg)
+![The_Imitation_Game](/assets/the_imitation_game.jpg)
 * Year: 2014
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2084970/)
@@ -174,7 +174,7 @@
 
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
 
-![The_Social_Network](assets/the_social_network.jpg)
+![The_Social_Network](/assets/the_social_network.jpg)
 * Year: 2010
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1285016)
@@ -187,7 +187,7 @@
 
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
-![Office Space](assets/office_space.jpg)
+![Office Space](/assets/office_space.jpg)
 * Year: 1999
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0151804/)
@@ -197,7 +197,7 @@
 
 > The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
 
-![Hidden Figures](assets/hidden_figures.jpg)
+![Hidden Figures](/assets/hidden_figures.jpg)
 * Year: 2017
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
@@ -207,7 +207,7 @@
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
-![Minority_Report](assets/minority_report.jpg)
+![Minority_Report](/assets/minority_report.jpg)
 * Year: 2002
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0181689)
@@ -217,7 +217,7 @@
 
 > A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.
 
-![ex_machina](assets/ex_machina.jpg)
+![ex_machina](/assets/ex_machina.jpg)
 * Year: 2014
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0470752/)
@@ -227,7 +227,7 @@
 
 > A drama centered on a group of people searching for human connections in today's wired world.
 
-![Disconnect](assets/Disconnect.jpg)
+![Disconnect](/assets/Disconnect.jpg)
 * Year: 2012
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
@@ -237,7 +237,7 @@
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
-![Who am I](assets/who_am_i.jpg)
+![Who am I](/assets/who_am_i.jpg)
 * Year: 2014
 * Country: Germany
 * [_IMDb_](https://www.imdb.com/title/tt3042408/)
@@ -247,7 +247,7 @@
 
 > When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
 
-![Ready_Player_One](assets/readyplayerone.jpg)
+![Ready_Player_One](/assets/readyplayerone.jpg)
 * Year: 2018
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1677720/)
@@ -259,7 +259,7 @@
 
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
 
-![Pi](assets/pi.jpg)
+![Pi](/assets/pi.jpg)
 * Year: 1998
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0138704/)
@@ -269,7 +269,7 @@
 
 > The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
 
-![23](assets/23.jpg)
+![23](/assets/23.jpg)
 * Year: 1998
 * Country: Germany
 * [_IMDb_](https://www.imdb.com/title/tt0126765/)
@@ -279,7 +279,7 @@
 
 > The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.
 
-![Snowden](assets/Snowden_film_poster_hr.jpg)
+![Snowden](/assets/Snowden_film_poster_hr.jpg)
 * Year: 2016
 * Country: France, Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
@@ -298,7 +298,7 @@
 
 > A lawyer becomes a target by a corrupt politician and his NSA goons when he accidentally receives key evidence to a serious politically motivated crime.
 
-![Enemy_of_the_State](assets/enemy_of_the_state.jpg)
+![Enemy_of_the_State](/assets/enemy_of_the_state.jpg)
 * Year: 1998
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0120660/)
@@ -308,7 +308,7 @@
 
 > Two extremely strong personalities clash over the computerization of a television network's research department.
 
-![Enemy_of_the_State](assets/desk_set.jpg)
+![Enemy_of_the_State](/assets/desk_set.jpg)
 * Year: 1957
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0050307)
@@ -318,7 +318,7 @@
 
 > John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
 
-![Live_Free_or_Die_Hard](assets/live_free_or_die_hard.jpg)
+![Live_Free_or_Die_Hard](/assets/live_free_or_die_hard.jpg)
 * Year: 2007
 * Country: USA, UK
 * [_IMDb_](https://www.imdb.com/title/tt0337978/)
@@ -328,7 +328,7 @@
 
 > History of Apple and Microsoft.
 
-![Pirates_of_Silicon_Valley](assets/pirates_of_silicon_valley.jpg)
+![Pirates_of_Silicon_Valley](/assets/pirates_of_silicon_valley.jpg)
 * Year: 1999
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0168122)
@@ -338,7 +338,7 @@
 
 > James Bond teams up with the lone survivor of a destroyed Russian research center to stop the hijacking of a nuclear space weapon by a fellow agent believed to be dead.
 
-![GoldenEye](assets/goldeneye.jpg)
+![GoldenEye](/assets/goldeneye.jpg)
 * Year: 1995
 * Country: UK, USA
 * [_IMDb_](https://www.imdb.com/title/tt0113189/)
@@ -348,7 +348,7 @@
 
 > Following the events of Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.
 
-![The_Matrix_Reloaded](assets/the_matrix_reloaded.jpg)
+![The_Matrix_Reloaded](/assets/the_matrix_reloaded.jpg)
 * Year: 2003
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0234215/)
@@ -358,7 +358,7 @@
 
 > A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
 
-![Alphaville](assets/alphaville.jpg)
+![Alphaville](/assets/alphaville.jpg)
 * Year: 1965
 * Country: France, Italy
 * [_IMDb_](https://www.imdb.com/title/tt0058898/)
@@ -368,7 +368,7 @@
 
 > Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
-![Steve Jobs](assets/steve_jobs.jpg)
+![Steve Jobs](/assets/steve_jobs.jpg)
 * Year: 2015
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2080374/)
@@ -378,7 +378,7 @@
 
 > Complex but lighthearted thriller about computers and cryptography, government and espionage, secrets and deception and betrayal.
 
-![Sneakers](assets/sneakers.jpg)
+![Sneakers](/assets/sneakers.jpg)
 * Year: 1992
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0105435/)
@@ -389,7 +389,7 @@
 
 > A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
 
-![Artificial_Intelligence_AI](assets/artificial_intelligence_ai.jpg)
+![Artificial_Intelligence_AI](/assets/artificial_intelligence_ai.jpg)
 * Year: 2001
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
@@ -408,7 +408,7 @@
 
 > A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
-![WarGames](assets/wargames.jpg)
+![WarGames](/assets/wargames.jpg)
 * Year: 1983
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0086567/)
@@ -418,7 +418,7 @@
 
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
-![7](assets/the_thirteenth_floor.jpg)
+![7](/assets/the_thirteenth_floor.jpg)
 * Year: 1999
 * Country: Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
@@ -428,7 +428,7 @@
 
 > Teenage geniuses deal with their abilities while developing a laser.
 
-![7](assets/real_genius.jpg)
+![7](/assets/real_genius.jpg)
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0089886/)
@@ -440,7 +440,7 @@
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 
-![Primer](assets/primer.jpg)
+![Primer](/assets/primer.jpg)
 * Year: 2004
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0390384/)
@@ -450,7 +450,7 @@
 
 > An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him into doing one last heist.
 
-![The Score](assets/the_score.jpg)
+![The Score](/assets/the_score.jpg)
 * Year: 2001
 * Country: USA, Germany
 * [_IMDb_](https://www.imdb.com/title/tt0227445/)
@@ -460,7 +460,7 @@
 
 > A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
 
-![eXistenZ](assets/existenz.jpg)
+![eXistenZ](/assets/existenz.jpg)
 * Year: 1999
 * Country: Canada, UK
 * [_IMDb_](https://www.imdb.com/title/tt0120907/)
@@ -470,7 +470,7 @@
 
 > A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
 
-![TRON](assets/tron.jpg)
+![TRON](/assets/tron.jpg)
 * Year: 1982
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0084827/)
@@ -480,7 +480,7 @@
 
 > The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.
 
-![TRON_Legacy](assets/tron_legacy.jpg)
+![TRON_Legacy](/assets/tron_legacy.jpg)
 * Year: 2010
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1104001/)
@@ -490,7 +490,7 @@
 
 > A look at the early career of Wikileaks founder, Julian Assange.
 
-![Underground_The_Julian_Assange_Story](assets/underground_the_julian_assange_story.jpg)
+![Underground_The_Julian_Assange_Story](/assets/underground_the_julian_assange_story.jpg)
 * Year: 2012
 * Country: Australia
 * [_IMDb_](https://www.imdb.com/title/tt2357453/)
@@ -500,7 +500,7 @@
 
 > The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
 
-![The_Matrix_Revolutions](assets/the_matrix_revolutions.jpg)
+![The_Matrix_Revolutions](/assets/the_matrix_revolutions.jpg)
 * Year: 2003
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0242653/)
@@ -510,7 +510,7 @@
 
 > Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.
 
-![Eagle_Eye](assets/eagle_eye.jpg)
+![Eagle_Eye](/assets/eagle_eye.jpg)
 * Year: 2008
 * Country: USA, Germany
 * [_IMDb_](https://www.imdb.com/title/tt1059786/)
@@ -520,7 +520,7 @@
 
 > Two high school nerds attempt to create the perfect woman, but she turns out to be more than that.
 
-![Weird_Science](assets/weird_science.jpg)
+![Weird_Science](/assets/weird_science.jpg)
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0090305/)
@@ -530,7 +530,7 @@
 
 > Kevin, Sam and Rob are founding members of a theoretical group which pulls off heists. Leo, a gangster, blackmails them into pulling off a real multi-million dollar heist. Now it's up to them to get out alive.
 
-![Foolproof](assets/foolproof.jpg)
+![Foolproof](/assets/foolproof.jpg)
 * Year: 2003
 * Country: Canada
 * [_IMDb_](https://www.imdb.com/title/tt0356614/)
@@ -540,7 +540,7 @@
 
 > Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals, and struggles not to drown in a sea of con men, mobsters, drug addicts, and porn stars.
 
-![Middle_Men](assets/middle_men.jpg)
+![Middle_Men](/assets/middle_men.jpg)
 * Year: 2009
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1251757/)
@@ -550,7 +550,7 @@
 
 > Two groups of people discover evidence that suggests spirits may be trying to invade the human world through the Internet.
 
-![Kairo](assets/kairo.jpg)
+![Kairo](/assets/kairo.jpg)
 * Year: 2001
 * Country: Japan
 * [_IMDb_](https://www.imdb.com/title/tt0286751)
@@ -559,7 +559,7 @@
 :star: Swordfish_Score 
 > A secretive renegade counter-terrorist co-opts the world's greatest hacker (who is trying to stay clean) to steal billions in US Government dirty money.
 
-![Swordfish](assets/swordfish.jpg)
+![Swordfish](/assets/swordfish.jpg)
 * Year: 2001
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0244244/)
@@ -569,7 +569,7 @@
 
 > Brilliant researchers Lillian Reynolds and Michael Brace have developed a system of recording and playing back actual experiences of people. Once the capability of tapping into "higher brain functions" is added in, and you can literally jump into someone else's head and play back recordings of what he or she was thinking, feeling, seeing, etc., at the time of the recording, the applications for the project quickly spiral out of control. While Michael Brace uses the system to become close again to Karen Brace, his estranged wife who also works on the project, others start abusing it for intense sexual experiences and other logical but morally questionable purposes. The government tries to kick Michael and Lillian off the project once the vast military potential of the technology is discovered. It soon becomes obvious that the government is interested in more than just missile guidance systems. The lab starts producing mind torture recordings and other psychosis inducing material. When one of the researchers dies and tapes the experience of death, Michael is convinced that he must playback this tape to honor the memory of the researcher and to become enlightened. When another researcher dies during playback the tape is locked away and Michael has to fight against his former colleagues and the government lackeys that now run his lab in order to play back and confront the "scariest thing any of us will ever face" - death itself.
 
-![Brainstorm](assets/brainstorm.jpg)
+![Brainstorm](/assets/brainstorm.jpg)
 * Year: 1983
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0085271)
@@ -579,7 +579,7 @@
 
 > An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman.
 
-![Electric_Dreams](assets/electric_dreams.jpg)
+![Electric_Dreams](/assets/electric_dreams.jpg)
 * Year: 1984
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
@@ -587,7 +587,7 @@
 #### Khottabych
 :star:Khottabych_Score 
 
-![Khottabych](assets/khottabych.jpg)
+![Khottabych](/assets/khottabych.jpg)
 * Year: 2006
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt0466043)
@@ -608,7 +608,7 @@
 
 > Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
 
-![The_Internship](assets/the_internship.jpg)
+![The_Internship](/assets/the_internship.jpg)
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2234155)
@@ -621,7 +621,7 @@
 
 > A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
-![Transcendence](assets/transcendence.jpg)
+![Transcendence](/assets/transcendence.jpg)
 * Year: 2013
 * Country: UK, China, USA
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
@@ -631,7 +631,7 @@
 
 > A 1980s-set story centered around a man vs. machine chess tournament.
 
-![Computer Chess](assets/computer_chess.jpg)
+![Computer Chess](/assets/computer_chess.jpg)
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2007360/)
@@ -641,7 +641,7 @@
 
 > FBI agent Jennifer Marsh is tasked with hunting down a seemingly untraceable serial killer who posts live videos of his victims on the Internet. As time runs out, the cat and mouse chase becomes more personal.
 
-![Untraceable](assets/untraceable.jpg)
+![Untraceable](/assets/untraceable.jpg)
 * Year: 2008
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0880578/)
@@ -651,7 +651,7 @@
 
 > Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
 
-![Hacker](assets/hacker.jpg)
+![Hacker](/assets/hacker.jpg)
 * Year: 2015
 * Country: USA, Thailand, Kazakhstan, Hong Kong, Canada
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
@@ -661,7 +661,7 @@
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
-![Hackers](assets/hackers.jpg)
+![Hackers](/assets/hackers.jpg)
 * Year: 1995
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0113243/)
@@ -671,7 +671,7 @@
 
 > A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.
 
-![The_Fifth_Estate](assets/the_fifth_estate.jpg)
+![The_Fifth_Estate](/assets/the_fifth_estate.jpg)
 * Year: 2013
 * Country: USA, India, Belgium
 * [_IMDb_](https://www.imdb.com/title/tt1837703/)
@@ -681,7 +681,7 @@
 
 > After receiving mysterious empty packages inside his apartment, a young computer-programmer begins a personal investigation into their origins.
 
-![One_Point_O](assets/one_point_o.jpg)
+![One_Point_O](/assets/one_point_o.jpg)
 * Year: 2004
 * Country: USA, Romania, Iceland
 * [_IMDb_](https://www.imdb.com/title/tt0317042/)
@@ -691,7 +691,7 @@
 
 > A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.
 
-![Antitrust](assets/antitrust.jpg)
+![Antitrust](/assets/antitrust.jpg)
 * Year: 2001
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0218817/)
@@ -701,7 +701,7 @@
 
 > A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.
 
-![Disclosure](assets/disclosure.jpg)
+![Disclosure](/assets/disclosure.jpg)
 * Year: 1994
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0109635/)
@@ -711,7 +711,7 @@
 
 > Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like the illegal business Arno is involved in.
 
-![The_Computer_Wore_Tennis_Shoes](assets/the_computer_wore_tennis_shoes.jpg)
+![The_Computer_Wore_Tennis_Shoes](/assets/the_computer_wore_tennis_shoes.jpg)
 * Year: 1969
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0065566/)
@@ -723,7 +723,7 @@
 
 > The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.
 
-![Jobs](assets/jobs.jpg)
+![Jobs](/assets/jobs.jpg)
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2357129/)
@@ -733,7 +733,7 @@
 
 > A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.
 
-![The_Net](assets/the_net.jpg)
+![The_Net](/assets/the_net.jpg)
 * Year: 1995
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0113957/)
@@ -743,7 +743,7 @@
 
 > In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?
 
-![Gamer](assets/gamer.jpg)
+![Gamer](/assets/gamer.jpg)
 * Year: 2009
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1034032/)
@@ -753,7 +753,7 @@
 
 > A security specialist is forced into robbing the bank that he's protecting, as a bid to pay off his family's ransom.
 
-![Firewall](assets/firewall.jpg)
+![Firewall](/assets/firewall.jpg)
 * Year: 2006
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0408345/)
@@ -763,7 +763,7 @@
 
 > A software developer becomes a billionaire and is distracted by fame, greed and power, then must save his invention and company from a hostile takeover.
 
-![Purpose](assets/purpose.jpg)
+![Purpose](/assets/purpose.jpg)
 * Year: 2002
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0257019/)
@@ -773,7 +773,7 @@
 
 > A virtual-reality serial killer manages to escape into the real world.
 
-![Virtuosity](assets/virtuosity.jpg)
+![Virtuosity](/assets/virtuosity.jpg)
 * Year: 1995
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0114857/)
@@ -783,7 +783,7 @@
 
 > A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.
 
-![Johnny_Mnemonic](assets/johnny_mnemonic.jpg)
+![Johnny_Mnemonic](/assets/johnny_mnemonic.jpg)
 * Year: 1995
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0113481/)
@@ -795,7 +795,7 @@
 
 > A simple man is turned into a genius through the application of computer science.
 
-![The_Lawnmower_Man](assets/the_lawnmower_man.jpg)
+![The_Lawnmower_Man](/assets/the_lawnmower_man.jpg)
 * Year: 1992
 * Country: UK, USA, Japan
 * [_IMDb_](https://www.imdb.com/title/tt0104692/)
@@ -805,7 +805,7 @@
 
 > A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.
 
-![Blackhat](assets/blackhat.jpg)
+![Blackhat](/assets/blackhat.jpg)
 * Year: 2015
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2717822)
@@ -815,7 +815,7 @@
 
 > A comedic look at the life of Steve Jobs.
 
-![iSteve](assets/isteve.jpg)
+![iSteve](/assets/isteve.jpg)
 * Year: 2013
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2782834)
@@ -825,7 +825,7 @@
 
 > A jilted fan soon finds himself pulled into a deadly game of cat-and-mouse after he accepts the opportunity to spy on his favorite actress via his laptop.
 
-![Open_Windows](assets/open_windows.jpg)
+![Open_Windows](/assets/open_windows.jpg)
 * Year: 2014
 * Country: Spain, USA
 * [_IMDb_](https://www.imdb.com/title/tt2409818/)
@@ -844,7 +844,7 @@
 #### Startap
 :star:Startap_Score 
 
-![Startap](assets/startap.jpg)
+![Startap](/assets/startap.jpg)
 * Year: 2014
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt3274728/)
@@ -854,7 +854,7 @@
 
 > The United State's Department of Homeland Security is led to believe an American teen hacker playing a terrorist-attack simulator game online is a real terrorist out to destroy the U.S.
 
-![Wargames_The_Dead_Code](assets/wargames_the_dead_code.jpg)
+![Wargames_The_Dead_Code](/assets/wargames_the_dead_code.jpg)
 * Year: 2008
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0865957/)
@@ -864,7 +864,7 @@
 
 > Six young computer hackers sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.
 
-![Debug](assets/debug.jpg)
+![Debug](/assets/debug.jpg)
 * Year: 2014
 * Country: Canada
 * [_IMDb_](https://www.imdb.com/title/tt2769184)
@@ -874,7 +874,7 @@
 
 > A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
 
-![Reboot](assets/reboot.jpg)
+![Reboot](/assets/reboot.jpg)
 * Year: 2012
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2090594/)
@@ -895,7 +895,7 @@
 
 > A love story between two hackers, Soyan and Loise. Like many other hackers, Soyan works for a company he previously hacked.
 
-![Hackers_Game](assets/hackers_game.jpg)
+![Hackers_Game](/assets/hackers_game.jpg)
 * Year: 2015
 * Country: USA, France
 * [_IMDb_](https://www.imdb.com/title/tt3140724)
