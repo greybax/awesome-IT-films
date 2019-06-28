@@ -38,7 +38,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2085059/)
 
 #### Mr. Robot
-:star: MR_ROBOT_SCORE
+:star: Mr_Robot_Score
 
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 
@@ -48,7 +48,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4158110)
 
 #### The IT Crowd
-:star: IT_CROWD
+:star: The_It_Crowd_Score
 
 > The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 

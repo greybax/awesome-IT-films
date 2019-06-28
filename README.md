@@ -31,7 +31,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Featured in
 
- * [Open Source Developer Podcast](https://anchor.fm/opensourcedeveloperpod/episodes/The-Razzle-Dazzle-of-RasDash-e3vqee/a-aeo394)
+* [Open Source Developer Podcast](https://anchor.fm/opensourcedeveloperpod/episodes/The-Razzle-Dazzle-of-RasDash-e3vqee/a-aeo394)
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

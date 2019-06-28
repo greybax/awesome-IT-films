@@ -38,7 +38,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2085059/)
 
 #### Mr. Robot
-:star: 8.5
+:star: MR_ROBOT_SCORE
 
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 
@@ -48,7 +48,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4158110)
 
 #### The IT Crowd
-:star: 8.5
+:star: IT_CROWD
 
 > The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 
@@ -67,11 +67,12 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2575988/)
 
-#### Pers8.48.4
+#### Person of Interest
+:star: 8.4
 
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 
-![8.4](/assets/person_of_interest.jpg)
+![Person_Of_Interest](/assets/person_of_interest.jpg)
 * Year: 2011-2016
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1839578/)
@@ -79,7 +80,7 @@
 ### 8.0-8.5
 
 #### Halt and Catch Fire
-:star: 8.4
+:star: Halt_And_Catch_Score
 
 > Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
 
@@ -101,7 +102,7 @@
 ### 7.0-7.5
 
 #### The Lone Gunmen
-:star: 7.4_Score
+:star: The_Lone_Gunmen_Score
 
 > Spin-off of The X-Files featuring the trio of computer-hacking conspiracy geeks popularly known as The Lone Gunmen. Never ones to stray far from the center of corporate and government intrigue, the threesome of John Byers, Melvin Frohike, and Richard Langly play like a misguided Mission Impossible team, embarking on a series of comic adventures that simultaneously highlight their genius and ineptitude. While their newfound independence inspires them to investigate even the most shadowy of conspiracies, their social skills remain stagnant, which only makes their lives more difficult when they learn their chief competitor in the "information business" is the brilliant and beautiful Yves Adele Harlow. Perpetually short of funds to publish The Lone Gunmen newspaper, Byers, Frohike and Langly begrudgingly take on Jimmy Bond as an unlikely benefactor who bankrolls their missions and joins them in their investigations to uncover the truth.
 
@@ -129,3 +130,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
+ights to this work.

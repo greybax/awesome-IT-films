@@ -102,8 +102,7 @@
 
 ### 8.5-8.9
 
-#### Matrix 
-:star: 8.7
+#### Matrix 5.98.7
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
@@ -170,7 +169,7 @@
 ### 7.5-7.9
 
 #### The Social Network
-:star: 7.7
+:star: The_Social_Network_Score
 
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
 
@@ -183,7 +182,7 @@
 ([@greybax](https://github.com/greybax))
 
 #### Office Space 
-:star: Office_Space_Score
+:star: 7.8
 
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
@@ -223,7 +222,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0470752/)
 
 #### Disconnect 
-:star: Disconnect_Score
+:star: 7.5
 
 > A drama centered on a group of people searching for human connections in today's wired world.
 
@@ -233,7 +232,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
 #### Who am I - No system is safe. 
-:star: Who_Am_I_Score 
+:star: 7.6 
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
@@ -255,7 +254,7 @@
 ### 7.0-7.5
 
 #### Pi 
-:star: Pi_Score
+:star: 7.4
 
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
 
@@ -265,7 +264,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0138704/)
 
 #### 23 
-:star: 23_Score 
+:star: 7.3 
 
 > The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
 
@@ -285,7 +284,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
 
 #### Cyberbully 
-:star: Cyberbully_Score 
+:star: 6.9 
 
 > A British teenager is forced by a computer hacker to do his bidding. If she refuses, the hacker will leak compromising photos of her to the public.
 
@@ -304,7 +303,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0120660/)
 
 #### Desk Set 
-:star: 7.3 
+:star: Desk_Set_Score 
 
 > Two extremely strong personalities clash over the computerization of a television network's research department.
 
@@ -314,7 +313,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0050307)
 
 #### Live Free or Die Hard 
-:star: Live_Free_or_Die_Hard_Score
+:star: 7.1
 
 > John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
 
@@ -364,7 +363,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0058898/)
 
 #### Steve Jobs 
-:star: Steve_Jobs_Score
+:star: 7.2
 
 > Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
@@ -395,7 +394,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: In_the_Realm_of_the_Hackers_Score 
+:star: 7.2 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -404,7 +403,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1199631/)
 
 #### WarGames
-:star: WareGames_Score 
+:star: 7.1 
 
 > A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
@@ -414,7 +413,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0086567/)
 
 #### The Thirteenth Floor
-:star: The_Thirteenth_Floor_Score 
+:star: 7 
 
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
@@ -424,7 +423,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
 
 #### Real Genius 
-:star: Real_Genius_Score 
+:star: 7 
 
 > Teenage geniuses deal with their abilities while developing a laser.
 
@@ -496,7 +495,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2357453/)
 
 #### The Matrix Revolutions 
-:star: The_Matrix_Revolutions_Score
+:star: 6.7
 
 > The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
 
@@ -516,7 +515,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1059786/)
 
 #### Weird Science
-:star: Weird_Science_Score 
+:star: 6.6 
 
 > Two high school nerds attempt to create the perfect woman, but she turns out to be more than that.
 
@@ -575,7 +574,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0085271)
 
 #### Electric Dreams 
-:star: 6.5 
+:star: Electric_Dreams_Score 
 
 > An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman.
 
@@ -585,7 +584,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
 #### Khottabych
-:star: 6.2 
+:star: Khottabych_Score 
 
 ![Khottabych](/assets/khottabych.jpg)
 * Year: 2006
@@ -604,7 +603,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0159784/)
 
 #### The Internship
-:star: The_6.3 
+:star: The_Internship_Score 
 
 > Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
 
@@ -627,7 +626,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
 
 #### Computer Chess
-:star: Computer_chess_Score 
+:star: 6.3 
 
 > A 1980s-set story centered around a man vs. machine chess tournament.
 
@@ -637,7 +636,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2007360/)
 
 #### Untraceable
-:star: Untraceable_Score 
+:star: 6.2 
 
 > FBI agent Jennifer Marsh is tasked with hunting down a seemingly untraceable serial killer who posts live videos of his victims on the Internet. As time runs out, the cat and mouse chase becomes more personal.
 
@@ -657,7 +656,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
 
 #### Hackers
-:star: Hackers_Score
+:star: 6.2
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
@@ -667,7 +666,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113243/)
 
 #### The Fifth Estate
-:star: The_Fifth_Estate_Score 
+:star: 6.2 
 
 > A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.
 
@@ -687,7 +686,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0317042/)
 
 #### Antitrust
-:star: Antitrust_Score 
+:star: 6.1 
 
 > A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.
 
@@ -739,7 +738,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113957/)
 
 #### Gamer
-:star: Gamer_Score 
+:star: 5.8 
 
 > In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?
 
@@ -749,7 +748,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1034032/)
 
 #### Firewall
-:star: Firewall_Score 
+:star: 5.8 
 
 > A security specialist is forced into robbing the bank that he's protecting, as a bid to pay off his family's ransom.
 
@@ -801,7 +800,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0104692/)
 
 #### Blackhat
-:star: 5.4 
+:star: Blackhat_Score 
 
 > A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.
 
@@ -811,7 +810,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2717822)
 
 #### iSteve
-:star: 5.3 
+:star: iSteve_Score 
 
 > A comedic look at the life of Steve Jobs.
 
@@ -860,7 +859,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0865957/)
 
 #### Debug
-:star: 4.3 
+:star: Debug_Score 
 
 > Six young computer hackers sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.
 
@@ -880,7 +879,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2090594/)
 
 #### Terminal Error
-:star: 4 
+:star: Terminal_Error_Score 
 
 > Powerful automation software begins to make decisions for itself.
 
@@ -917,3 +916,13 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
+is work.
+this work.
+is work.
+s work.
+hts to this work.
+s to this work.
+o this work.
+s work.
+this work.
+is work.

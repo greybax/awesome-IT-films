@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greybax/IT-films?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Git6.6ub contributors](https://img.shields.io/github/contributors/greybax/awesome-IT-films.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/greybax/awesome-IT-films.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/greybax/awesome-IT-films/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/greybax/awesome-IT-films.svg)](https://github.com/greybax/awesome-IT-films/pulls)
@@ -195,7 +195,7 @@
 ### 7.0-7.5
 
 #### We Are Legion: The Story of the Hacktivists
-:star: 7.3
+:star: We_Are_Legion_Score
 
 > Documentary on the workings and beliefs of the self-described "hacktivist" collective, Anonymous.
 
@@ -226,7 +226,7 @@
 
 
 #### Code Rush
-:star: 7.3
+:star: Code_Rush_Score
 
 > Code Rush follows the people of Netscape Communications during an intense period in 1998, when it was all but certain that Microsoft had already won control of the Internet user's desktop. When all hope seems fading, a group of dedicated developers work their hardest to push out a very special release.
 
@@ -418,3 +418,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
+s work.
+this work.
+r neighboring rights to this work.
