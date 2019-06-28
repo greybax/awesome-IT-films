@@ -28,7 +28,7 @@
 ### 8.5-8.9
 
 #### Black Mirror
-8.9 :star:
+8.98.9
 
 > A television anthology series that shows the dark side of life and technology.
 
@@ -38,7 +38,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2085059/)
 
 #### Mr. Robot
-8.6 :star:
+8.5 :star:
 
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 
@@ -67,8 +67,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2575988/)
 
-#### Person of Interest
-8.4 :star:
+#### Pers8.4
 
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 

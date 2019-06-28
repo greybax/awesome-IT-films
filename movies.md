@@ -102,8 +102,7 @@
 
 ### 8.5-8.9
 
-#### Matrix 
-:star: 8.7
+#### Matrix 5.98.7
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
@@ -203,7 +202,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
 
 #### Minority report
-:star: 7.7
+:star: 7.6
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
@@ -404,7 +403,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1199631/)
 
 #### WarGames
-:star: WareGames_Score 
+:star: 7.1 
 
 > A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
@@ -446,7 +445,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0390384/)
 
 #### The Score
-:star: 6.8
+:star: 6.8_Score
 
 > An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him into doing one last heist.
 
@@ -584,18 +583,8 @@
 * Country: Russia
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
-#### A.I. Rising
-:star: 6.6 
-
-> An intimate relationship between a human and an android tests the boundaries of human nature.
-
-![A.I. Rising](assets/ai_rising.png)
-* Year: 2018
-* Country: Serbia
-* [_IMDb_](https://www.imdb.com/title/tt5215088/)
-
 #### Khottabych
-:star:6.3 
+:star:6.2 
 
 ![Khottabych](assets/khottabych.jpg)
 * Year: 2006
@@ -841,7 +830,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2409818/)
 
 #### Algorithm 
-:star: 4.8
+:star: 4.7
 
 > A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.
 
@@ -852,7 +841,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star:4.6 
+:star:S4.6 
 
 ![Startap](assets/startap.jpg)
 * Year: 2014

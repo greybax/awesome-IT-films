@@ -135,7 +135,7 @@ The_KGB_Score :star:
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 #### Freedom Downtime
-7.5 :star:
+7.4 :star:
 
 > A feature length documentary about the Free Kevin movement and the hacker world.
 
