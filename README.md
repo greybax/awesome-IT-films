@@ -32,6 +32,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ## Featured in
 
 * [Open Source Developer Podcast](https://anchor.fm/opensourcedeveloperpod/episodes/The-Razzle-Dazzle-of-RasDash-e3vqee/a-aeo394)
+* [Blog post alfilatov.com: Let's make "Awesome IT Films" popular again!](https://alfilatov.com/posts/lets-make-awesome-it-films-popular-again/)
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
