@@ -11,7 +11,7 @@
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
-![Matrix](assets/matrix.jpg)
+![Matrix](../assets/matrix.jpg)
 * Year: 1999
 * Country: USA, Australia
 * [_IMDb_](https://www.imdb.com/title/tt0133093/)
