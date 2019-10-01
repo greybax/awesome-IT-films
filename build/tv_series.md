@@ -48,7 +48,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4158110)
 
 #### The IT Crowd
-:star: The_It_Crowd_Score
+:star: 8.5
 
 > The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 
