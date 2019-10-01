@@ -169,7 +169,7 @@
 ### 7.5-7.9
 
 #### The Social Network
-:star: The_Social_Network_Score
+:star: 7.7
 
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
 
