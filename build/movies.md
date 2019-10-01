@@ -584,7 +584,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
 #### Khottabych
-:star: Khottabych_Score 
+:star: 6.2 
 
 ![Khottabych](../assets/khottabych.jpg)
 * Year: 2006
