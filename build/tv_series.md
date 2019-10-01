@@ -38,7 +38,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2085059/)
 
 #### Mr. Robot
-:star: Mr_Robot_Score
+:star: 8.5
 
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 
