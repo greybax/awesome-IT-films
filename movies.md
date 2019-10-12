@@ -76,6 +76,7 @@
 - [6.0 :star:](#_60)
   - [Disclosure](#disclosure)
   - [The Computer Wore Tennis Shoes](#the-computer-wore-tennis-shoes)
+  - [circle](#circle)
 - [5.9 :star:](#_59)
   - [Jobs](#jobs)
 - [5.8 :star:](#_58)
