@@ -18,6 +18,7 @@
   - [Silicon Valley](#silicon-valley)
   - [Person of Interest](#person-of-interest)
 - [8.0-8.5 :star:](#_80-85)
+  - [Money Heist](#Money-Heist)
   - [Halt and Catch Fire](#halt-and-catch-fire)
   - [Chuck](#chuck)
 - [7.0-7.5 :star:](#_70-75)
