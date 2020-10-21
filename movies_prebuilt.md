@@ -66,6 +66,7 @@
 - [6.0 - 6.5 :star:](#_60-65)
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
+  - [The Hummingbird Project](#the-hummingbird-project)
   - [Transcendence](#transcendence)
   - [Computer Chess](#computer-chess)
   - [Untraceable](#untraceable)
@@ -615,6 +616,16 @@
 
    - This movie inspired me that nothing is impossible. If you work hard and believe you will get what you want as main heroes of this film. 
 ([@greybax](https://github.com/greybax))
+
+#### The Hummingbird Project
+:star: The_Hummingbird_Project_Score
+
+> A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.
+
+![The Hummingbird Projec](assets/the_hummingbird_project.jpg)
+* Year: 2018
+* Country: Canada, Belgium
+* [_IMDb_](https://www.imdb.com/title/tt6866224)
 
 #### Transcendence
 :star: Transcendence_Score 
