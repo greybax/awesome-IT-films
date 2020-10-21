@@ -909,6 +909,16 @@
 * Country: USA, Canada
 * [_IMDb_](https://www.imdb.com/title/tt0215370/)
 
+#### Back to the Future
+:star: 8.5 
+
+> Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean "time machine" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.
+
+![Back to the Future](../assets/btf.jpg)
+* Year: 2012
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0088763/?ref_=nv_sr_srsg_0)|
+
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
