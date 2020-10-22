@@ -17,6 +17,7 @@
   - [Citizenfour](#citizenfour)
   - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
 - [7.9-7.5 :star:](#_79-75)
+  - [The Social Dilemma](#the-social-dilemma)
   - [Hacking Democracy](#hacking-democracy)
   - [Zero Days](#zero-days)
   - [Indie Game: The Movie](#indie-game-the-movie)
@@ -94,6 +95,16 @@
 * [_IMDb_](https://www.imdb.com/title/tt3268458/)
 
 ### 7.9-7.5
+
+#### The Social Dilemma 
+:star: The_Social_Dilemma_Score
+
+> Tech experts sound the alarm on the dangerous human impact of social networking.
+
+![Matrix](../assets/the_social_dilemma.jpg)
+* Year: 2020
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt11464826/)
 
 #### Hacking Democracy
 :star: Hacking_Democracy_Score
