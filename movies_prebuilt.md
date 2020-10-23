@@ -29,6 +29,7 @@
   - [Who am I](#who-am-i)
   - [Ready Player One](#ready-player-one)
 - [7.0-7.5 :star:](#_70-75)
+  - [I, Robot](#i-robot)
   - [Pi](#pi)
   - [23](#23)
   - [Snowden](#snowden)
@@ -254,6 +255,16 @@
 * [_IMDb_](https://www.imdb.com/title/tt1677720/)
 
 ### 7.0-7.5
+
+#### I, Robot 
+:star: i-robot_Score
+
+> In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
+
+![I, Robot](../assets/i-robot.jpg)
+* Year: 2004
+* Country: UK
+* [_IMDb_](https://www.imdb.com/title/tt0343818/)
 
 #### Pi 
 :star: Pi_Score
