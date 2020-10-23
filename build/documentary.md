@@ -37,6 +37,7 @@
   - [Deep Web](#deep-web)
   - [Steal This Film](#steal-this-film)
   - [Print the Legend](#print-the-legend)
+  - [Lo and Behold, Reveries of the Connected World](#lo-and-behold)
 - [6.9-6.5 :star:](#_69-65)
   - [Google and the World Brain](#google-and-the-world-brain)
   - [We Steal Secrets: The Story of WikiLeaks](#we-steal-secrets-the-story-of-wikiLeaks)
@@ -294,6 +295,16 @@
 * Year: 2014
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt3557464/)
+
+#### Lo and Behold: Reveries of the Connected World
+:star: 7
+
+> In Lo and Behold, filmmaker Werner Herzog considers the impact of popular technology on human life, including the internet, artificial intelligence and robotics. Viewers are treated to interviews with technology leaders such as Elon Musk as this documentary explores the many ways in which tech shapes our lives. Settle in for some existential thinking as you follow technology from the birth of the internet to the unknown future that lies ahead.
+
+![Lo and Behold](../assets/lo_and_behold.jpg)
+* Year: 2016
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5275828/)
 
 ### 6.9-6.5
 
