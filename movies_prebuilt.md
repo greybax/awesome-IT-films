@@ -64,6 +64,7 @@
   - [Electric Dreams](#electric-dreams)
   - [Khottabych](#khottabych)
 - [6.0 - 6.5 :star:](#_60-65)
+  - [Jexi](#jexi)
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
   - [The Hummingbird Project](#the-hummingbird-project)
@@ -594,6 +595,17 @@
 * [_IMDb_](https://www.imdb.com/title/tt0466043)
 
 ### 6.0-6.5
+
+#### Jexi 
+:star: Jexi_Score
+
+> A comedy about what can happen when you love your phone more than anything else in your life.
+
+![Jexi](../assets/jexi.jpg)
+* Year: 2019
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt9354944/)
+
 
 #### Takedown 
 :star: Takedown_Score 
