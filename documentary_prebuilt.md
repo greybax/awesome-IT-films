@@ -422,6 +422,16 @@
 * Country: Germany
 * [_IMDb_](https://www.imdb.com/title/tt1769296/)
 
+#### Indie Game: The Movie 
+:star: Indie_Game_The_Movie_Score
+
+> A documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
+
+![Indie_Game_The_Movie](../assets/indie_game_the_movie.jpg)
+* Year: 2012
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1942884/)
+
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
