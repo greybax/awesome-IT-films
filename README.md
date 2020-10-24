@@ -18,8 +18,6 @@
 
 [Live Website](https://alfilatov.com/awesome-IT-films/)
 
-[![Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=14980891)
-
 ## Contents
 
 - [Movies](/build/movies.md)
