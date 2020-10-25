@@ -432,6 +432,16 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
+#### Indie Game: Life After
+:star: Indie_Game_Life_After_Score
+
+> A collection of short documentaries following the people and projects from Indie Game: The Movie in the years following that film's release.
+
+![Indie_Game_Life_After](../assets/indie_game_life_after.jpg)
+* Year: 2016
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5998218/)
+
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
