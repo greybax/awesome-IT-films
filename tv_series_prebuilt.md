@@ -20,6 +20,8 @@
 - [8.0-8.5 :star:](#_80-85)
   - [Halt and Catch Fire](#halt-and-catch-fire)
   - [Chuck](#chuck)
+- [7.5-7.9 :star:](#_75-79)
+  - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.0-6.5 :star:](#_60-65)
@@ -98,6 +100,18 @@
 * Year: 2007-2012
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0934814/)
+
+### 7.5-7.9
+
+#### Inside Bill's Brain: Decoding Bill Gates
+:star: Decoding_Bill_Gates_Score
+
+> A documentary that tells Bill Gates' life story as he pursues solutions to some of the world's most complex problems.
+
+![inside-bills-brain-decoding-bill-gates](../assets/decoding-bill-gates.jpg)
+* Year: 2019-
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt10837476/)
 
 ### 7.0-7.5
 
