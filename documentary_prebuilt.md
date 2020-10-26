@@ -205,6 +205,16 @@
 
 ### 7.0-7.5
 
+### The Great Hack
+:star: The_Great_Hack
+
+>The Cambridge Analytica scandal is examined through the roles of several affected persons.
+
+![The Great Hack](../assets/the_great_hack.jpg)
+* Year: 2019
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt4736550/)
+
 #### We Are Legion: The Story of the Hacktivists
 :star: We_Are_Legion_Score
 
