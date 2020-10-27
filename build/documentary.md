@@ -7,9 +7,9 @@
 
 ## Contents
 
-- [TV Series](tv_series.md)
-- [Movies](movies.md)
-- [Documentary](documentary.md)
+- [TV Series](build/tv_series.md)
+- [Movies](build/movies.md)
+- [Documentary](build/documentary.md)
 
 - [8.0-8.5 :star:](#_80-85)
   - [The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)

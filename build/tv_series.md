@@ -7,9 +7,9 @@
 
 ## Contents
 
-- [Movies](movies.md)
-- [Documentary](documentary.md)
-- [TV Series](tv_series.md)
+- [Movies](build/movies.md)
+- [Documentary](build/documentary.md)
+- [TV Series](build/tv_series.md)
 
 - [8.5-8.9 :star:](#_85-89)
   - [Black Mirror](#black-mirror)
