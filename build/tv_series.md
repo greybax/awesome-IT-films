@@ -11,19 +11,23 @@
 - [Documentary](build/documentary.md)
 - [TV Series](build/tv_series.md)
 
-- [8.5-8.9 :star:](#_85-89)
-  - [Black Mirror](#black-mirror)
-  - [Mr. Robot](#mr-robot)
-  - [The IT Crowd](#the-it-crowd)
-  - [Silicon Valley](#silicon-valley)
-  - [Person of Interest](#person-of-interest)
-- [8.0-8.5 :star:](#_80-85)
-  - [Halt and Catch Fire](#halt-and-catch-fire)
-  - [Chuck](#chuck)
-- [7.0-7.5 :star:](#_70-75)
-  - [The Lone Gunmen](#the-lone-gunmen)
-- [6.0-6.5 :star:](#_60-65)
-  - [.hack//Roots](#hack_roots)
+- [Contents](#contents)
+  - [8.5-8.9](#85-89)
+    - [Black Mirror](#black-mirror)
+    - [Mr. Robot](#mr-robot)
+    - [The IT Crowd](#the-it-crowd)
+    - [Silicon Valley](#silicon-valley)
+    - [Person of Interest](#person-of-interest)
+  - [8.0-8.5](#80-85)
+    - [Halt and Catch Fire](#halt-and-catch-fire)
+    - [Chuck](#chuck)
+  - [7.0-7.7](#70-77)
+    - [Devs](#devs)
+    - [The Lone Gunmen](#the-lone-gunmen)
+  - [6.0-6.5](#60-65)
+    - [.hack//Roots](#hackroots)
+- [Contributing](#contributing)
+- [License](#license)
 
 ### 8.5-8.9
 
@@ -38,7 +42,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2085059/)
 
 #### Mr. Robot
-:star: Mr_Robot_Score
+:star: 8.6
 
 > Follows a young computer programmer who suffers from social anxiety disorder and forms connections through hacking. He's recruited by a mysterious anarchist, who calls himself Mr. Robot.
 
@@ -48,7 +52,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4158110)
 
 #### The IT Crowd
-:star: The_It_Crowd_Score
+:star: 8.5
 
 > The comedic adventures of a rag-tag group of technical support workers at a large corporation.
 
@@ -80,7 +84,7 @@
 ### 8.0-8.5
 
 #### Halt and Catch Fire
-:star: Halt_And_Catch_Score
+:star: 8.4
 
 > Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
 
@@ -99,10 +103,21 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0934814/)
 
-### 7.0-7.5
+### 7.0-7.7
+
+#### Devs
+:star: 7.7
+
+> A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend.
+
+![Devs](../assets/devs.jpg)
+* Year: 2020- 
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt8134186/)
+
 
 #### The Lone Gunmen
-:star: The_Lone_Gunmen_Score
+:star: 7.4
 
 > Spin-off of The X-Files featuring the trio of computer-hacking conspiracy geeks popularly known as The Lone Gunmen. Never ones to stray far from the center of corporate and government intrigue, the threesome of John Byers, Melvin Frohike, and Richard Langly play like a misguided Mission Impossible team, embarking on a series of comic adventures that simultaneously highlight their genius and ineptitude. While their newfound independence inspires them to investigate even the most shadowy of conspiracies, their social skills remain stagnant, which only makes their lives more difficult when they learn their chief competitor in the "information business" is the brilliant and beautiful Yves Adele Harlow. Perpetually short of funds to publish The Lone Gunmen newspaper, Byers, Frohike and Langly begrudgingly take on Jimmy Bond as an unlikely benefactor who bankrolls their missions and joins them in their investigations to uncover the truth.
 

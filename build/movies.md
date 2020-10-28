@@ -11,94 +11,126 @@
 - [TV Series](build/tv_series.md)
 - [Movies](build/movies.md)
 
-- [8.5-8.9 :star:](#_85-89)
-  - [Matrix](#matrix)
-- [8.0-8.5 :star:](#_80-85)
-  - [2001: A Space Odyssey](#2001-a-space-odyssey)
-  - [A Beautiful Mind](#a-beautiful-mind)
-  - [Ghost in the shell](#ghost-in-the-shell)
-  - [Her](#her)
-  - [The Imitation Game](#the-imitation-game)
-- [7.5-7.9 :star:](#_75-79)
-  - [The Social Network](#the-social-network)
-  - [Office Space](#office-space)
-  - [Hidden Figures](#hidden-figures)
-  - [Minority Report](#minority-report)
-  - [Ex Machina](#ex-machina)
-  - [Disconnect](#disconnect)
-  - [Who am I](#who-am-i)
-  - [Ready Player One](#ready-player-one)
-- [7.0-7.5 :star:](#_70-75)
-  - [Pi](#pi)
-  - [23](#23)
-  - [Snowden](#snowden)
-  - [Cyberbully](#cyberbully)
-  - [Enemy of the State](#enemy-of-the-state)
-  - [Desk Set](#desk-set)
-  - [Live Free or Die Hard](#live-free-or-die-hard)
-  - [Pirates of Silicon Valley](#pirates-of-silicon-valley)
-  - [GoldenEye](#goldeneye)
-  - [The Matrix Reloaded](#the-matrix-reloaded)
-  - [Alphaville](#alphaville)
-  - [Steve Jobs](#steve-jobs)
-  - [Sneakers](#sneakers)
-  - [Artificial Intelligence: AI](#artificial-intelligence-ai)
-  - [In the Realm of the Hackers](#in-the-realm-of-the-hackers)
-  - [WarGames](#wargames)
-  - [The Thirteenth Floor](#the-thirteenth-floor)
-  - [Real Genius](#real-genius)
-- [6.5-6.9 :star:](#_65-69)
-  - [The Score](#the-score)
-  - [eXistenZ](#existenz)
-  - [TRON](#tron)
-  - [TRON: Legacy](#tron-legacy)
-  - [Underground_The_Julian_Assange_Story](#underground-the-julian-assange-story)
-  - [The Matrix Revolutions](#the-matrix-revolutions)
-  - [Eagle Eye](#eagle-eye)
-  - [Weird Science](#weird-science)
-  - [Foolproof](#foolproof)
-  - [Middle Men](#middle-men)
-  - [Kairo](#kairo)
-  - [Swordfish](#swordfish)
-  - [Brainstorm](#brainstorm)
-  - [Electric Dreams](#electric-dreams)
-  - [Khottabych](#khottabych)
-- [6.0 - 6.5 :star:](#_60-65)
-  - [Takedown](#takedown)
-  - [The Internship](#the-internship)
-  - [Transcendence](#transcendence)
-  - [Computer Chess](#computer-chess)
-  - [Untraceable](#untraceable)
-  - [Hacker](#hacker)
-  - [Hackers](#hackers)
-  - [The Fifth Estate](#the-fifth-estate)
-  - [One Point O](#one-point-o)
-  - [Antitrust](#antitrust)
-  - [Disclosure](#disclosure)
-  - [The Computer Wore Tennis Shoes](#the-computer-wore-tennis-shoes)
-- [5.5-5.9 :star:](#_55-59)
-  - [Jobs](#jobs)
-  - [The Net](#the-net)
-  - [Gamer](#gamer)
-  - [Firewall](#firewall)
-  - [Purpose](#purpose)
-  - [Virtuosity](#virtuosity)
-  - [Johnny Mnemonic](#johnny-mnemonic)
-- [5.0-5.5 :star:](#_50-55)
-  - [The Lawnmower Man](#the-lawnmower-man)
-  - [Blackhat](#blackhat)
-  - [iSteve](#isteve)
-  - [Open Windows](#open-windows)
-  - [Algorithm](#algorithm)
-- [4.0 - 4.5 :star:](#_40-45)
-  - [Startap](#startap)
-  - [WarGames: The Dead Code](#wargames-the-dead-code)
-  - [Debug](#debug)
-  - [Reboot](#reboot)
-  - [Terminal Error](#terminal-error)
-- [3.9 - 3.0 :star:](#_39-30)
-  - [Hacker's Game](#hackers-game)
-  - [Y2K](#y2k)
+- [Contents](#contents)
+  - [8.5-8.9](#85-89)
+    - [Matrix5.98.7](#matrix5987)
+  - [8.0-8.5](#80-85)
+    - [2001: A Space Odyssey](#2001-a-space-odyssey)
+    - [A Beautiful Mind](#a-beautiful-mind)
+    - [Ghost in the shell](#ghost-in-the-shell)
+    - [Her](#her)
+    - [The Imitation Game](#the-imitation-game)
+  - [7.5-7.9](#75-79)
+    - [The Social Network](#the-social-network)
+    - [Office Space](#office-space)
+    - [Hidden Figures](#hidden-figures)
+    - [Minority report](#minority-report)
+    - [Ex Machina](#ex-machina)
+    - [Disconnect](#disconnect)
+    - [Who am I - No system is safe.](#who-am-i---no-system-is-safe)
+    - [Ready Player One](#ready-player-one)
+  - [7.0-7.5](#70-75)
+    - [Pi](#pi)
+    - [23](#23)
+    - [Snowden](#snowden)
+    - [Cyberbully](#cyberbully)
+    - [Enemy of the State](#enemy-of-the-state)
+    - [Desk Set](#desk-set)
+    - [Live Free or Die Hard](#live-free-or-die-hard)
+    - [Pirates of Silicon Valley](#pirates-of-silicon-valley)
+    - [GoldenEye](#goldeneye)
+    - [The Matrix Reloaded](#the-matrix-reloaded)
+    - [Alphaville](#alphaville)
+    - [Steve Jobs](#steve-jobs)
+    - [Sneakers](#sneakers)
+    - [Artificial Intelligence: AI](#artificial-intelligence-ai)
+    - [In the Realm of the Hackers](#in-the-realm-of-the-hackers)
+    - [WarGames](#wargames)
+    - [The Thirteenth Floor](#the-thirteenth-floor)
+    - [Real Genius](#real-genius)
+  - [6.5-6.9](#65-69)
+    - [Primer](#primer)
+    - [The Score](#the-score)
+    - [eXistenZ](#existenz)
+    - [TRON](#tron)
+    - [TRON: Legacy](#tron-legacy)
+    - [Underground: The Julian Assange Story](#underground-the-julian-assange-story)
+    - [The Matrix Revolutions](#the-matrix-revolutions)
+    - [Eagle Eye](#eagle-eye)
+    - [Weird Science](#weird-science)
+    - [Foolproof](#foolproof)
+    - [Middle Men](#middle-men)
+    - [Kairo](#kairo)
+    - [Swordfish](#swordfish)
+    - [Brainstorm](#brainstorm)
+    - [Electric Dreams](#electric-dreams)
+    - [Khottabych](#khottabych)
+  - [6.0-6.5](#60-65)
+    - [Takedown](#takedown)
+    - [The Internship](#the-internship)
+    - [Transcendence](#transcendence)
+    - [Computer Chess](#computer-chess)
+    - [Untraceable](#untraceable)
+    - [Hacker](#hacker)
+    - [Hackers](#hackers)
+    - [The Fifth Estate](#the-fifth-estate)
+    - [One Point O](#one-point-o)
+    - [Antitrust](#antitrust)
+    - [Disclosure](#disclosure)
+    - [The Computer Wore Tennis Shoes](#the-computer-wore-tennis-shoes)
+  - [5.5-5.9](#55-59)
+    - [Unfriended: Dark Web](#unfriended-dark-web)
+    - [Jobs](#jobs)
+    - [The Net](#the-net)
+    - [Gamer](#gamer)
+    - [Firewall](#firewall)
+    - [Purpose](#purpose)
+    - [Virtuosity](#virtuosity)
+    - [Johnny Mnemonic](#johnny-mnemonic)
+  - [5.0-5.5](#50-55)
+    - [Unfriended](#unfriended)
+    - [The Lawnmower Man](#the-lawnmower-man)
+    - [Blackhat](#blackhat)
+    - [iSteve](#isteve)
+    - [Open Windows](#open-windows)
+    - [Algorithm](#algorithm)
+  - [4.0-4.5](#40-45)
+    - [Startap](#startap)
+    - [WarGames: The Dead Code](#wargames-the-dead-code)
+    - [Debug](#debug)
+    - [Reboot](#reboot)
+    - [Terminal Error](#terminal-error)
+  - [3.9-3.0](#39-30)
+    - [Hacker's Game](#hackers-game)
+    - [Y2K](#y2k)
+- [Contributing](#contributing)
+- [License](#license)
+    
+    - [Jobs](#jobs)
+    - [The Net](#the-net)
+    - [Gamer](#gamer)
+    - [Firewall](#firewall)
+    - [Purpose](#purpose)
+    - [Virtuosity](#virtuosity)
+    - [Johnny Mnemonic](#johnny-mnemonic)
+  - [5.0-5.5](#50-55)
+    - [Unfriended](#unfriended)
+    - [The Lawnmower Man](#the-lawnmower-man)
+    - [Blackhat](#blackhat)
+    - [iSteve](#isteve)
+    - [Open Windows](#open-windows)
+    - [Algorithm](#algorithm)
+  - [4.0-4.5](#40-45)
+    - [Startap](#startap)
+    - [WarGames: The Dead Code](#wargames-the-dead-code)
+    - [Debug](#debug)
+    - [Reboot](#reboot)
+    - [Terminal Error](#terminal-error)
+  - [3.9-3.0](#39-30)
+    - [Hacker's Game](#hackers-game)
+    - [Y2K](#y2k)
+- [Contributing](#contributing)
+- [License](#license)
 
 ### 8.5-8.9
 
@@ -169,7 +201,7 @@
 ### 7.5-7.9
 
 #### The Social Network
-:star: The_Social_Network_Score
+:star: 7.7
 
 > Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the cofounder who was later squeezed out of the business.
 
@@ -202,7 +234,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4846340/)
 
 #### Minority report
-:star: Minority_Report_Score
+:star: 7.6
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
@@ -303,7 +335,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0120660/)
 
 #### Desk Set 
-:star: Desk_Set_Score 
+:star: 7.3 
 
 > Two extremely strong personalities clash over the computerization of a television network's research department.
 
@@ -323,7 +355,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0337978/)
 
 #### Pirates of Silicon Valley 
-:star: Pirates_of_Silicon_Valley_Score 
+:star: 7.3 
 
 > History of Apple and Microsoft.
 
@@ -445,7 +477,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0390384/)
 
 #### The Score
-:star: 6.8_Score
+:star: 6.8
 
 > An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him into doing one last heist.
 
@@ -545,7 +577,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1251757/)
 
 #### Kairo 
-:star: Kairo_Score 
+:star: 6.5 
 
 > Two groups of people discover evidence that suggests spirits may be trying to invade the human world through the Internet.
 
@@ -564,7 +596,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0244244/)
 
 #### Brainstorm
-:star: Brainstorm_Score 
+:star: 6.5 
 
 > Brilliant researchers Lillian Reynolds and Michael Brace have developed a system of recording and playing back actual experiences of people. Once the capability of tapping into "higher brain functions" is added in, and you can literally jump into someone else's head and play back recordings of what he or she was thinking, feeling, seeing, etc., at the time of the recording, the applications for the project quickly spiral out of control. While Michael Brace uses the system to become close again to Karen Brace, his estranged wife who also works on the project, others start abusing it for intense sexual experiences and other logical but morally questionable purposes. The government tries to kick Michael and Lillian off the project once the vast military potential of the technology is discovered. It soon becomes obvious that the government is interested in more than just missile guidance systems. The lab starts producing mind torture recordings and other psychosis inducing material. When one of the researchers dies and tapes the experience of death, Michael is convinced that he must playback this tape to honor the memory of the researcher and to become enlightened. When another researcher dies during playback the tape is locked away and Michael has to fight against his former colleagues and the government lackeys that now run his lab in order to play back and confront the "scariest thing any of us will ever face" - death itself.
 
@@ -574,7 +606,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0085271)
 
 #### Electric Dreams 
-:star: Electric_Dreams_Score 
+:star: 7.3 
 
 > An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman.
 
@@ -584,7 +616,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0087197)
 
 #### Khottabych
-:star: Khottabych_Score 
+:star: 6.2 
 
 ![Khottabych](../assets/khottabych.jpg)
 * Year: 2006
@@ -603,7 +635,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0159784/)
 
 #### The Internship
-:star: The_Internship_Score 
+:star: 6.3 
 
 > Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
 
@@ -616,7 +648,7 @@
 ([@greybax](https://github.com/greybax))
 
 #### Transcendence
-:star: Transcendence_Score 
+:star: 6.3 
 
 > A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
@@ -646,7 +678,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0880578/)
 
 #### Hacker
-:star: Hacker_Score
+:star: 6.2
 
 > Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. He learns to rip off credit cards, ATMs, break into banks and eventually the stock market. He engages a network of service staff to help collect information, and partners with a guy named Sye, and a girl named Kira, to help sell the online-bought merchandise. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank. Inspired by true events.
 
@@ -717,8 +749,18 @@
 
 ### 5.5-5.9
 
+#### Unfriended: Dark Web
+:star: 5.9 
+
+> A teen comes into possession of a new laptop and soon discovers that the previous owner is not only watching him, but will also do anything to get it back.
+
+![Jobs](../assets/unfriended_darkweb.jpg)
+* Year: 2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt4761916/)
+
 #### Jobs
-:star: Jobs_score 
+:star: 5.9 
 
 > The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.
 
@@ -789,6 +831,17 @@
 
 ### 5.0-5.5
 
+#### Unfriended
+:star: 5.5 
+
+> A group of online chat room friends find themselves haunted by a mysterious, supernatural force using the account of their dead friend.
+
+![Unfriended](../assets/unfriended.jpg)
+* Year: 2014
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt3713166/)
+
+
 #### The Lawnmower Man
 :star: 5.4 
 
@@ -799,8 +852,9 @@
 * Country: UK, USA, Japan
 * [_IMDb_](https://www.imdb.com/title/tt0104692/)
 
+
 #### Blackhat
-:star: Blackhat_Score 
+:star: 5.4 
 
 > A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.
 
@@ -809,8 +863,10 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2717822)
 
+
+
 #### iSteve
-:star: iSteve_Score 
+:star: 5.3 
 
 > A comedic look at the life of Steve Jobs.
 
@@ -830,7 +886,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2409818/)
 
 #### Algorithm 
-:star: Algorithm_Score
+:star: 4.8
 
 > A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.
 
@@ -859,7 +915,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0865957/)
 
 #### Debug
-:star: Debug_Score 
+:star: 4.3 
 
 > Six young computer hackers sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.
 
@@ -879,7 +935,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2090594/)
 
 #### Terminal Error
-:star: Terminal_Error_Score 
+:star: 4.0 
 
 > Powerful automation software begins to make decisions for itself.
 
@@ -890,7 +946,7 @@
 ### 3.9-3.0
 
 #### Hacker's Game
-:star: Hackers_Game_Score
+:star: 3.6
 
 > A love story between two hackers, Soyan and Loise. Like many other hackers, Soyan works for a company he previously hacked.
 

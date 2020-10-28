@@ -11,48 +11,53 @@
 - [Movies](build/movies.md)
 - [Documentary](build/documentary.md)
 
-- [8.0-8.5 :star:](#_80-85)
-  - [The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)
-  - [The KGB, the Computer and Me](#the-kgb-the-computer-and-me)
-  - [Citizenfour](#citizenfour)
-  - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
-- [7.9-7.5 :star:](#_79-75)
-  - [Hacking Democracy](#hacking-democracy)
-  - [Zero Days](#zero-days)
-  - [Indie Game: The Movie](#indie-game-the-movie)
-  - [DSKNECTD](#dsknectd)
-  - [Freedom Downtime](#freedom-downtime)
-  - [TPB AFK: The Pirate Bay Away from Keyboard](#tpb-afk-the-pirate-bay-away-from-keyboard)
-  - [Secret History of Hacking](#secret-history-of-hacking)
-  - [Code 2600](#code-2600)
-  - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
-- [7.0-7.5 :star:](#_70-75)
-  - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
-  - [The Singularity](#the-singularity)
-  - [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
-  - [Code Rush](#code-rush)
-  - [Revolution OS](#revolution-os)
-  - [We Live in Public](#we-live-in-public)
-  - [Startup.com](#startupcom)
-  - [Deep Web](#deep-web)
-  - [Steal This Film](#steal-this-film)
-  - [Print the Legend](#print-the-legend)
-- [6.9-6.5 :star:](#_69-65)
-  - [Google and the World Brain](#google-and-the-world-brain)
-  - [We Steal Secrets: The Story of WikiLeaks](#we-steal-secrets-the-story-of-wikiLeaks)
-  - [Downloaded](#downloaded)
-  - [Talhotblond](#talhotblond)
-  - [Silicon Cowboys](#silicon-cowboys)
-  - [Home Page](#home-page)
-  - [The Hacker Wars](#the-hacker-wars)
-- [6.0-6.5 :star:](#_60-65)
-  - [Hackers Wanted](#hackers-wanted)
-  - [Hackers: Outlaws and Angels](#hackers-outlaws-and-angels)
-  - [Hackers Are People Too](#hackers-are-people-too)
-  - [DEFCON: The Documentary](#defcon-the-documentary)
-  - [War for the Web](#war-for-the-web)
-- [5.0-5.5 :star:](#_50-55)
-  - [Hacker](#hacker)
+- [Contents](#contents)
+  - [8.0-8.5](#80-85)
+    - [The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)
+    - [The KGB, the Computer and Me](#the-kgb-the-computer-and-me)
+    - [Citizenfour](#citizenfour)
+    - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
+  - [7.9-7.5](#79-75)
+    - [Hacking Democracy](#hacking-democracy)
+    - [Zero Days](#zero-days)
+    - [Indie Game: The Movie](#indie-game-the-movie)
+    - [DSKNECTD](#dsknectd)
+    - [Freedom Downtime](#freedom-downtime)
+    - [TPB AFK: The Pirate Bay Away from Keyboard](#tpb-afk-the-pirate-bay-away-from-keyboard)
+    - [Secret History of Hacking](#secret-history-of-hacking)
+    - [The Social Dilemma](#the-social-dilemma)
+    - [Code 2600](#code-2600)
+    - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
+    - [The Secret Rules of Modern Living: Algorithms](#the-secret-rules-of-modern-living-algorithms)
+  - [7.0-7.5](#70-75)
+    - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
+    - [The Singularity](#the-singularity)
+    - [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
+    - [Code Rush](#code-rush)
+    - [Revolution OS](#revolution-os)
+    - [We Live in Public](#we-live-in-public)
+    - [Startup.com](#startupcom)
+    - [Deep Web](#deep-web)
+    - [Steal This Film](#steal-this-film)
+    - [Print the Legend](#print-the-legend)
+  - [6.9-6.5](#69-65)
+    - [Google and the World Brain](#google-and-the-world-brain)
+    - [We Steal Secrets: The Story of WikiLeaks](#we-steal-secrets-the-story-of-wikileaks)
+    - [Downloaded](#downloaded)
+    - [Talhotblond](#talhotblond)
+    - [Silicon Cowboys](#silicon-cowboys)
+    - [Home Page](#home-page)
+    - [The Hacker Wars](#the-hacker-wars)
+  - [6.0-6.5](#60-65)
+    - [Hackers Wanted](#hackers-wanted)
+    - [Hackers: Outlaws and Angels](#hackers-outlaws-and-angels)
+    - [Hackers Are People Too](#hackers-are-people-too)
+    - [DEFCON: The Documentary](#defcon-the-documentary)
+    - [War for the Web](#war-for-the-web)
+  - [5.0-5.5](#50-55)
+    - [Hacker](#hacker)
+- [Contributing](#contributing)
+- [License](#license)
 
 ### 8.0-8.5
 
@@ -163,6 +168,16 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2338277/)
 
+#### The Social Dilemma
+:star: 7.7
+
+> Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.
+
+![The_Social_Dilemma](../assets/the_social_dilema.jpg)
+* Year: 2020
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt11464826/)
+* 
 #### Code 2600
 :star: 7.4
 
@@ -196,7 +211,7 @@
 ### 7.0-7.5
 
 #### We Are Legion: The Story of the Hacktivists
-:star: We_Are_Legion_Score
+:star: 7.3
 
 > Documentary on the workings and beliefs of the self-described "hacktivist" collective, Anonymous.
 
@@ -227,7 +242,7 @@
 
 
 #### Code Rush
-:star: Code_Rush_Score
+:star: 7.3
 
 > Code Rush follows the people of Netscape Communications during an intense period in 1998, when it was all but certain that Microsoft had already won control of the Internet user's desktop. When all hope seems fading, a group of dedicated developers work their hardest to push out a very special release.
 
