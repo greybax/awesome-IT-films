@@ -425,7 +425,7 @@
 #### Indie Game: The Movie 
 :star: Indie_Game_The_Movie_Score
 
-> A documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
+> Indie Game: The Movie is a documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
 
 ![Indie_Game_The_Movie](../assets/indie_game_the_movie.jpg)
 * Year: 2012
@@ -435,7 +435,7 @@
 #### Indie Game: Life After
 :star: Indie_Game_Life_After_Score
 
-> A collection of short documentaries following the people and projects from Indie Game: The Movie in the years following that film's release.
+> Indie Game: Life After is a collection of short documentaries following the people and projects from Indie Game: The Movie in the years following that film's release.
 
 ![Indie_Game_Life_After](../assets/indie_game_life_after.jpg)
 * Year: 2016
