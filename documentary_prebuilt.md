@@ -51,6 +51,8 @@
   - [Hackers Are People Too](#hackers-are-people-too)
   - [DEFCON: The Documentary](#defcon-the-documentary)
   - [War for the Web](#war-for-the-web)
+- [5.9-5.5 :star:](#_59-55)
+  - [Indie Game: Life After](#indie-game-life-after)
 - [5.0-5.5 :star:](#_50-55)
   - [Hacker](#hacker)
 
@@ -425,12 +427,22 @@
 #### Indie Game: The Movie 
 :star: Indie_Game_The_Movie_Score
 
-> A documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
+> Indie Game: The Movie is a documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
 
 ![Indie_Game_The_Movie](../assets/indie_game_the_movie.jpg)
 * Year: 2012
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
+
+#### Indie Game: Life After
+:star: Indie_Game_Life_After_Score
+
+> Indie Game: Life After is a collection of short documentaries following the people and projects from Indie Game: The Movie in the years following that film's release.
+
+![Indie_Game_Life_After](../assets/indie_game_life_after.jpg)
+* Year: 2016
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5998218/)
 
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
