@@ -51,6 +51,8 @@
   - [Hackers Are People Too](#hackers-are-people-too)
   - [DEFCON: The Documentary](#defcon-the-documentary)
   - [War for the Web](#war-for-the-web)
+- [5.9-5.5 :star:](#_59-55)
+  - [Indie Game: Life After](#indie-game-life-after)
 - [5.0-5.5 :star:](#_50-55)
   - [Hacker](#hacker)
 
