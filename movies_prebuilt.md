@@ -29,6 +29,7 @@
   - [Who am I](#who-am-i)
   - [Ready Player One](#ready-player-one)
 - [7.0-7.5 :star:](#_70-75)
+  - [Upgrade](#upgrade)
   - [Pi](#pi)
   - [23](#23)
   - [Snowden](#snowden)
@@ -254,6 +255,16 @@
 * [_IMDb_](https://www.imdb.com/title/tt1677720/)
 
 ### 7.0-7.5
+
+#### Upgrade
+:star: Upgrade_Score
+
+> Set in the near-future, technology controls nearly all aspects of life. But when the world of Grey, a self-labeled technophobe, is turned upside down, his only hope for revenge is an experimental computer chip implant. 
+
+![Upgrade](../assets/upgrade.jpg)
+* Year: 2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt6499752/)
 
 #### Pi 
 :star: Pi_Score
