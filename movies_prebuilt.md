@@ -256,6 +256,20 @@
 
 ### 7.0-7.5
 
+#### Free Guy 
+:star: Free_Guy_Score
+
+> A bank teller discovers that he's actually an NPC inside a brutal, open world video game.
+
+![Free_Guy](../assets/free_guy.jpg)
+* Year: 2021
+* Country: USA, Canada
+* [_IMDb_](https://www.imdb.com/title/tt6264654/)
+
+   - Such a good laugh and lots of references.
+([@Ganzabahl](https://github.com/Ganzabahl))
+
+
 #### Upgrade
 :star: Upgrade_Score
 
