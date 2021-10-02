@@ -17,6 +17,7 @@
   - [Citizenfour](#citizenfour)
   - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
 - [7.9-7.5 :star:](#_79-75)
+  - [AlphaGo](#alphago)
   - [The Social Dilemma](#the-social-dilemma)
   - [Hacking Democracy](#hacking-democracy)
   - [Zero Days](#zero-days)
@@ -27,7 +28,6 @@
   - [Secret History of Hacking](#secret-history-of-hacking)
   - [Code 2600](#code-2600)
   - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
-  - [AlphaGo](#alphago)
 - [7.0-7.5 :star:](#_70-75)
   - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
   - [The Singularity](#the-singularity)
@@ -98,6 +98,16 @@
 * [_IMDb_](https://www.imdb.com/title/tt3268458/)
 
 ### 7.9-7.5
+
+#### AlphaGo
+:star: AlphaGo_Score
+
+> Google's DeepMind has developed a program for playing the 3000 year old game Go using AI. They test AlphaGo on the European champion, then March 9-15, 2016, on the top player, Lee Sedol, in a best of 5 tournament in Seoul.".
+
+![AlphaGo](../assets/alphago.jpg)
+* Year: 2017
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt6700846/)
 
 #### The Social Dilemma 
 :star: The_Social_Dilemma_Score
@@ -194,15 +204,6 @@
 * Year: 1984
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1191116/)
-#### AlphaGo
-:star: AlphaGo_Score
-
-> Google's DeepMind has developed a program for playing the 3000 year old game Go using AI. They test AlphaGo on the European champion, then March 9-15, 2016, on the top player, Lee Sedol, in a best of 5 tournament in Seoul.".
-
-![AlphaGo](../assets/alphago.jpg)
-* Year: 2017
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt6700846/)
 
 #### The Secret Rules of Modern Living: Algorithms
  :star: The_Secret_Rules_Of_Modern_Living_Score
