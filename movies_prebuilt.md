@@ -47,6 +47,7 @@
   - [In the Realm of the Hackers](#in-the-realm-of-the-hackers)
   - [WarGames](#wargames)
   - [The Thirteenth Floor](#the-thirteenth-floor)
+  - [I, Robot](#i-robot)
   - [Real Genius](#real-genius)
 - [6.5-6.9 :star:](#_65-69)
   - [The Score](#the-score)
@@ -448,6 +449,16 @@
 * Year: 1999
 * Country: Germany, USA
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
+
+#### I, Robot
+:star: I_Robot_Score
+
+> In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
+
+![I_Robot](../assets/i_robot.jpg)
+* Year: 2004
+* Country: USA, Germany
+* [_IMDb_](https://www.imdb.com/title/tt0343818/)
 
 #### Real Genius 
 :star: Real_Genius_Score 
