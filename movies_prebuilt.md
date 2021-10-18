@@ -19,6 +19,7 @@
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
   - [The Imitation Game](#the-imitation-game)
+  - [Twenty Hacker](#twenty-hacker)
 - [7.5-7.9 :star:](#_75-79)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
@@ -168,6 +169,16 @@
 * Year: 2014
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2084970/)
+
+#### Twenty Hacker
+:star: Twenty_Hacker
+
+> The life of a high school boy named Jae Min is torn apart when, in 2017, his father's company is devastated by hackers who make use of sophisticated ransomware programs to attack the company's servers - resulting in a tragic scenario for Jae Min's family.
+
+![The_Imitation_Game](../assets/twenty_hacker.jpg)
+* Year: 2021
+* Country: South Korea
+* [_Viki_](https://www.viki.com/movies/37822c-twenty-hacker?locale=en)
 
 ### 7.5-7.9
 
