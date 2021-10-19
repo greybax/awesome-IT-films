@@ -28,7 +28,6 @@
   - [Disconnect](#disconnect)
   - [Who am I](#who-am-i)
   - [Ready Player One](#ready-player-one)
-  - [Source Code](#source-code)
 - [7.0-7.5 :star:](#_70-75)
   - [Pi](#pi)
   - [23](#23)
@@ -251,16 +250,6 @@
 * Year: 2018
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1677720/)
-
-#### Source Code
-:star: 7.5 
-
-> A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes.
-
-![Source Code](../assets/Source_Code.jpg)
-* Year: 2011
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt0945513/)
 
 ### 7.0-7.5
 
