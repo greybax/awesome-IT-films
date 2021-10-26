@@ -24,7 +24,7 @@
   - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
-- [6.5-7.0 :star:](#_65-70)
+- [6.5-6.9 :star:](#_65-69)
   - [.hack//SIGN](#hack_SIGN)
 - [6.0-6.5 :star:](#_60-65)
   - [.hack//Roots](#hack_roots)
@@ -127,7 +127,7 @@
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0243069)
 
-### 6.5-7.0
+### 6.5-6.9
 
 #### .hack//SIGN
 :star: Hack_SIGN_Score
