@@ -19,6 +19,7 @@
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
   - [The Imitation Game](#the-imitation-game)
+  - [Blade Runner 2049](#blade-runner-2049)
 - [7.5-7.9 :star:](#_75-79)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
@@ -168,6 +169,16 @@
 * Year: 2014
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2084970/)
+
+#### Blade Runner 2049 
+:star: Blade_Runner_2049_Score
+
+> Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.
+
+![Blade_Runner_2049](../assets/blade_runner_2049.jpg)
+* Year: 2017
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1856101/)
 
 ### 7.5-7.9
 
