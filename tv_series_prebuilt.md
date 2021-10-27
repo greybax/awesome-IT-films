@@ -24,6 +24,8 @@
   - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
+- [6.5-6.9 :star:](#_65-69)
+  - [.hack//SIGN](#hack_SIGN)
 - [6.0-6.5 :star:](#_60-65)
   - [.hack//Roots](#hack_roots)
 
@@ -124,6 +126,18 @@
 * Year: 2001-
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0243069)
+
+### 6.5-6.9
+
+#### .hack//SIGN
+:star: Hack_SIGN_Score
+
+> It is the year 2010. After the great network crash of 2005, online entertainment was restricted. Two years after, the CC Corporation released the first Massively Multiplayer Online Role Playing game since the incident. The extremely popular game, called "The World" sells millions of copies. And when that many are playing, things are bound to go wrong. A mysterious boy, who calls himself Tsukasa, appears. He is very mysterious, and he claims that he is actually alive in real world, but not in front of a terminal. He is branded an illegal player by the Crimson Knights, and is pursued..
+
+![hack_SIGN](../assets/hack_sign.jpg)
+* Year: 2002-2003
+* Country: Japan
+* [_IMDb_](https://www.imdb.com/title/tt0361140/)
 
 ### 6.0-6.5
 
