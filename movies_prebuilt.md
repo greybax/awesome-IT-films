@@ -19,6 +19,7 @@
   - [Ghost in the shell](#ghost-in-the-shell)
   - [Her](#her)
   - [The Imitation Game](#the-imitation-game)
+  - [Twelve Monkeys](#twelve-monkeys)  
 - [7.5-7.9 :star:](#_75-79)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
@@ -168,6 +169,16 @@
 * Year: 2014
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt2084970/)
+
+#### Twelve Monkeys
+:star: Twelve_Monkeys_Score
+
+> In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+
+![Twelve_Monkeys](../assets/twelve_monkeys.jpg)
+* Year: 1995
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0114746/)
 
 ### 7.5-7.9
 
