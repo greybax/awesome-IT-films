@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://greybax.github.com/awesome-IT-films">
+  <a href="https://greybax.github.io/awesome-IT-films">
     <img src="logos/logo_static.png">
   </a>
   <p align="center">Awesome IT-films list</p>
