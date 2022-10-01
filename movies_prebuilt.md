@@ -954,3 +954,15 @@ Your contributions are always welcome! Please take a look at the [contribution g
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Aleksandr Filatov](https://alfilatov.com) has waived all copyright and related or neighboring rights to this work.
+
+#### Bug 
+:star: Bug_Score
+
+> An unhinged war veteran holes up with a lonely woman in a spooky Oklahoma motel room. The line between reality and delusion is blurred as they discover a bug infestation.
+
+* Year: 2006
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0470705/)
+
+   - Cool unique movie I've seen before many years ago. wasn't sure what to think then, now I'm enjoying it more. It's more of a an erotic drama with thriller aspects; it's a very low budget type too. Ashley Judd and Michael Shannon are both beautiful in it and it's well written.
+([@AnuragRoy485](https://github.com/AnuragRoy485)
