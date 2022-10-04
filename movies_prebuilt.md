@@ -234,7 +234,7 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
-#### Who am I - No system is safe. 
+#### Who am I
 :star: Who_Am_I_Score 
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
