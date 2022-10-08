@@ -296,6 +296,16 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt3557464/)
 
+#### The Great Hack
+:star: 7
+
+> Print the Legend is a 2019 documentary film that examines the Cambridge Analytica scandal.
+
+![The Great Hack](../assets/the_great_hack.jpg)
+* Year: 2019
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt4736550/)
+
 ### 6.9-6.5
 
 #### Google and the World Brain
