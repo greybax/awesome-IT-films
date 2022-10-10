@@ -26,6 +26,7 @@
   - [The Lone Gunmen](#the-lone-gunmen)
 - [6.5-6.9 :star:](#_65-69)
   - [.hack//SIGN](#hack_SIGN)
+  - [Loaded](#Loaded)
 - [6.0-6.5 :star:](#_60-65)
   - [.hack//Roots](#hack_roots)
 
@@ -138,6 +139,16 @@
 * Year: 2002-2003
 * Country: Japan
 * [_IMDb_](https://www.imdb.com/title/tt0361140/)
+
+#### Loaded
+:star: Loaded_Score
+
+> Four friends who become multi-millionaires when they sell their video game company for a clean £246 million and overnight, the four friends are transformed from "people who play games" to "serious players in the game..." - or are they?
+
+![Loaded](../assets/Loaded.jpg)
+* Year: 2017
+* Country: UK
+* [_IMDb_](https://www.imdb.com/title/tt6210192/)
 
 ### 6.0-6.5
 
