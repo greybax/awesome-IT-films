@@ -7,9 +7,9 @@
 
 ## Contents
 
-- [TV Series](build/tv_series.md)
-- [Movies](build/movies.md)
-- [Documentary](build/documentary.md)
+- [TV Series](tv_series.md)
+- [Movies](movies.md)
+- [Documentary](documentary.md)
 
 - [8.0-8.5 :star:](#_80-85)
   - [The Triumph of the Nerds: The Rise of Accidental Empires](#the-triumph-of-the-nerds-the-rise-of-accidental-empires)
@@ -17,6 +17,7 @@
   - [Citizenfour](#citizenfour)
   - [The Internet's Own Boy: The Story of Aaron Swartz](#the-internets-own-boy-the-story-of-aaron-swartz)
 - [7.9-7.5 :star:](#_79-75)
+  - [The Social Dilemma](#the-social-dilemma)
   - [Hacking Democracy](#hacking-democracy)
   - [Zero Days](#zero-days)
   - [Indie Game: The Movie](#indie-game-the-movie)
@@ -36,7 +37,6 @@
   - [Startup.com](#startupcom)
   - [Deep Web](#deep-web)
   - [Steal This Film](#steal-this-film)
-  - [Print the Legend](#print-the-legend)
 - [6.9-6.5 :star:](#_69-65)
   - [Google and the World Brain](#google-and-the-world-brain)
   - [We Steal Secrets: The Story of WikiLeaks](#we-steal-secrets-the-story-of-wikiLeaks)
@@ -51,13 +51,15 @@
   - [Hackers Are People Too](#hackers-are-people-too)
   - [DEFCON: The Documentary](#defcon-the-documentary)
   - [War for the Web](#war-for-the-web)
+- [5.9-5.5 :star:](#_59-55)
+  - [Indie Game: Life After](#indie-game-life-after)
 - [5.0-5.5 :star:](#_50-55)
   - [Hacker](#hacker)
 
 ### 8.0-8.5
 
 #### The Triumph of the Nerds: The Rise of Accidental Empires
-:star: 8.5
+:star: 8.4
 
 > Three part documentary that shows the insight look at the history of computers, from its rise in the 1970s to the beginning of the Dot-com boom of the late 1990s.
 
@@ -66,7 +68,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0115398/)
 
 #### The KGB, the Computer and Me
-:star: 8.1
+:star: 7.8
 
 > In 1986, astronomer turned computer scientist Clifford Stoll had just started working on a computer system at the Lawrence Berkeley Laboratory when he noticed a 75-cent discrepancy between the charges printed by two accounting programs responsible for charging people for machine use. Intrigued, he deduced that the system was being hacked, and he determined to find the culprit. This is the re-enactment of how he tracked down KGB cracker Markus Hess through the Ethernet to Hannover, Germany, as is told in his best-selling book _ The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage_ (1989). Stoll has become a celebrity for being, as he terms himself, "a computer contrarian."
 
@@ -75,7 +77,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0308449/)
 
 #### Citizenfour
-:star: 8.1
+:star: 8
 
 > A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden.
 
@@ -85,7 +87,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4044364/)
 
 #### The Internet's Own Boy: The Story of Aaron Swartz
-:star: 8.1
+:star: 8
 
 > The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26
 
@@ -96,8 +98,18 @@
 
 ### 7.9-7.5
 
+#### The Social Dilemma 
+:star: 7.6
+
+> Tech experts sound the alarm on the dangerous human impact of social networking.
+
+![Matrix](../assets/the_social_dilemma.jpg)
+* Year: 2020
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt11464826/)
+
 #### Hacking Democracy
-:star: 7.9
+:star: 7.8
 
 > This is a ground breaking documentary investigating allegations of election fraud during the 2004 U.S. presidential election. A group of concern citizens heading up watchdog organizations investigate the 2004 election in the wake of these allegations on the 2000 presidential election which ended up decided in the Supreme Court. These ordinary citizens investigate voter machine hardware and software security holes in systems used in numerous states including Ohio, Florida and California. They demonstrate with the help of a computer programmer how easy it is to change the numbers tallied on Diebold voting machines that count ballots. They are forced to the extreme of picking the trash at a Florida county warehouse to discover ballot tapes with numbers that mismatched the official election authority records, giving George Bush a lead in the numbers.
 
@@ -107,7 +119,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0808532/)
 
 #### Zero Days
-:star: 7.8
+:star: 7.7
 
 > A documentary focused on Stuxnet, a piece of self-replicating computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility, and which ultimately spread beyond its intended target.
 
@@ -117,7 +129,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt5446858/)
 
 #### Indie Game: The Movie
-:star: 7.7
+:star: 7.6
 
 > A documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
 
@@ -128,7 +140,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 #### DSKNECTD
-:star: 7.7
+:star: 7.6
 
 > An exploration into how smart phones, social media, and the Internet are profoundly changing the way we interact and experience each other - for the good and for the bad.
 
@@ -137,7 +149,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 #### Freedom Downtime
-:star: 7.4
+:star: 7.3
 
 > A feature length documentary about the Free Kevin movement and the hacker world.
 
@@ -147,7 +159,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0309614/)
 
 #### TPB AFK: The Pirate Bay Away from Keyboard
-:star: 7.5
+:star: 7.4
 
 > An intellectual freedoms documentary based around the interpersonal triumphs, and defeats of the three main characters against the largest industry in the known universe. The media industry.
 
@@ -164,7 +176,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2338277/)
 
 #### Code 2600
-:star: 7.4
+:star: 7.3
 
 > CODE 2600 documents the Info-Tech Age, told by the events and people who helped build and manipulate it. It explores the impact this new connectivity has on our ability to remain human while maintaining our personal privacy and security.
 
@@ -183,7 +195,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1191116/)
 
 #### The Secret Rules of Modern Living: Algorithms
- :star: 7.5
+ :star: 7.4
 
 > Professor Marcus du Sautoy demystifies the hidden world of algorithms and reveals where these 2,000-year-old problem solvers came from, how they work, and what they have achieved.
 
@@ -216,7 +228,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2073120/)
 
 #### Terms and Conditions May Apply
-:star: 7.4
+:star: 7.3
 
 > A documentary that exposes what corporations and governments learn about people through Internet and cell phone usage, and what can be done about it ... if anything.
 
@@ -285,20 +297,10 @@
 * Country: UK, Germany, Sweden
 * [_IMDb_](https://www.imdb.com/title/tt1422757/)
 
-#### Print the Legend
-:star: 7
-
-> Print the Legend is a 2014 documentary film and Netflix Original focused on the 3D printing revolution.
-
-![Print_The_Legend](../assets/print_the_legend.jpg)
-* Year: 2014
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt3557464/)
-
 ### 6.9-6.5
 
 #### Google and the World Brain
-:star: 6.8
+:star: 6.7
 
 > The most ambitious project ever conceived on the Internet: Google's master plan to scan every book in the world and the people trying to stop them. Google say they are building a library for mankind, but they also have other intentions.
 
@@ -318,7 +320,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1824254/)
 
 #### Downloaded
-:star: 6.9
+:star: 6.8
 
 > A documentary that explores the downloading revolution; the kids that created it, the bands and the businesses that were affected by it, and its impact on the world at large.
 
@@ -356,7 +358,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0144969/)
 
 #### The Hacker Wars
-:star: 6.6
+:star: 6.4
 
 > Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy
 
@@ -368,7 +370,7 @@
 ### 6.0-6.5
 
 #### Hackers Wanted
-:star: 6.4
+:star: 6.6
 
 > This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought - from the criminal to the philosophical.
 
@@ -377,14 +379,14 @@
 * [_IMDb_](https://www.imdb.com/title/tt2292707/)
 
 #### Hackers: Outlaws and Angels
-:star: 6.2
+:star: 6.3
 
 * Year: 2002
 * Country: UK
 * [_IMDb_](https://www.imdb.com/title/tt1977808/)
 
 #### Hackers Are People Too
-:star: 6
+:star: 5.9
 
 > Hackers do laundry. Hackers like movies. Hackers are people and could be your neighbors, your brother, your friends. Presenting a portrait of the hacking community, created by the community themselves, this film breaks down negative stereotypes by letting hackers show you that they are really no different from anyone else. Delving into areas such as the way hackers think, what is hacking, hackers in the media, and women in the security/hacking field, this film will have you questioning your ideas about what a 'hacker' really is.
 
@@ -394,7 +396,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1279942/)
 
 #### DEFCON: The Documentary
-:star: 5.8
+:star: 5.7
 
 > DEFCON is the world's largest hacking conference, held in Las Vegas, Nevada. In 2012 it was held for the 20th time. The conference has strict no-filming policies, but for DEFCON 20, a documentary crew was allowed full access to the event. The film follows the four days of the conference, the events and people (attendees and staff), and covers history and philosophy behind DEFCON's success and unique experience.
 
@@ -404,7 +406,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3010462/)
 
 #### War for the Web
-:star: 0
+:star: 6.6
 
 > War for the Web demystifies the physical infrastructure of the Internet and uses that as a basis to explore the issues of ownership and competition in the broadband marketplace, privacy, and security.
 
@@ -421,6 +423,26 @@
 * Year: 2010
 * Country: Germany
 * [_IMDb_](https://www.imdb.com/title/tt1769296/)
+
+#### Indie Game: The Movie 
+:star: Indie_Game_The_Movie_Score
+
+> Indie Game: The Movie is a documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.
+
+![Indie_Game_The_Movie](../assets/indie_game_the_movie.jpg)
+* Year: 2012
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt1942884/)
+
+#### Indie Game: Life After
+:star: 5.7
+
+> Indie Game: Life After is a collection of short documentaries following the people and projects from Indie Game: The Movie in the years following that film's release.
+
+![Indie_Game_Life_After](../assets/indie_game_life_after.jpg)
+* Year: 2016
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt5998218/)
 
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.

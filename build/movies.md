@@ -7,9 +7,9 @@
 
 ## Contents
 
-- [Documentary](build/documentary.md)
-- [TV Series](build/tv_series.md)
-- [Movies](build/movies.md)
+- [Documentary](documentary.md)
+- [TV Series](tv_series.md)
+- [Movies](movies.md)
 
 - [8.5-8.9 :star:](#_85-89)
   - [Matrix](#matrix)
@@ -29,6 +29,7 @@
   - [Who am I](#who-am-i)
   - [Ready Player One](#ready-player-one)
 - [7.0-7.5 :star:](#_70-75)
+  - [Upgrade](#upgrade)
   - [Pi](#pi)
   - [23](#23)
   - [Snowden](#snowden)
@@ -66,6 +67,7 @@
 - [6.0 - 6.5 :star:](#_60-65)
   - [Takedown](#takedown)
   - [The Internship](#the-internship)
+  - [The Hummingbird Project](#the-hummingbird-project)
   - [Transcendence](#transcendence)
   - [Computer Chess](#computer-chess)
   - [Untraceable](#untraceable)
@@ -102,7 +104,7 @@
 
 ### 8.5-8.9
 
-#### Matrix5.98.7
+#### Matrix68.7
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
@@ -137,7 +139,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0268978/)
 
 #### Ghost in the shell 
-:star: 8 
+:star: 7.9 
 
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
@@ -182,7 +184,7 @@
 ([@greybax](https://github.com/greybax))
 
 #### Office Space 
-:star: 7.8
+:star: 7.7
 
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
@@ -231,8 +233,8 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
-#### Who am I - No system is safe. 
-:star: 7.6 
+#### Who am I
+:star: 7.5 
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
@@ -242,7 +244,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3042408/)
 
 #### Ready Player One 
-:star: 7.5 
+:star: 7.4 
 
 > When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
 
@@ -253,8 +255,32 @@
 
 ### 7.0-7.5
 
+#### Free Guy 
+:star: 7.1
+
+> A bank teller discovers that he's actually an NPC inside a brutal, open world video game.
+
+![Free_Guy](../assets/free_guy.jpg)
+* Year: 2021
+* Country: USA, Canada
+* [_IMDb_](https://www.imdb.com/title/tt6264654/)
+
+   - Such a good laugh and lots of references.
+([@Ganzabahl](https://github.com/Ganzabahl))
+
+
+#### Upgrade
+:star: 7.5
+
+> Set in the near-future, technology controls nearly all aspects of life. But when the world of Grey, a self-labeled technophobe, is turned upside down, his only hope for revenge is an experimental computer chip implant. 
+
+![Upgrade](../assets/upgrade.jpg)
+* Year: 2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt6499752/)
+
 #### Pi 
-:star: 7.4
+:star: 7.3
 
 > A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
 
@@ -264,7 +290,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0138704/)
 
 #### 23 
-:star: 7.3 
+:star: 7.2 
 
 > The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's "Illuminatus", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.
 
@@ -284,7 +310,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
 
 #### Cyberbully 
-:star: 6.9 
+:star: 6.8 
 
 > A British teenager is forced by a computer hacker to do his bidding. If she refuses, the hacker will leak compromising photos of her to the public.
 
@@ -353,7 +379,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0234215/)
 
 #### Alphaville 
-:star: 7.2 
+:star: 7 
 
 > A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
 
@@ -384,7 +410,7 @@
 
 
 #### Artificial Intelligence: AI
-:star: 7.1 
+:star: 7.2 
 
 > A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
 
@@ -394,7 +420,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: 7.2 
+:star: In_the_Realm_of_the_6.2 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -423,7 +449,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0139809/)
 
 #### Real Genius 
-:star: 7 
+:star: 6.9 
 
 > Teenage geniuses deal with their abilities while developing a laser.
 
@@ -435,7 +461,7 @@
 ### 6.5-6.9
 
 #### Primer
-:star: 6.9 
+:star: 6.8 
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 
@@ -465,7 +491,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0120907/)
 
 #### TRON
-:star: 6.8 
+:star: 6.7 
 
 > A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
 
@@ -525,7 +551,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0090305/)
 
 #### Foolproof
-:star: 6.5 
+:star: 6.4 
 
 > Kevin, Sam and Rob are founding members of a theoretical group which pulls off heists. Leo, a gangster, blackmails them into pulling off a real multi-million dollar heist. Now it's up to them to get out alive.
 
@@ -535,7 +561,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0356614/)
 
 #### Middle Men 
-:star: 6.6 
+:star: 6.8 
 
 > Chronicles Jack Harris, one of the pioneers of internet commerce, as he wrestles with his morals, and struggles not to drown in a sea of con men, mobsters, drug addicts, and porn stars.
 
@@ -594,7 +620,7 @@
 ### 6.0-6.5
 
 #### Takedown 
-:star: 6.3 
+:star: 6.2 
 
 > This film is based on the story of the capture of computer hacker "Kevin Mitnick".
 
@@ -615,6 +641,16 @@
    - This movie inspired me that nothing is impossible. If you work hard and believe you will get what you want as main heroes of this film. 
 ([@greybax](https://github.com/greybax))
 
+#### The Hummingbird Project
+:star: The_Hummingbird_Project_Score
+
+> A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.
+
+![The Hummingbird Projec](assets/the_hummingbird_project.jpg)
+* Year: 2018
+* Country: Canada, Belgium
+* [_IMDb_](https://www.imdb.com/title/tt6866224)
+
 #### Transcendence
 :star: Transcendence_Score 
 
@@ -626,7 +662,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2209764)
 
 #### Computer Chess
-:star: 6.3 
+:star: 6.2 
 
 > A 1980s-set story centered around a man vs. machine chess tournament.
 
@@ -656,7 +692,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
 
 #### Hackers
-:star: 6.2
+:star: Hackers_Score
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
@@ -676,7 +712,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1837703/)
 
 #### One Point O
-:star: 6.1 
+:star: 6 
 
 > After receiving mysterious empty packages inside his apartment, a young computer-programmer begins a personal investigation into their origins.
 
@@ -706,7 +742,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0109635/)
 
 #### The Computer Wore Tennis Shoes
-:star: 6.1
+:star: 5.9
 
 > Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like the illegal business Arno is involved in.
 
@@ -738,7 +774,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0113957/)
 
 #### Gamer
-:star: 5.8 
+:star: 5.7 
 
 > In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?
 
@@ -758,7 +794,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0408345/)
 
 #### Purpose
-:star: 5.6 
+:star: 5.3 
 
 > A software developer becomes a billionaire and is distracted by fame, greed and power, then must save his invention and company from a hostile takeover.
 
@@ -768,7 +804,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0257019/)
 
 #### Virtuosity
-:star: 5.6
+:star: 5.5
 
 > A virtual-reality serial killer manages to escape into the real world.
 
@@ -820,7 +856,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2782834)
 
 #### Open Windows
-:star: 5.2 
+:star: 5.1 
 
 > A jilted fan soon finds himself pulled into a deadly game of cat-and-mouse after he accepts the opportunity to spy on his favorite actress via his laptop.
 
@@ -841,7 +877,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star: 4.6 
+:star: 4.5 
 
 ![Startap](../assets/startap.jpg)
 * Year: 2014
@@ -869,7 +905,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2769184)
 
 #### Reboot
-:star: 4.1 
+:star: 4 
 
 > A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
 
@@ -901,13 +937,14 @@
 
 
 #### Y2K
-:star: 3.2 
+:star: 3.4 
 
 > It's millennium eve. At the stroke of midnight the Y2K computer bug kicks in, causing widespread chaos in the US.
 
 * Year: 1999
 * Country: USA, Canada
 * [_IMDb_](https://www.imdb.com/title/tt0215370/)
+
 
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.

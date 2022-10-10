@@ -7,9 +7,9 @@
 
 ## Contents
 
-- [Movies](build/movies.md)
-- [Documentary](build/documentary.md)
-- [TV Series](build/tv_series.md)
+- [Movies](movies.md)
+- [Documentary](documentary.md)
+- [TV Series](tv_series.md)
 
 - [8.5-8.9 :star:](#_85-89)
   - [Black Mirror](#black-mirror)
@@ -20,15 +20,20 @@
 - [8.0-8.5 :star:](#_80-85)
   - [Halt and Catch Fire](#halt-and-catch-fire)
   - [Chuck](#chuck)
+- [7.5-7.9 :star:](#_75-79)
+  - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
+- [6.5-6.9 :star:](#_65-69)
+  - [.hack//SIGN](#hack_SIGN)
+  - [Loaded](#Loaded)
 - [6.0-6.5 :star:](#_60-65)
   - [.hack//Roots](#hack_roots)
 
 ### 8.5-8.9
 
 #### Black Mirror
-:star: 8.9
+:star: 8.8
 
 > A television anthology series that shows the dark side of life and technology.
 
@@ -68,7 +73,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2575988/)
 
 #### Person of Interest
-:star: 8.4
+:star: 8.5
 
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
 
@@ -80,7 +85,7 @@
 ### 8.0-8.5
 
 #### Halt and Catch Fire
-:star: Halt_And_Catch_Score
+:star: 8.4
 
 > Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
 
@@ -99,6 +104,18 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0934814/)
 
+### 7.5-7.9
+
+#### Inside Bill's Brain: Decoding Bill Gates
+:star: 7.8
+
+> A documentary that tells Bill Gates' life story as he pursues solutions to some of the world's most complex problems.
+
+![inside-bills-brain-decoding-bill-gates](../assets/decoding-bill-gates.jpg)
+* Year: 2019-
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt10837476/)
+
 ### 7.0-7.5
 
 #### The Lone Gunmen
@@ -111,10 +128,32 @@
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0243069)
 
+### 6.5-6.9
+
+#### .hack//SIGN
+:star: 6.8
+
+> It is the year 2010. After the great network crash of 2005, online entertainment was restricted. Two years after, the CC Corporation released the first Massively Multiplayer Online Role Playing game since the incident. The extremely popular game, called "The World" sells millions of copies. And when that many are playing, things are bound to go wrong. A mysterious boy, who calls himself Tsukasa, appears. He is very mysterious, and he claims that he is actually alive in real world, but not in front of a terminal. He is branded an illegal player by the Crimson Knights, and is pursued..
+
+![hack_SIGN](../assets/hack_sign.jpg)
+* Year: 2002-2003
+* Country: Japan
+* [_IMDb_](https://www.imdb.com/title/tt0361140/)
+
+#### Loaded
+:star: 6.6
+
+> Four friends who become multi-millionaires when they sell their video game company for a clean £246 million and overnight, the four friends are transformed from "people who play games" to "serious players in the game..." - or are they?
+
+![Loaded](../assets/Loaded.jpg)
+* Year: 2017
+* Country: UK
+* [_IMDb_](https://www.imdb.com/title/tt6210192/)
+
 ### 6.0-6.5
 
 #### .hack//Roots
-:star: 6.6
+:star: 6.1
 
 > In 2015, CC Corporation's data-center caught on fire destroying "The World". By splicing in data from what would have been another project, CC Corp. was able to rebuild the game. In 2016, "The World R:2" was released. .hack//Roots covers the time Haseo spent with Shino and Ovan in the guild known as the Twilight Brigade, before the .hack//G.U. PS2 games.
 

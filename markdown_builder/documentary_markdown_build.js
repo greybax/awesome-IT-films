@@ -2,7 +2,7 @@ const fs = require('fs');
 const imdb = require('imdb-api');
 const storage = require('../build/documentary_storage.json');
 const keys = Object.keys(storage);
-require('dotenv').load();
+require('dotenv').config({path:'.env'});
 
 // update documentary_storage.js based on changes from documentary_prebuilt.md
 fs.readFile('./documentary_prebuilt.md', 'utf8', (err, data) => {
