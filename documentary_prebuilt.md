@@ -28,6 +28,7 @@
   - [Code 2600](#code-2600)
   - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
 - [7.0-7.5 :star:](#_70-75)
+  - [The Code](#the-code)
   - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
   - [The Singularity](#the-singularity)
   - [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
@@ -206,6 +207,16 @@
 
 
 ### 7.0-7.5
+
+#### The Code
+:star: The_Code
+
+> The Code is an English-language Finnish documentary about GNU/Linux, featuring some of the most influential people of the free software (FOSS) movement.
+
+![The_Code](../assets/the_code.jpg)
+* Year: 2001
+* Country: Finland
+* [_IMDb_](https://www.imdb.com/title/tt0315417/)
 
 #### We Are Legion: The Story of the Hacktivists
 :star: We_Are_Legion_Score
