@@ -27,6 +27,7 @@
   - [Secret History of Hacking](#secret-history-of-hacking)
   - [Code 2600](#code-2600)
   - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
+  - [Video Game High School](https://www.imdb.com/title/tt2170584/)
 - [7.0-7.5 :star:](#_70-75)
   - [The Code](#the-code)
   - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
@@ -205,6 +206,15 @@
 * Country: UK
 * [_IMDb_](https://www.imdb.com/title/tt5818010/)
 
+#### Video Game High School
+:star: Video_Game_High_School
+
+>In a futuristic world where gaming is the top sport, a teenager attends a school which specializes in a curriculum of video games in each genre.
+
+![Video_Game_High_School](../assets/video_game_high_school.jpg)
+* Year: 2012
+* Country: United States
+* [_IMDb_](https://www.imdb.com/title/tt2170584/)
 
 ### 7.0-7.5
 
