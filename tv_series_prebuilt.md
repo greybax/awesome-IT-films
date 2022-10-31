@@ -24,6 +24,7 @@
   - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
+  - [Scorpion](#scorpion)
 - [6.5-6.9 :star:](#_65-69)
   - [.hack//SIGN](#hack_SIGN)
   - [Loaded](#Loaded)
@@ -127,6 +128,16 @@
 * Year: 2001-
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0243069)
+
+#### Scorpion
+:star: Scorpion_Score
+
+> An eccentric genius forms an international network of super-geniuses to act as the last line of defense against the complicated threats of the modern world.
+
+![Scorpion](../assets/scorpion.jpg)
+* Year: 2014–2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt3514324)
 
 ### 6.5-6.9
 
