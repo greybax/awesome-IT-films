@@ -27,7 +27,9 @@
   - [Secret History of Hacking](#secret-history-of-hacking)
   - [Code 2600](#code-2600)
   - [Hackers: Wizards of the Electronic Age](#hackers-wizards-of-the-electronic-age)
+  - [Video Game High School](https://www.imdb.com/title/tt2170584/)
 - [7.0-7.5 :star:](#_70-75)
+  - [The Code](#the-code)
   - [We Are Legion: The Story of the Hacktivists](#we-are-legion-the-story-of-the-hacktivists)
   - [The Singularity](#the-singularity)
   - [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
@@ -68,7 +70,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0115398/)
 
 #### The KGB, the Computer and Me
-:star: 7.8
+:star: 7.9
 
 > In 1986, astronomer turned computer scientist Clifford Stoll had just started working on a computer system at the Lawrence Berkeley Laboratory when he noticed a 75-cent discrepancy between the charges printed by two accounting programs responsible for charging people for machine use. Intrigued, he deduced that the system was being hacked, and he determined to find the culprit. This is the re-enactment of how he tracked down KGB cracker Markus Hess through the Ethernet to Hannover, Germany, as is told in his best-selling book _ The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage_ (1989). Stoll has become a celebrity for being, as he terms himself, "a computer contrarian."
 
@@ -149,7 +151,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1942884/)
 
 #### Freedom Downtime
-:star: 7.3
+:star: 7.4
 
 > A feature length documentary about the Free Kevin movement and the hacker world.
 
@@ -204,8 +206,25 @@
 * Country: UK
 * [_IMDb_](https://www.imdb.com/title/tt5818010/)
 
+#### Vide7.6Video_Game_High_School
+
+>In a futuristic world where gaming is the top sport, a teenager attends a school which specializes in a curriculum of video games in each genre.
+
+![Video_Game_High_School](../assets/video_game_high_school.jpg)
+* Year: 2012
+* Country: United States
+* [_IMDb_](https://www.imdb.com/title/tt2170584/)
 
 ### 7.0-7.5
+
+#### The 7.5The_Code
+
+> The Code is an English-language Finnish documentary about GNU/Linux, featuring some of the most influential people of the free software (FOSS) movement.
+
+![The_Code](../assets/the_code.jpg)
+* Year: 2001
+* Country: Finland
+* [_IMDb_](https://www.imdb.com/title/tt0315417/)
 
 #### We Are Legion: The Story of the Hacktivists
 :star: We_Are_Legion_Score
@@ -258,7 +277,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0308808/)
 
 #### We Live in Public
-:star: 7.2
+:star: 7.1
 
 > A documentary focusing on the life of dot-com entrepreneur Josh Harris, and his exploits over the last decade.
 
@@ -278,7 +297,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0256408/)
 
 #### Deep Web
-:star: 7
+:star: 6.9
 
 > A feature documentary that explores the rise of a new Internet; decentralized, encrypted, dangerous and beyond the law.
 
@@ -341,7 +360,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1370889/)
 
 #### Silicon Cowboys
-:star: 6.8
+:star: 6.9
 
 > Three friends dream up the Compaq portable computer at a Texas diner in 1981, and soon find themselves battling mighty IBM, for PC supremacy. Their improbable journey altered the future of computing and shaped the world we now know.
 
@@ -351,7 +370,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt4938484/)
 
 #### Home Page
-:star: 6.8
+:star: 6.9
 
 * Year: 1998
 * Country: Germany, USA
@@ -396,7 +415,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1279942/)
 
 #### DEFCON: The Documentary
-:star: 5.7
+:star: 5.8
 
 > DEFCON is the world's largest hacking conference, held in Las Vegas, Nevada. In 2012 it was held for the 20th time. The conference has strict no-filming policies, but for DEFCON 20, a documentary crew was allowed full access to the event. The film follows the four days of the conference, the events and people (attendees and staff), and covers history and philosophy behind DEFCON's success and unique experience.
 

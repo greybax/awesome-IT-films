@@ -185,7 +185,7 @@
 ([@greybax](https://github.com/greybax))
 
 #### Office Space 
-:star: 7.7
+:star: 7.6
 
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
 
@@ -235,7 +235,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1433811/)
 
 #### Who am I
-:star: 7.5 
+:star: 7.4 
 
 > Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.
 
@@ -321,7 +321,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3774114/)
 
 #### Cyberbully 
-:star: 6.8 
+:star: 6.7 
 
 > A British teenager is forced by a computer hacker to do his bidding. If she refuses, the hacker will leak compromising photos of her to the public.
 
@@ -431,7 +431,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0212720/)
 
 #### In the Realm of the Hackers 
-:star: In_the_Realm_of_the_6.2 
+:star: 7 
 
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
 
@@ -472,7 +472,7 @@
 ### 6.5-6.9
 
 #### Primer
-:star: 6.8 
+:star: 6.7 
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 
@@ -522,7 +522,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1104001/)
 
 #### Underground: The Julian Assange Story
-:star: 6.7 
+:star: 6.6 
 
 > A look at the early career of Wikileaks founder, Julian Assange.
 
@@ -703,7 +703,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt3173594)
 
 #### Hackers
-:star: Hackers_Score
+:star: 6.2
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
@@ -723,7 +723,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt1837703/)
 
 #### One Point O
-:star: 6 
+:star: 5.9 
 
 > After receiving mysterious empty packages inside his apartment, a young computer-programmer begins a personal investigation into their origins.
 
@@ -743,7 +743,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0218817/)
 
 #### Disclosure
-:star: 6.1 
+:star: 6.2 
 
 > A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.
 
@@ -753,7 +753,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0109635/)
 
 #### The Computer Wore Tennis Shoes
-:star: 5.9
+:star: 6
 
 > Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like the illegal business Arno is involved in.
 
@@ -775,7 +775,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2357129/)
 
 #### The Net
-:star: 5.9 
+:star: 6 
 
 > A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.
 
@@ -805,7 +805,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt0408345/)
 
 #### Purpose
-:star: 5.3 
+:star: 5.2 
 
 > A software developer becomes a billionaire and is distracted by fame, greed and power, then must save his invention and company from a hostile takeover.
 
@@ -888,7 +888,7 @@
 ### 4.0-4.5
 
 #### Startap
-:star: 4.5 
+:star: 4.7 
 
 ![Startap](../assets/startap.jpg)
 * Year: 2014
@@ -916,7 +916,7 @@
 * [_IMDb_](https://www.imdb.com/title/tt2769184)
 
 #### Reboot
-:star: 4 
+:star: 3.9 
 
 > A young female hacker awakens from a traumatic event that she scarcely remembers, and an iPhone glued to her hand. On the phone, a countdown is ticking away to zero. What happens at zero? Who is she, and why has she become an extension of the device? As the minutes tick away, our heroine must race against time to put the pieces together before the mysterious, pending zero-hour strikes.
 

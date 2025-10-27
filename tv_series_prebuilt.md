@@ -21,6 +21,7 @@
   - [Halt and Catch Fire](#halt-and-catch-fire)
   - [Chuck](#chuck)
 - [7.5-7.9 :star:](#_75-79)
+  - [Devs](#devs)
   - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
@@ -106,6 +107,16 @@
 * [_IMDb_](https://www.imdb.com/title/tt0934814/)
 
 ### 7.5-7.9
+
+#### Devs 
+:star: Devs_Score
+
+> A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend. 
+
+![devs](../assets/devs.jpg)
+* Year: 2020
+* Country: UK, USA 
+* [_IMDb_](https://www.imdb.com/title/tt8134186/)
 
 #### Inside Bill's Brain: Decoding Bill Gates
 :star: Decoding_Bill_Gates_Score
