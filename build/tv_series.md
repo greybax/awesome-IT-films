@@ -21,9 +21,11 @@
   - [Halt and Catch Fire](#halt-and-catch-fire)
   - [Chuck](#chuck)
 - [7.5-7.9 :star:](#_75-79)
+  - [Devs](#devs)
   - [Inside Bill's Brain: Decoding Bill Gates](#inside-bills-brain-decoding-bill-gates)
 - [7.0-7.5 :star:](#_70-75)
   - [The Lone Gunmen](#the-lone-gunmen)
+  - [Scorpion](#scorpion)
 - [6.5-6.9 :star:](#_65-69)
   - [.hack//SIGN](#hack_SIGN)
   - [Loaded](#Loaded)
@@ -33,7 +35,7 @@
 ### 8.5-8.9
 
 #### Black Mirror
-:star: 8.8
+:star: 8.7
 
 > A television anthology series that shows the dark side of life and technology.
 
@@ -106,6 +108,16 @@
 
 ### 7.5-7.9
 
+#### Devs 
+:star: 7.6
+
+> A computer engineer investigates the secretive development division in her company, which she believes is behind the disappearance of her boyfriend. 
+
+![devs](../assets/devs.jpg)
+* Year: 2020
+* Country: UK, USA 
+* [_IMDb_](https://www.imdb.com/title/tt8134186/)
+
 #### Inside Bill's Brain: Decoding Bill Gates
 :star: 7.8
 
@@ -127,6 +139,16 @@
 * Year: 2001-
 * Country: Canada, USA
 * [_IMDb_](https://www.imdb.com/title/tt0243069)
+
+#### Scorpion
+:star: Scorpion_Score
+
+> An eccentric genius forms an international network of super-geniuses to act as the last line of defense against the complicated threats of the modern world.
+
+![Scorpion](../assets/scorpion.jpg)
+* Year: 2014–2018
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt3514324)
 
 ### 6.5-6.9
 
@@ -153,7 +175,7 @@
 ### 6.0-6.5
 
 #### .hack//Roots
-:star: 6.1
+:star: 6
 
 > In 2015, CC Corporation's data-center caught on fire destroying "The World". By splicing in data from what would have been another project, CC Corp. was able to rebuild the game. In 2016, "The World R:2" was released. .hack//Roots covers the time Haseo spent with Shino and Ovan in the guild known as the Twilight Brigade, before the .hack//G.U. PS2 games.
 
