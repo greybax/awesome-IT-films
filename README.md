@@ -32,6 +32,10 @@ Your contributions are always welcome! Please take a look at the [contribution g
 * [Open Source Developer Podcast](https://anchor.fm/opensourcedeveloperpod/episodes/The-Razzle-Dazzle-of-RasDash-e3vqee/a-aeo394)
 * [Blog post alfilatov.com: Let's make "Awesome IT Films" popular again!](https://alfilatov.com/posts/lets-make-awesome-it-films-popular-again/)
 
+## Film Festivals & Events
+
+* [Bitcoin FilmFest 🐰🎬](https://bitcoinfilmfest.com/) - Annual Bitcoin-only film festival exploring financial freedom and peer-to-peer networks through cinema. June 4-7, Warsaw, Poland.
+
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
