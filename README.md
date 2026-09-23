@@ -34,7 +34,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Film Festivals & Events
 
-* [Bitcoin FilmFest 🐰🎬](https://bitcoinfilmfest.com/) - Annual Bitcoin-only film festival exploring financial freedom and peer-to-peer networks through cinema. June 4-7, Warsaw, Poland.
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
